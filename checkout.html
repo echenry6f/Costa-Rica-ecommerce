@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Checkout — Ticora Store. Delivery via Correos de Costa Rica.">
+  <title>Checkout — Ticora Store</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container header-inner">
+      <a href="/" class="logo">Ticora</a>
+      <nav class="nav">
+        <a href="/">Home</a>
+        <a href="/#products">Products</a>
+        <a href="/#about">About</a>
+        <a href="cart.html" class="cart-link">
+          Cart <span id="cart-count" class="cart-badge">0</span>
+        </a>
+      </nav>
+      <button class="nav-toggle" aria-label="Open menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <main class="checkout-page">
+    <div class="container">
+      <h1>Checkout</h1>
+      <p class="checkout-intro">Delivery via Correos de Costa Rica. Complete all fields below to unlock payment.</p>
+
+      <div id="checkout-empty" class="checkout-empty hidden">
+        <p>Your cart is empty.</p>
+        <a href="/#products" class="btn btn-primary">Browse Products</a>
+      </div>
+
+      <div id="checkout-content">
+        <form id="delivery-form" class="checkout-form">
+          <div class="checkout-grid">
+            <div class="checkout-main">
+              <fieldset class="form-section">
+                <legend>Contact</legend>
+                <div class="form-group">
+                  <label for="email">Email</label>
+                  <input type="email" id="email" name="email" required placeholder="tu@ejemplo.com" inputmode="email">
+                </div>
+              </fieldset>
+
+              <fieldset class="form-section">
+                <legend>Correos de Costa Rica — Delivery Info (Required)</legend>
+                <div class="form-group">
+                  <label for="fullName">Full name</label>
+                  <input type="text" id="fullName" name="fullName" required placeholder="Nombre completo">
+                </div>
+                <div class="form-group">
+                  <label for="cedula">Cédula</label>
+                  <input type="text" id="cedula" name="cedula" required placeholder="ID / Cédula" inputmode="numeric">
+                </div>
+                <div class="form-group">
+                  <label for="phone">Phone</label>
+                  <input type="tel" id="phone" name="phone" required placeholder="8888 8888" inputmode="tel">
+                </div>
+                <div class="form-group">
+                  <label for="province">Province</label>
+                  <select id="province" name="province" required>
+                    <option value="">Select province</option>
+                    <option value="San José">San José</option>
+                    <option value="Alajuela">Alajuela</option>
+                    <option value="Cartago">Cartago</option>
+                    <option value="Heredia">Heredia</option>
+                    <option value="Guanacaste">Guanacaste</option>
+                    <option value="Puntarenas">Puntarenas</option>
+                    <option value="Limón">Limón</option>
+                  </select>
+                </div>
+                <div class="form-group">
+                  <label for="canton">Canton</label>
+                  <input type="text" id="canton" name="canton" required placeholder="Cantón">
+                </div>
+                <div class="form-group">
+                  <label for="exactAddress">Exact address (Correos format)</label>
+                  <textarea id="exactAddress" name="exactAddress" required rows="3" placeholder="Dirección exacta para Correos"></textarea>
+                </div>
+                <div class="form-group">
+                  <label for="wazePinUrl">Waze Pin URL <span class="required-hint">(required)</span></label>
+                  <input type="url" id="wazePinUrl" name="wazePinUrl" required placeholder="https://waze.com/ul/... or https://waze.app/..."
+                    inputmode="url">
+                  <p class="form-hint">Must include waze.com or waze.app</p>
+                </div>
+                <button type="submit" class="btn btn-primary">Save Delivery Info & Unlock Payment</button>
+              </fieldset>
+            </div>
+
+            <aside class="checkout-sidebar">
+              <div class="order-summary">
+                <h3>Order Summary</h3>
+                <div id="checkout-items" class="checkout-items"></div>
+                <div class="summary-row">
+                  <span>Subtotal</span>
+                  <span id="checkout-subtotal">₡0</span>
+                </div>
+                <div class="summary-row total">
+                  <span>Total</span>
+                  <span id="checkout-total">₡0</span>
+                </div>
+              </div>
+
+              <div id="payment-section" class="payment-section hidden">
+                <h3>Payment</h3>
+                <p class="payment-unlocked">Delivery requirements complete. Choose payment method:</p>
+                <button type="button" id="pay-stripe" class="btn btn-stripe">
+                  Pay with Card (Stripe)
+                </button>
+                <button type="button" id="pay-paypal" class="btn btn-paypal">
+                  Pay with PayPal
+                </button>
+                <p class="payment-disclaimer">Demo: payments are simulated. Connect Stripe & PayPal for production.</p>
+              </div>
+            </aside>
+          </div>
+        </form>
+      </div>
+
+      <div id="checkout-success" class="checkout-success hidden">
+        <h2>¡Gracias!</h2>
+        <p>Your order has been received. We'll send a confirmation to your email shortly.</p>
+        <p class="whatsapp-hint">Questions? Contact us on WhatsApp.</p>
+        <a href="/" class="btn btn-primary">Continue Shopping</a>
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; Ticora Store. ticora.store</p>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="js/supabase-config.js"></script>
+  <script src="js/supabase.js"></script>
+  <script src="js/products.js"></script>
+  <script src="js/cart.js"></script>
+  <script src="js/checkout.js"></script>
+</body>
+</html>

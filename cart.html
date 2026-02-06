@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Your cart — Ticora Store">
+  <title>Cart — Ticora Store</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container header-inner">
+      <a href="/" class="logo">Ticora</a>
+      <nav class="nav">
+        <a href="/">Home</a>
+        <a href="/#products">Products</a>
+        <a href="/#about">About</a>
+        <a href="cart.html" class="cart-link">
+          Cart <span id="cart-count" class="cart-badge">0</span>
+        </a>
+      </nav>
+      <button class="nav-toggle" aria-label="Open menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <main class="cart-page">
+    <div class="container">
+      <h1>Your Cart</h1>
+      <div id="cart-empty" class="cart-empty">
+        <p>Your cart is empty.</p>
+        <a href="/#products" class="btn btn-primary">Browse Products</a>
+      </div>
+      <div id="cart-content" class="cart-content hidden">
+        <div class="cart-items" id="cart-items">
+          <!-- Cart items injected by JS -->
+        </div>
+        <div class="cart-summary">
+          <div class="summary-row">
+            <span>Subtotal</span>
+            <span id="cart-subtotal">$0.00</span>
+          </div>
+          <div class="summary-row total">
+            <span>Total</span>
+            <span id="cart-total">$0.00</span>
+          </div>
+          <a href="checkout.html" class="btn btn-primary btn-block">Proceed to Checkout</a>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; Ticora Store. ticora.store</p>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="js/supabase-config.js"></script>
+  <script src="js/supabase.js"></script>
+  <script src="js/products.js"></script>
+  <script src="js/cart.js"></script>
+  <script src="js/cart-page.js"></script>
+</body>
+</html>

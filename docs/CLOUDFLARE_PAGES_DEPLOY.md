@@ -31,7 +31,7 @@ Automatically deploys on every push to `main`.
 1. Go to [Cloudflare Dashboard](https://dash.cloudflare.com) → **Workers & Pages**
 2. Click **Create application** → **Pages** → **Connect to Git**
 3. Choose **GitHub** and authorize Cloudflare
-4. Select your project: **echenry6-group/costa-rica-ecommerce**
+4. Select your project: **echenry6f/Costa-Rica-ecommerce**
 5. Click **Install & Authorize** → **Begin setup**
 
 ### Step 2: Configure build settings

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Manage Products — Ticora Store</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container header-inner">
+      <a href="/" class="logo">Ticora</a>
+      <nav class="nav">
+        <a href="/">Store</a>
+        <a href="admin.html">Manage Products</a>
+      </nav>
+      <button class="nav-toggle" aria-label="Open menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <main class="admin-page">
+    <div class="container">
+      <h1>Manage Products</h1>
+      <p class="admin-intro">Add, edit, or remove products. Changes appear on the store immediately.</p>
+
+      <div class="admin-form-section">
+        <h2 id="form-title">Add Product</h2>
+        <form id="product-form" class="admin-form">
+          <input type="hidden" id="product-id" name="id">
+          <div class="form-row">
+            <div class="form-group">
+              <label for="name">Product name</label>
+              <input type="text" id="name" name="name" required placeholder="e.g. Tarrazú Coffee">
+            </div>
+            <div class="form-group">
+              <label for="category">Category</label>
+              <input type="text" id="category" name="category" required placeholder="e.g. Coffee, Handcrafts">
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-group">
+              <label for="price">Price (CRC)</label>
+              <input type="number" id="price" name="price" required min="1" step="1" placeholder="13000" inputmode="numeric">
+            </div>
+            <div class="form-group">
+              <label for="emoji">Emoji / icon</label>
+              <input type="text" id="emoji" name="emoji" placeholder="☕ (optional)" maxlength="4">
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="description">Description</label>
+            <textarea id="description" name="description" rows="2" placeholder="Optional product description"></textarea>
+          </div>
+          <div class="form-actions">
+            <button type="submit" class="btn btn-primary">Save Product</button>
+            <button type="button" id="cancel-edit" class="btn btn-secondary hidden">Cancel</button>
+          </div>
+        </form>
+      </div>
+
+      <div class="admin-products-section">
+        <h2>Your Products</h2>
+        <div id="products-list" class="admin-products-list">
+          <!-- Products injected by JS -->
+        </div>
+        <div id="products-empty" class="admin-empty">
+          <p>No products yet. Add your first product above.</p>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; Ticora Store. ticora.store</p>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="js/supabase-config.js"></script>
+  <script src="js/supabase.js"></script>
+  <script src="js/products.js"></script>
+  <script src="js/admin.js"></script>
+</body>
+</html>

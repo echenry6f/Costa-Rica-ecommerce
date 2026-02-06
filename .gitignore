@@ -18,6 +18,9 @@ out/
 *.swp
 *.swo
 
+# Docs / misc
+.github/workflows/Chat GPT summary
+
 # OS
 .DS_Store
 Thumbs.db

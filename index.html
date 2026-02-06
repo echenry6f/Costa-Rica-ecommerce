@@ -3,10 +3,81 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ticora Store</title>
+  <meta name="description" content="Ticora Store — Authentic Costa Rica goods: specialty coffee, handcrafted art, and sustainable products.">
+  <title>Ticora Store — Costa Rica E-commerce</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-  <h1>Welcome to Ticora Store</h1>
-  <p>Your Costa Rica e-commerce site — coming soon.</p>
+  <header class="header">
+    <div class="container header-inner">
+      <a href="/" class="logo">Ticora</a>
+      <nav class="nav">
+        <a href="/">Home</a>
+        <a href="/#products">Products</a>
+        <a href="/#about">About</a>
+        <a href="admin.html">Manage Products</a>
+        <a href="cart.html" class="cart-link">
+          Cart <span id="cart-count" class="cart-badge">0</span>
+        </a>
+      </nav>
+      <button class="nav-toggle" aria-label="Open menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-content">
+        <h1>Pura Vida,<br>Delivered</h1>
+        <p>Authentic Costa Rica coffee, handcrafted art, and sustainable goods — straight to your door.</p>
+        <a href="/#products" class="btn btn-primary">Shop Now</a>
+      </div>
+      <div class="hero-pattern" aria-hidden="true"></div>
+    </section>
+
+    <section id="products" class="products">
+      <div class="container">
+        <h2>Products</h2>
+        <div id="products-empty" class="products-empty hidden">
+          <p>No products yet.</p>
+          <a href="admin.html" class="btn btn-primary">Add your first product</a>
+        </div>
+        <div class="product-grid" id="product-grid">
+          <!-- Products injected by JS -->
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="about">
+      <div class="container about-inner">
+        <div class="about-content">
+          <h2>From the Heart of Costa Rica</h2>
+          <p>Every item we sell supports local artisans and sustainable farms. We work directly with cooperatives in the Central Valley and coastal regions to bring you the finest coffee, ceramics, and textiles.</p>
+          <ul class="about-features">
+            <li>100% ethically sourced</li>
+            <li>Carbon-neutral shipping</li>
+            <li>Supporting rural communities</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; Ticora Store. ticora.store</p>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="js/supabase-config.js"></script>
+  <script src="js/supabase.js"></script>
+  <script src="js/products.js"></script>
+  <script src="js/cart.js"></script>
+  <script src="js/app.js"></script>
 </body>
 </html>
