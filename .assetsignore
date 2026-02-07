@@ -1,0 +1,10 @@
+node_modules/
+.git/
+*.md
+.env*
+wrangler.toml
+.assetsignore
+.github/
+supabase/
+package*.json
+run-supabase-setup.sh
