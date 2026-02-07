@@ -2,9 +2,8 @@ name = "ticora-store"
 compatibility_date = "2024-01-01"
 main = "worker.js"
 
-[[routes]]
-pattern = "ticora.store"
-custom_domain = true
+# Custom domain (ticora.store) is configured in Cloudflare dashboard → Worker → Triggers
+# Do not add [[routes]] here — it conflicts with existing DNS records
 
 [assets]
 directory = "."
