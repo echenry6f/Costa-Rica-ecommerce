@@ -9,3 +9,4 @@ worker.js
 supabase/
 package*.json
 run-supabase-setup.sh
+dns-records-ticora-store.*
