@@ -1,0 +1,3 @@
+Type,Name,Content,Proxy,TTL
+CNAME,@,ticora-store.echenry6.workers.dev,Proxied,Auto
+CNAME,www,ticora.store,Proxied,Auto

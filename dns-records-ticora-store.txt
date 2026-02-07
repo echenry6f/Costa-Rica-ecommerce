@@ -1,0 +1,21 @@
+ticora.store — DNS Records
+=========================
+Add these in Cloudflare: DNS → Records
+
+---
+Record 1: Apex domain (ticora.store)
+---
+Type:     CNAME
+Name:     @
+Content:  ticora-store.echenry6.workers.dev
+Proxy:    Proxied (orange cloud)
+TTL:      Auto
+
+---
+Record 2: www subdomain (optional)
+---
+Type:     CNAME
+Name:     www
+Content:  ticora.store
+Proxy:    Proxied (orange cloud)
+TTL:      Auto
