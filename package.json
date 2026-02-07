@@ -1,0 +1,15 @@
+{
+  "name": "ticora-store",
+  "version": "1.0.0",
+  "description": "Costa Rica e-commerce — Ticora Store",
+  "scripts": {
+    "db:migrate": "supabase db push",
+    "db:reset": "supabase db reset",
+    "supabase:start": "supabase start",
+    "supabase:stop": "supabase stop",
+    "supabase:status": "supabase status"
+  },
+  "devDependencies": {
+    "supabase": "^2.0.0"
+  }
+}

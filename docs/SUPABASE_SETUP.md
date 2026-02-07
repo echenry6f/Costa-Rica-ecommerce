@@ -15,6 +15,9 @@ Move your store to Supabase for persistent products and orders.
 
 ## 2. Run the schema
 
+**Option A — CLI** (recommended): See [SUPABASE_CLI.md](SUPABASE_CLI.md) for `npx supabase link` and `npx supabase db push`.
+
+**Option B — SQL Editor:**
 1. In your Supabase project, go to **SQL Editor**
 2. Create a new query
 3. Copy the contents of `supabase/schema.sql` from this repo
@@ -57,6 +60,20 @@ const SUPABASE_ANON_KEY = 'your-anon-key';
 2. Go to **Manage Products** and add a product
 3. Check Supabase **Table Editor** → `products` — your product should appear
 4. Complete a checkout — check `orders`, `order_items`, `order_delivery`
+
+---
+
+## Automatic migrations (GitHub Actions)
+
+Migrations run automatically when you push changes to `supabase/migrations/` on `main`.
+
+**One-time setup:**
+1. GitHub repo → **Settings** → **Secrets and variables** → **Actions**
+2. **New repository secret**
+3. Name: `SUPABASE_DB_URL`
+4. Value: `postgresql://postgres:YOUR_PASSWORD@db.YOUR_PROJECT_REF.supabase.co:5432/postgres`
+
+(Use values from `supabase-credentials.txt`.)
 
 ---
 

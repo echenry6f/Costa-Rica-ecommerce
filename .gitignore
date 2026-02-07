@@ -1,10 +1,14 @@
 # Dependencies
 node_modules/
 
+# Supabase
+supabase/.temp/
+
 # Environment
 .env
 .env.local
 .env.*.local
+supabase-credentials.txt
 
 # Build outputs
 dist/
