@@ -1,5 +1,3 @@
 // Ticora Store — Supabase config
-// Replace with your project URL and anon key from: https://supabase.com/dashboard/project/_/settings/api
-
-const SUPABASE_URL = 'https://your-project.supabase.co';
-const SUPABASE_ANON_KEY = 'your-anon-key';
+const SUPABASE_URL = 'https://wnfsukalmaycwdihumlb.supabase.co';
+const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InduZnN1a2FsbWF5Y3dkaWh1bWxiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzA0Mjc3MDUsImV4cCI6MjA4NjAwMzcwNX0._pngqv59gq-hlLDy2nWEtCzcdlUmZT94Q2lXRhfXaRU';
