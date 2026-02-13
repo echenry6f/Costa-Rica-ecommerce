@@ -17,15 +17,16 @@
       <a href="/" class="logo">Ticora</a>
       <nav class="nav">
         <a href="/">Store</a>
-        <a href="admin.html">Manage Products</a>
+        <a href="login.html?next=admin.html">Manage Products</a>
+        <button type="button" class="btn btn-secondary btn-small" id="admin-logout">Log out</button>
       </nav>
-      <button class="nav-toggle" aria-label="Open menu">
+      <button class="nav-toggle" aria-label="Open menu" aria-expanded="false">
         <span></span><span></span><span></span>
       </button>
     </div>
   </header>
 
-  <main class="admin-page">
+  <main class="admin-page hidden" id="admin-main">
     <div class="container">
       <h1>Manage Products</h1>
       <p class="admin-intro">Add, edit, or remove products. Changes appear on the store immediately.</p>
@@ -80,13 +81,24 @@
   <footer class="footer">
     <div class="container">
       <p>&copy; Ticora Store. ticora.store</p>
+      <p><a href="https://wa.me/506" class="footer-link" rel="noopener">Contact us on WhatsApp</a></p>
     </div>
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
   <script src="/js/supabase-config.js"></script>
   <script src="/js/supabase.js"></script>
+  <script src="/js/auth.js"></script>
   <script src="/js/products.js"></script>
   <script src="/js/admin.js"></script>
+  <script>
+    (async function() {
+      const session = await requireAdmin();
+      if (session) {
+        document.getElementById('admin-main').classList.remove('hidden');
+        document.getElementById('admin-logout').addEventListener('click', function() { signOut(); });
+      }
+    })();
+  </script>
 </body>
 </html>

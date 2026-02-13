@@ -9,8 +9,10 @@ document.addEventListener('DOMContentLoaded', async () => {
 function renderProducts() {
   const grid = document.getElementById('product-grid');
   const emptyEl = document.getElementById('products-empty');
+  const loadingEl = document.getElementById('products-loading');
   if (!grid) return;
 
+  loadingEl?.classList.add('hidden');
   const products = getProducts();
 
   if (products.length === 0) {
@@ -51,7 +53,12 @@ function setupNavToggle() {
   const toggle = document.querySelector('.nav-toggle');
   const header = document.querySelector('.header');
   if (toggle && header) {
-    toggle.addEventListener('click', () => header.classList.toggle('open'));
+    toggle.addEventListener('click', () => {
+      header.classList.toggle('open');
+      const open = header.classList.contains('open');
+      toggle.setAttribute('aria-expanded', open);
+      toggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+    });
   }
 }
 

@@ -9,6 +9,7 @@ supabase/.temp/
 .env.local
 .env.*.local
 supabase-credentials.txt
+admin-credentials.txt
 
 # Build outputs
 dist/

@@ -13,7 +13,12 @@ function setupNavToggle() {
   const toggle = document.querySelector('.nav-toggle');
   const header = document.querySelector('.header');
   if (toggle && header) {
-    toggle.addEventListener('click', () => header.classList.toggle('open'));
+    toggle.addEventListener('click', () => {
+      header.classList.toggle('open');
+      const open = header.classList.contains('open');
+      toggle.setAttribute('aria-expanded', open);
+      toggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+    });
   }
 }
 

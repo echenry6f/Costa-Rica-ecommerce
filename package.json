@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Costa Rica e-commerce — Ticora Store",
   "scripts": {
+    "create-admin": "node create-admin-user.js",
     "deploy": "wrangler deploy",
     "db:migrate": "supabase db push",
     "db:reset": "supabase db reset",

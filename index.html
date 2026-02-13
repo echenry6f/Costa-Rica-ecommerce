@@ -4,11 +4,18 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Ticora Store — Authentic Costa Rica goods: specialty coffee, handcrafted art, and sustainable products.">
+  <meta property="og:title" content="Ticora Store — Costa Rica E-commerce">
+  <meta property="og:description" content="Pura Vida, Delivered. Authentic Costa Rica coffee, handcrafted art, and sustainable goods — straight to your door.">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Ticora Store — Costa Rica E-commerce">
+  <meta name="twitter:description" content="Pura Vida, Delivered. Authentic Costa Rica coffee, handcrafted art, and sustainable goods.">
   <title>Ticora Store — Costa Rica E-commerce</title>
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="canonical" href="https://ticora.store/">
   <link rel="stylesheet" href="/css/styles.css">
   <style>
     /* Critical CSS fallback when external stylesheet fails */
@@ -36,6 +43,7 @@
   </style>
 </head>
 <body>
+  <a href="#products" class="skip-link">Skip to products</a>
   <header class="header">
     <div class="container header-inner">
       <a href="/" class="logo">Ticora</a>
@@ -43,12 +51,13 @@
         <a href="/">Home</a>
         <a href="/#products">Products</a>
         <a href="/#about">About</a>
-        <a href="admin.html">Manage Products</a>
+        <a href="login.html?next=admin.html">Manage Products</a>
         <a href="cart.html" class="cart-link">
           Cart <span id="cart-count" class="cart-badge">0</span>
         </a>
+        <a href="#" id="nav-logout" class="hidden">Log out</a>
       </nav>
-      <button class="nav-toggle" aria-label="Open menu">
+      <button class="nav-toggle" aria-label="Open menu" aria-expanded="false">
         <span></span><span></span><span></span>
       </button>
     </div>
@@ -67,11 +76,12 @@
     <section id="products" class="products">
       <div class="container">
         <h2>Products</h2>
+        <div id="products-loading" class="products-loading" aria-live="polite">Loading products…</div>
         <div id="products-empty" class="products-empty hidden">
           <p>No products yet.</p>
-          <a href="admin.html" class="btn btn-primary">Add your first product</a>
+          <a href="login.html?next=admin.html" class="btn btn-primary">Add your first product</a>
         </div>
-        <div class="product-grid" id="product-grid">
+        <div class="product-grid hidden" id="product-grid">
           <!-- Products injected by JS -->
         </div>
       </div>
@@ -95,14 +105,17 @@
   <footer class="footer">
     <div class="container">
       <p>&copy; Ticora Store. ticora.store</p>
+      <p><a href="https://wa.me/506" class="footer-link" rel="noopener">Contact us on WhatsApp</a></p>
     </div>
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
   <script src="/js/supabase-config.js"></script>
   <script src="/js/supabase.js"></script>
+  <script src="/js/auth.js"></script>
   <script src="/js/products.js"></script>
   <script src="/js/cart.js"></script>
   <script src="/js/app.js"></script>
+  <script>document.addEventListener('DOMContentLoaded', setupLogoutLink);</script>
 </body>
 </html>

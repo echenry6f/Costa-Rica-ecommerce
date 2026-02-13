@@ -711,6 +711,15 @@ body {
   font-size: 0.9rem;
 }
 
+.footer a.footer-link {
+  color: var(--color-sand);
+  text-decoration: underline;
+}
+
+.footer a.footer-link:hover {
+  color: var(--color-white);
+}
+
 /* Admin page */
 .admin-page {
   padding: 3rem 0 4rem;
@@ -837,6 +846,12 @@ body {
   color: var(--color-earth);
 }
 
+.products-loading {
+  text-align: center;
+  padding: 2rem;
+  color: var(--color-earth);
+}
+
 .products-empty {
   text-align: center;
   padding: 3rem;
@@ -848,6 +863,26 @@ body {
 .products-empty p {
   margin: 0 0 1rem;
   color: var(--color-earth);
+}
+
+/* Skip link (accessibility) */
+.skip-link {
+  position: absolute;
+  top: -3rem;
+  left: 1rem;
+  padding: 0.5rem 1rem;
+  background: var(--color-teal);
+  color: var(--color-white);
+  font-weight: 500;
+  text-decoration: none;
+  border-radius: var(--radius);
+  z-index: 200;
+  transition: top 0.2s;
+}
+.skip-link:focus {
+  top: 1rem;
+  outline: 2px solid var(--color-forest);
+  outline-offset: 2px;
 }
 
 /* Utilities */
