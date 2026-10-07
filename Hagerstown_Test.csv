@@ -1,0 +1,294 @@
+Customer,Subcontractor,Requested Resources,Required Resources,Unfilled Count,Crew Lead,Assigned Employees,Assigned Equipment,GSF AFAD,Foreman,Assignment Date,Start Time,Dispatching,Job Number,Job Location Name,Job Location Address,Job Type,Assignment Count,Completed Timesheets,Total Timesheets,Timesheets,GSF Job,GSF Operator,Second GSF Operator,Cancellation Count,Cancellation Information,WO Number,Project Notes
+Verizon,Verizon,3,2,0,"Mann, Tiffany","Mann, Tiffany [tmann1]  (Confirmed)
+Gray, Karyana [kgray1]  (Confirmed)","RT118 (Work Truck: Mann, Tiffany)
+BAR - HAG (Barrel: Mann, Tiffany)","AFD-1083 GSF (GSF AFAD: Mann, Tiffany)
+AFD-1822 GSF (GSF AFAD: Mann, Tiffany)","Ski, David",9/21/2026,7:00 AM,Hagerstown,CW2586273-11229,Mount Airy MD,"951 Ridge Rd Mount Airy, MD 21771",Guardian SmartFlagging,2,1,1,CW2586273-11229-1 (Status: Approved) (WO#: TC473295/EWO/Job/Ticket Number: 1a8h3um),Yes,"Mann, Tiffany",,0,,TC473295/EWO/Job/Ticket Number: 1a8h3um,
+Verizon,Verizon,0,3,0,"Swendsen, Glenn","Bowers, Bryan [bbowers2]  (Confirmed)
+Swendsen, Glenn [gswendsen]  (Confirmed)
+Hood Jr, Franklin [fhood]  (Confirmed)","23311 (Work Truck: Swendsen, Glenn)",,"Kilby, Tony",9/21/2026,7:00 AM,Hagerstown,CW2586273-11195,Hagerstown MD,"802 Dewey Avenue Hagerstown, MD 21742",Manual Flagging,3,1,1,CW2586273-11195-1 (Status: Approved) (WO#: TC473119/EWO/Job/Ticket Number: 1A8U0MC),No,,,0,,TC473119/EWO/Job/Ticket Number: 1A8U0MC,
+Verizon,Verizon,3,2,0,"Thompson, Arron","Thompson, Arron [athompson1]  (Confirmed)
+Shafer, Ricky [rshafer1]  (Confirmed)","1617 (Work Truck: Thompson, Arron)
+BAR - HAG (Barrel: Thompson, Arron)","AFD-1580 GSF (GSF AFAD: Thompson, Arron)
+AFD-1831 GSF (GSF AFAD: Thompson, Arron)","Stansfield, Scott",9/21/2026,7:00 AM,Hagerstown,CW2586273-11233,Woodbine MD,"5355 Woodbine Rd Woodbine, MD 21797",Guardian SmartFlagging,2,1,1,CW2586273-11233-1 (Status: Approved) (WO#: TC473297/EWO/Job/Ticket Number: 1a8aa0r),Yes,"Thompson, Arron",,0,,TC473297/EWO/Job/Ticket Number: 1a8aa0r,
+Verizon,Verizon,0,3,0,"Whitfield, Toriyoni","Whitfield, Toriyoni [twhitfield]  (Confirmed)
+Lute, Zenobia [zlute]  (Confirmed)
+Wills, Jackie [jwills]  (Confirmed)","WMD-02 (Work Truck: Whitfield, Toriyoni)",,"Kilby, Tony",9/21/2026,7:00 AM,Hagerstown,CW2586273-11196,Hagerstown MD,"Oak ridge Dr oak ridge pl Hagerstown, MD 21740",Manual Flagging,3,1,1,CW2586273-11196-1 (Status: Approved) (WO#: TC473138 /EWO/Job/Ticket Number: 1A7AX6W),No,,,0,,TC473138 /EWO/Job/Ticket Number: 1A7AX6W,
+West Penn Power,,0,2,0,"Faust, Ricky","Faust, Ricky [rfaust1]  (Confirmed)
+Lynch, Amy [alynch2]  (Confirmed)","23312 (Work Truck: Faust, Ricky)",,"Fischer, Talisha",9/21/2026,7:00 AM,Hagerstown,750063281-978,Mcconnellsburg PA,"Main Street in McConnellsburg  Mcconnellsburg, PA 17233",Manual Flagging,2,1,1,750063281-978-1 (Status: Approved) (WO#: 64668224),No,,,0,,64668224,
+Verizon,Lambert's Cable - PA,0,3,0,"Smith, Stephan","Daniel, Lauren [ldaniel2]  (Confirmed)
+Pendleton Jr, Michael [mpendleton]  (Confirmed)
+Smith, Stephan [ssmith2]  (Confirmed)","23193 (Work Truck: Smith, Stephan)
+BAR - HAG (Barrel: Smith, Stephan)",,"Wicah, MICAH",9/21/2026,7:30 AM,Hagerstown,CW2586273-11237,Boonsboro  MD,"Mapplevile ave  Boonsboro , MD 17268",Manual Flagging,3,1,1,CW2586273-11237-1 (Status: Approved) (WO#: TC473425/EWO/Job/Ticket Number: 4A4F4YQ) (Field Notes: Meet Lamberts back at meeting location for sign out.),No,,,0,,TC473425/EWO/Job/Ticket Number: 4A4F4YQ,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Rardin, Paige","Rardin, Paige [prardin]  (Confirmed)",,,"Willey, Amy",9/21/2026,7:30 AM,Hagerstown,SHADOW-3406,Boonsboro MD,"310 Maple Avenue Boonsboro, MD 21713",Manual Flagging,1,1,1,SHADOW-3406-1 (Status: Approved) (WO#: -) (Field Notes: meet client back at meeting location for sign out ),No,,,0,,-,
+Broadband Power Solutions,,0,4,0,"Gilbert, Markeyss","Gilbert, Markeyss [mgilbert]  (Confirmed)
+Krantz, Ian [ikrantz]  (Confirmed)
+Brummell, John [jbrummell]  (Confirmed)
+Cooper, Thomas [tcooper5]  (Confirmed)","WMD-03 (Work Truck: Gilbert, Markeyss)",,"Mcgrath, Alex",9/21/2026,8:00 AM,Hagerstown,BF2513-354,Winchester VA,"4137 Cedar Creek Grade Winchester, VA 22602",Manual Flagging,4,1,1,BF2513-354-1 (Status: Approved) (WO#: Frederick),No,,,1,"Employee: Potter, Demonde - Cancelled On: 9/20/2026 11:58:00?PM - Confirmed On: 9/21/2026 12:00:28?AM - Type: Call Off - Notes: Family emergency",Frederick,
+Broadband Power Solutions,,6,5,0,"Grissom, James","Grissom, James [jgrissom]  (Confirmed)
+Prutzman, Bradley [bprutzman]  (Confirmed)
+Kaline, Paul [pkaline1]  (Confirmed)
+Gross, Leland [lgross]  (Confirmed)
+Curry, Ralph [rcurry1]  (Confirmed)","RT091 (Work Truck: Grissom, James)
+1077 (Work Truck: Gross, Leland)","AFD-0597 GSF (GSF AFAD: Grissom, James)
+AFD-2238 GSF (GSF AFAD: Grissom, James)","Mcgrath, Alex",9/21/2026,8:00 AM,Hagerstown,BF2513-350,Winchester VA,"4137 Cedar Creek Grade Winchester, VA 22602",Guardian SmartFlagging,5,1,1,BF2513-350-1 (Status: Approved) (WO#: Frederick),Yes,"Grissom, James",,0,,Frederick,
+Broadband Power Solutions,,5,4,0,"Hood, Aiden","Hood, Aiden [ahood1]  (Confirmed)
+Funk, Kevin [kfunk]  (Confirmed)
+Brooks, Saraia [sbrooks1]  (Confirmed)
+Brooks, Sharod [sbrooks2]  (Confirmed)","RT116 (Work Truck: Hood, Aiden)","AFD-0482 GSF (GSF AFAD: Hood, Aiden)
+AFD-1533 GSF (GSF AFAD: Hood, Aiden)","Mcgrath, Alex",9/21/2026,8:00 AM,Hagerstown,BF2513-352,Winchester VA,"4137 Cedar Creek Grade Winchester, VA 22602",Guardian SmartFlagging,4,1,1,BF2513-352-1 (Status: Approved) (WO#: Frederick),Yes,"Hood, Aiden",,0,,Frederick,
+Broadband Power Solutions,,5,4,0,"Huffer, Tavares","Huffer, Tavares [thuffer]  (Confirmed)
+Curry, Willie [wcurry1]  (Confirmed)
+Mollohan, Jonathan [jmollohan]  (Confirmed)
+Nelson, Travis [tnelson1]  (Confirmed)","RT114 (Work Truck: Huffer, Tavares)
+1436 (Work Truck: Nelson, Travis)","AFD-1048 GSF (GSF AFAD: Huffer, Tavares)
+AFD-0767 GSF (GSF AFAD: Huffer, Tavares)","Mcgrath, Alex",9/21/2026,8:00 AM,Hagerstown,BF2513-351,Winchester VA,"4137 Cedar Creek Grade Winchester, VA 22602",Guardian SmartFlagging,4,1,1,BF2513-351-1 (Status: Approved) (WO#: Frederick),Yes,"Huffer, Tavares",,1,"Employee: Crites, Stephen - Cancelled On: 9/21/2026 9:42:00?AM - Confirmed On: 9/21/2026 9:43:43?AM - Type: Call Off - Notes: Sick",Frederick,
+Broadband Power Solutions,,0,4,0,"Walker, Shaun","Walker, Shaun [swalker3]  (Confirmed)
+Giles, Charles [cgiles]  (Confirmed)
+Sauter, Brett [bsauter]  (Confirmed)
+Mason, Brandon [bmason]  (Confirmed)","1543 (Work Truck: Walker, Shaun)
+1078 (Work Truck: Giles, Charles)",,"Mcgrath, Alex",9/21/2026,8:00 AM,Hagerstown,BF2513-353,Winchester VA,"4137 Cedar Creek Grade Winchester, VA 22602",Guardian SmartFlagging,4,1,1,BF2513-353-1 (Status: Approved) (WO#: Frederick),No,,,0,,Frederick,
+MasTec Communications Group,,4,3,0,"Adame, Angel","Adame, Angel [aadame]  (Confirmed)
+Arroyo-Rodriguez, Dario [darroyorodriguez]  (Confirmed)
+Lopez-Avila, Maryuri [mlopezavila]  (Confirmed)","1544 (Work Truck: Adame, Angel)","AFD-2304 GSF (GSF AFAD: Adame, Angel)
+AFD-1761 GSF (GSF AFAD: Adame, Angel)",".*, Isreal",9/21/2026,8:00 AM,Hagerstown,25114-386,Lovettsville VA,"39505 Rodeffer Rd Lovettsville, VA 20180",Guardian SmartFlagging,3,1,1,25114-386-1 (Status: Approved) (WO#: 2.12),Yes,"Adame, Angel",,0,,2.12,
+MasTec Communications Group,,4,3,0,"Rodgers, Michael","Rodgers, Michael [mrodgers1]  (Confirmed)
+Earl, Pierre [pearl]  (Confirmed)
+Brown, Austin [abrown20]  (Confirmed)","1607 (Work Truck: Rodgers, Michael)
+WMD-11 (Work Truck: Brown, Austin)","AFD-0706 GSF (GSF AFAD: Rodgers, Michael)",".*, Isreal",9/21/2026,8:00 AM,Hagerstown,25114-387,Waterford VA,"15716 Clarkes Gap Rd Waterford, VA 20197",Guardian SmartFlagging,3,1,1,25114-387-1 (Status: Approved) (WO#: 1.9 - 949-62331),Yes,"Rodgers, Michael",,0,,1.9 - 949-62331,
+West Penn Power,,0,2,0,"Jackson, Michelle","Jackson, Michelle [mjackson5]  (Confirmed)
+Holloman, Amanda [aholloman]  (Confirmed)","23313 (Work Truck: Jackson, Michelle)",,"Lininger , Lisa ",9/21/2026,8:00 AM,Hagerstown,750063281-989,Chambersburg  PA,"Anthony highway Chambersburg , PA 17202",Manual Flagging,2,1,1,750063281-989-1 (Status: Approved) (WO#: 64716872) (Field Notes: DIDNT LEAVE JOB SITE EARLY FOLLOWED WEST PENN  BACK TO THERE OFFICE AS TOLD AND SAT THERE TIL 2PM WHEN WE GOT SIGNED OUT!!! THANK YOU VERY MUCH!!! ) (Internal Notes: well put that in your notes next time so this step could be avoided   THANK YOU VERY MUCH!!!!!!!!!!!!!!!!!!),No,,,0,,64716872,
+West Penn Power,,0,2,0,"Kohler, William","Kohler, William [wkohler]  (Confirmed)
+Greco, Charles [cgreco1]  (Confirmed)","1437 (Work Truck: Kohler, William)",,"Lininger , Lisa ",9/21/2026,8:00 AM,Hagerstown,750063281-990,Greencastle  PA,"Carl circle Greencastle , PA 17225",Manual Flagging,2,2,2,"750063281-990-1 (Status: Approved) (WO#: 64232348)
+750063281-990-1-A (Status: Approved) (WO#: 490025)",No,,,0,,64232348,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Brown, Tonya","Brown, Tonya [tbrown24]  (Confirmed)",,,"Buckstein, Lauren",9/21/2026,8:30 AM,Hagerstown,SPARE-9641,Williamsport MD,"416 South Conococheague Street Williamsport, MD 21795",Internal Labour,1,1,1,SPARE-9641-1 (Status: Approved),No,,,0,,,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Holben, Kevin","Holben, Kevin [kholben]  (Confirmed)",,,"Buckstein, Lauren",9/21/2026,8:30 AM,Hagerstown,SPARE-9640,Williamsport MD,"416 South Conococheague Street Williamsport, MD 21795",Internal Labour,1,1,1,SPARE-9640-1 (Status: Approved),No,,,0,,,
+Verizon,Verizon,0,3,0,"Holben, Kevin","Holben, Kevin [kholben]  (Confirmed)
+Bowers, Bryan [bbowers2]  (Confirmed)
+Brown, Tonya [tbrown24]  (Confirmed)","23136 (Work Truck: Holben, Kevin)",,"Kilby, Tony",9/22/2026,7:00 AM,Hagerstown,CW2586273-11194,Hagerstown MD,"223 East Memorial Blvd Hagerstown, MD 21740",Manual Flagging,3,1,1,CW2586273-11194-1 (Status: Approved) (WO#: TC473120/EWO/Job/Ticket Number: 1A8U0MC),No,,,0,,TC473120/EWO/Job/Ticket Number: 1A8U0MC,
+Verizon,Verizon,3,2,0,"Mann, Tiffany","Mann, Tiffany [tmann1]  (Confirmed)
+Gray, Karyana [kgray1]  (Confirmed)","RT118 (Work Truck: Mann, Tiffany)
+BAR - HAG (Barrel: Mann, Tiffany)",,"Ski, Dave",9/22/2026,7:00 AM,Hagerstown,CW2586273-11260,Sykesville  MD,"Oakland rd  Sykesville , MD 21157",Off-Road Work,2,1,1,CW2586273-11260-1 (Status: Approved) (WO#: TC473600/EWO/Job/Ticket Number: 5n00093),No,,,0,,TC473600/EWO/Job/Ticket Number: 5n00093,
+Verizon,Verizon,0,4,0,"Nelson, Travis","Nelson, Travis [tnelson1]  (Confirmed)
+Wills, Jackie [jwills]  (Confirmed)
+Rardin, Paige [prardin]  (Confirmed)
+Kohler, William [wkohler]  (Confirmed)","1436 (Work Truck: Nelson, Travis)
+1437 (Work Truck: Kohler, William)",,"Kilby, Tony",9/22/2026,7:00 AM,Hagerstown,CW2586273-11199,Hagerstown MD,"223 East Memorial Blvd Hagerstown, MD 21740",Manual Flagging,4,1,1,CW2586273-11199-1 (Status: Approved) (WO#: TC473140/EWO/Job/Ticket Number: 1A7AX6W),No,,,1,"Employee: Lynch, Amy - Cancelled On: 9/22/2026 10:48:00?AM - Confirmed On: Not Confirmed - Type: No Show/No Contact - Notes: No response",TC473140/EWO/Job/Ticket Number: 1A7AX6W,
+Verizon,Verizon,3,2,0,"Thompson, Arron","Thompson, Arron [athompson1]  (Confirmed)
+Brummell, John [jbrummell]  (Confirmed)","1617 (Work Truck: Thompson, Arron)
+BAR - HAG (Barrel: Thompson, Arron)","AFD-1580 GSF (GSF AFAD: Thompson, Arron)
+AFD-1831 GSF (GSF AFAD: Thompson, Arron)","Stansfield, Scott",9/22/2026,7:00 AM,Hagerstown,CW2586273-11259,Westminster MD,"1601 Washington Rd Westminster, MD 21157",Guardian SmartFlagging,2,1,1,CW2586273-11259-1 (Status: Approved) (WO#: TC473601/EWO/Job/Ticket Number: 5n00093),Yes,"Thompson, Arron",,0,,TC473601/EWO/Job/Ticket Number: 5n00093,
+Verizon,Lambert's Cable - PA,0,3,0,"Whitfield, Toriyoni","Whitfield, Toriyoni [twhitfield]  (Confirmed)
+Faust, Ricky [rfaust1]  (Confirmed)
+Jackson, Michelle [mjackson5]  (Confirmed)","WMD-02 (Work Truck: Whitfield, Toriyoni)
+23312 (Work Truck: Faust, Ricky)
+23313 (Work Truck: Jackson, Michelle)",,"Cheshire, Timmy",9/22/2026,7:15 AM,Hagerstown,CW2586273-11265,Hancock MD,"Warfordsburg Road Hancock, MD 21740",Manual Flagging,3,1,1,CW2586273-11265-1 (Status: Approved) (WO#: TC473720 /EWO/Job/Ticket Number: 1A8U0MC),No,,,1,"Employee: Lute, Zenobia - Cancelled On: 9/22/2026 10:20:00?AM - Confirmed On: 9/22/2026 10:24:20?AM - Type: Call Off - Notes: “Family problem”",TC473720 /EWO/Job/Ticket Number: 1A8U0MC,
+Verizon,Lambert's Cable - PA,0,4,0,"Smith, Stephan","Smith, Stephan [ssmith2]  (Confirmed)
+Pendleton Jr, Michael [mpendleton]  (Confirmed)
+Hood Jr, Franklin [fhood]  (Confirmed)
+Daniel, Lauren [ldaniel2]  (Confirmed)","23193 (Work Truck: Smith, Stephan)
+BAR - HAG (Barrel: Smith, Stephan)",,"Wichael , Micah",9/22/2026,7:30 AM,Hagerstown,CW2586273-11258,Hagerstown MD,"11529 French Lane Hagerstown, MD 21740",Manual Flagging,4,1,1,CW2586273-11258-1 (Status: Approved) (WO#: TC473623/EWO/Job/Ticket Number: 4A4F4YQ),No,,,0,,TC473623/EWO/Job/Ticket Number: 4A4F4YQ,
+MasTec Communications Group,,4,3,0,"Adame, Angel","Adame, Angel [aadame]  (Confirmed)
+Arroyo-Rodriguez, Dario [darroyorodriguez]  (Confirmed)
+Lopez-Avila, Maryuri [mlopezavila]  (Confirmed)","1544 (Work Truck: Adame, Angel)","AFD-2304 GSF (GSF AFAD: Adame, Angel)
+AFD-1761 GSF (GSF AFAD: Adame, Angel)",".*, Isreal",9/22/2026,8:00 AM,Hagerstown,25114-386,Lovettsville VA,"39505 Rodeffer Rd Lovettsville, VA 20180",Guardian SmartFlagging,3,1,1,25114-386-2 (Status: Approved) (WO#: 2.12),Yes,"Adame, Angel",,0,,2.12,
+MasTec Communications Group,,4,3,0,"Rodgers, Michael","Rodgers, Michael [mrodgers1]  (Confirmed)
+Earl, Pierre [pearl]  (Confirmed)
+Brown, Austin [abrown20]  (Confirmed)","1607 (Work Truck: Rodgers, Michael)
+WMD-11 (Work Truck: Brown, Austin)","AFD-0706 GSF (GSF AFAD: Rodgers, Michael)
+AFD-1616 GSF (GSF AFAD: Rodgers, Michael)",".*, Isreal",9/22/2026,8:00 AM,Hagerstown,25114-387,Lovettsville VA,"2 East Broad Way Rodeffer Rd  Lovettsville, VA 20180",Guardian SmartFlagging,3,1,1,25114-387-2 (Status: Approved) (WO#: 2.12),Yes,"Rodgers, Michael",,0,,2.12,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Walker, Shaun","Walker, Shaun [swalker3]  (Confirmed)",,,"Buckstein, Lauren",9/22/2026,8:30 AM,Hagerstown,DOT-Training-164,Williamsport MD,"416 South Conococheague Street Williamsport, MD 21795",Internal Labour,1,1,1,DOT-Training-164-1 (Status: Approved) (WO#: MOT Test),No,,,0,,MOT Test,
+Verizon,Verizon,4,3,0,"Mann, Tiffany","Swendsen, Glenn [gswendsen]  (Confirmed)
+Mann, Tiffany [tmann1]  (Confirmed)
+Gray, Karyana [kgray1]  (Confirmed)","23311 (Work Truck: Swendsen, Glenn)
+RT118 (Work Truck: Mann, Tiffany)","AFD-1083 GSF (GSF AFAD: Mann, Tiffany)
+AFD-1822 GSF (GSF AFAD: Mann, Tiffany)","Kilby, Tony",9/23/2026,7:00 AM,Hagerstown,CW2586273-11197,Hagerstown MD,"Oak ridge and Westside ave Hagerstown, MD 21740",Manual Flagging,3,1,1,CW2586273-11197-1 (Status: Approved) (WO#: TC473141/EWO/Job/Ticket Number: 1A7AX6W),Yes,"Mann, Tiffany",,0,,TC473141/EWO/Job/Ticket Number: 1A7AX6W,
+Verizon,Verizon,0,3,0,"Whitfield, Toriyoni","Whitfield, Toriyoni [twhitfield]  (Confirmed)
+Wills, Jackie [jwills]  (Confirmed)
+Jackson, Michelle [mjackson5]  (Confirmed)","WMD-02 (Work Truck: Whitfield, Toriyoni)
+23313 (Work Truck: Jackson, Michelle)",,"Kilby, Tony",9/23/2026,7:00 AM,Hagerstown,CW2586273-11209,Smithsburg  MD,"Federal Lookout rd Smithsburg , MD 21740",Manual Flagging,3,1,1,CW2586273-11209-1 (Status: Approved) (WO#: TC473123/EWO/Job/Ticket Number: 1A8U0MC),No,,,0,,TC473123/EWO/Job/Ticket Number: 1A8U0MC,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Fontanelle, Jermaine","Fontanelle, Jermaine [jfontanelle1]  (Confirmed)",,,"Willey, Amy",9/23/2026,7:00 AM,Hagerstown,SHADOW-3431,Smiths burg  MD,"Federal lookout rd Smiths burg , MD 21740",Internal Labour,1,1,1,SHADOW-3431-1 (Status: Approved) (WO#: Shadow shift),No,,,0,,Shadow shift,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Jameson, Justin","Jameson, Justin [jjameson]  (Confirmed)",,,"Willey, Amy",9/23/2026,7:00 AM,Hagerstown,SHADOW-3430,Funkstown  MD,"2 N Westside ave Funkstown , MD 21734",Internal Labour,1,1,1,SHADOW-3430-1 (Status: Approved) (WO#: Shadow shift),No,,,0,,Shadow shift,
+West Penn Power,,0,2,0,"Faust, Ricky","Faust, Ricky [rfaust1]  (Confirmed)
+Lynch, Amy [alynch2]  (Confirmed)","23312 (Work Truck: Faust, Ricky)",,"Fischer, Talisha",9/23/2026,7:00 AM,Hagerstown,750063281-980,Breezewood PA,"5314 Robinsonville Road Breezewood, PA 15533",Manual Flagging,2,1,1,"750063281-980-1 (Status: Approved) (WO#: 64496896) (Field Notes: We was sent back to the West Penn Power company and I was told to sign out at 3 pm ) (Internal Notes: CL left Breezewood PA at 137pm and headed back to WPP yard in McConnellsburg
+ PA leaving at 303pm per GPS)",No,,,0,,64496896,
+Verizon,Lambert's Cable - PA,0,4,0,"Smith, Stephan","Smith, Stephan [ssmith2]  (Confirmed)
+Hood Jr, Franklin [fhood]  (Confirmed)
+Shafer, Ricky [rshafer1]  (Confirmed)
+Lopez-Avila, Maryuri [mlopezavila]  (Confirmed)","23193 (Work Truck: Smith, Stephan)
+BAR - HAG (Barrel: Smith, Stephan)",,"Wichael , Micah",9/23/2026,7:30 AM,Hagerstown,CW2586273-11258,Boonsboro MD,"308 Maple Avenue Boonsboro, MD 21713",Manual Flagging,4,1,1,"CW2586273-11258-2 (Status: Approved) (WO#: TC473623/EWO/Job/Ticket Number: 4A4F4YQ) (Field Notes: Meet Lamberts at meeting location in the morning at 7:30am. Then We follow Lamberts to job site
+ Mappleville rd. Then follow Lamberts back to meeting location for sign out.) (Internal Notes: CL left Boonsboro MD at 242pm and headed back to Verizon-Lambert's yard on French Lane Hagerstown
+ MD leaving at 333pm)",No,,,0,,TC473623/EWO/Job/Ticket Number: 4A4F4YQ,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Bowers, Bryan","Bowers, Bryan [bbowers2]  (Confirmed)",,,"Willey, Amy",9/23/2026,7:45 AM,Hagerstown,TCT-Training-69,Williamsport MD,"416 S Conococheague St Williamsport, MD 21795",Internal Labour,1,1,1,TCT-Training-69-1 (Status: Approved),No,,,0,,,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Brown, Tonya","Brown, Tonya [tbrown24]  (Confirmed)",,,"Willey, Amy",9/23/2026,7:45 AM,Hagerstown,TCT-Training-71,Williamsport MD,"416 South Conococheague Street Williamsport, MD 21795",Internal Labour,1,1,1,TCT-Training-71-1 (Status: Approved),No,,,0,,,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Cooper, Thomas","Cooper, Thomas [tcooper5]  (Confirmed)",,,"Willey, Amy",9/23/2026,7:45 AM,Hagerstown,TCT-Training-68,Williamsport MD,"416 S Conococheague St Williamsport, MD 21795",Internal Labour,1,1,1,TCT-Training-68-1 (Status: Approved),No,,,0,,,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Daniel, Lauren","Daniel, Lauren [ldaniel2]  (Confirmed)",,,"Willey, Amy",9/23/2026,7:45 AM,Hagerstown,TCT-Training-65,Williamsport MD,"416 S Conococheague St Williamsport, MD 21795",Internal Labour,1,1,1,TCT-Training-65-1 (Status: Approved),No,,,0,,,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Lute, Zenobia","Lute, Zenobia [zlute]  (Confirmed)",,,"Willey, Amy",9/23/2026,7:45 AM,Hagerstown,TCT-Training-67,Williamsport MD,"416 S Conococheague St Williamsport, MD 21795",Internal Labour,1,1,1,TCT-Training-67-1 (Status: Approved),No,,,0,,,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Pendleton Jr, Michael","Pendleton Jr, Michael [mpendleton]  (Confirmed)",,,"Willey, Amy",9/23/2026,7:45 AM,Hagerstown,TCT-Training-70,Williamsport MD,"416 South Conococheague Street Williamsport, MD 21795",Internal Labour,1,1,1,TCT-Training-70-1 (Status: Approved),No,,,0,,,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Rardin, Paige","Rardin, Paige [prardin]  (Confirmed)",,,"Willey, Amy",9/23/2026,7:45 AM,Hagerstown,TCT-Training-62,Williamsport MD,"416 S Conococheague St Williamsport, MD 21795",Internal Labour,1,1,1,TCT-Training-62-1 (Status: Approved),No,,,0,,,
+MasTec Communications Group,,4,3,0,"Adame, Angel","Adame, Angel [aadame]  (Confirmed)
+Arroyo-Rodriguez, Dario [darroyorodriguez]  (Confirmed)
+Nelson, Travis [tnelson1]  (Confirmed)","1544 (Work Truck: Adame, Angel)
+1436 (Work Truck: Nelson, Travis)","AFD-2304 GSF (GSF AFAD: Adame, Angel)
+AFD-1761 GSF (GSF AFAD: Adame, Angel)",".*, Isreal",9/23/2026,8:00 AM,Hagerstown,25114-386,Lovettsville VA,"39505 Rodeffer Rd Lovettsville, VA 20180",Guardian SmartFlagging,3,1,1,25114-386-3 (Status: Approved) (WO#: 2.12),Yes,"Adame, Angel",,0,,2.12,
+MasTec Communications Group,,4,3,0,"Rodgers, Michael","Rodgers, Michael [mrodgers1]  (Confirmed)
+Earl, Pierre [pearl]  (Confirmed)
+Brummell, John [jbrummell]  (Confirmed)","1607 (Work Truck: Rodgers, Michael)","AFD-0706 GSF (GSF AFAD: Rodgers, Michael)
+AFD-1616 GSF (GSF AFAD: Rodgers, Michael)",".*, Isreal",9/23/2026,8:00 AM,Hagerstown,25114-390,Lovettsville VA,"39505 Rodeffer Rd  Lovettsville, VA 20180",Guardian SmartFlagging,3,1,1,25114-390-1 (Status: Approved) (WO#: 2.12),Yes,"Rodgers, Michael",,0,,2.12,
+West Penn Power,,0,2,0,"Kohler, William","Kohler, William [wkohler]  (Confirmed)
+Greco, Charles [cgreco1]  (Confirmed)","1437 (Work Truck: Kohler, William)",,"Lininger , Lisa ",9/23/2026,8:00 AM,Hagerstown,750063281-994,Waynesboro PA,"501 East Main Street  Waynesboro, PA 17268",Lane Shift,2,2,2,"750063281-994-1 (Status: Approved) (WO#: 64701091)
+750063281-994-1-A (Status: Approved) (WO#: 64712838) (Field Notes: Left job site to be signed out at office)",No,,,0,,64701091,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Holben, Kevin","Holben, Kevin [kholben]  (Confirmed)",,,"Buckstein, Lauren",9/23/2026,8:30 AM,Hagerstown,SPARE-9753,Williamsport MD,"416 South Conococheague Street Williamsport, MD 21795",Internal Labour,1,1,1,SPARE-9753-1 (Status: Approved),No,,,0,,,
+Broadband Power Solutions,,6,5,0,"Grissom, James","Grissom, James [jgrissom]  (Confirmed)
+Prutzman, Bradley [bprutzman]  (Confirmed)
+Kaline, Paul [pkaline1]  (Confirmed)
+Gross, Leland [lgross]  (Confirmed)
+Curry, Ralph [rcurry1]  (Confirmed)","RT091 (Work Truck: Grissom, James)
+1077 (Work Truck: Gross, Leland)","AFD-0597 GSF (GSF AFAD: Grissom, James)
+AFD-2238 GSF (GSF AFAD: Grissom, James)","Mcgrath, Alex",9/23/2026,8:00 AM,Hagerstown,BF2513-350,Winchester VA,"4137 Cedar Creek Grade Winchester, VA 22602",Guardian SmartFlagging,5,1,1,BF2513-350-3 (Status: Approved) (WO#: Frederick),Yes,"Grissom, James",,0,,Frederick,
+Broadband Power Solutions,,5,4,0,"Hood, Aiden","Hood, Aiden [ahood1]  (Confirmed)
+Funk, Kevin [kfunk]  (Confirmed)
+Brooks, Saraia [sbrooks1]  (Confirmed)
+Brooks, Sharod [sbrooks2]  (Confirmed)","RT116 (Work Truck: Hood, Aiden)","AFD-0482 GSF (GSF AFAD: Hood, Aiden)
+AFD-1533 GSF (GSF AFAD: Hood, Aiden)","Mcgrath, Alex",9/23/2026,8:00 AM,Hagerstown,BF2513-352,Winchester VA,"4137 Cedar Creek Grade Winchester, VA 22602",Guardian SmartFlagging,4,1,1,BF2513-352-3 (Status: Approved) (WO#: Frederick),Yes,"Hood, Aiden",,0,,Frederick,
+Broadband Power Solutions,,5,4,0,"Huffer, Tavares","Huffer, Tavares [thuffer]  (Confirmed)
+Curry, Willie [wcurry1]  (Confirmed)
+Mollohan, Jonathan [jmollohan]  (Confirmed)
+Crites, Stephen [scrites]  (Confirmed)","RT114 (Work Truck: Huffer, Tavares)
+23195 (Work Truck: Crites, Stephen)","AFD-1048 GSF (GSF AFAD: Huffer, Tavares)
+AFD-0767 GSF (GSF AFAD: Huffer, Tavares)","Mcgrath, Alex",9/23/2026,8:00 AM,Hagerstown,BF2513-351,Winchester VA,"4137 Cedar Creek Grade Winchester, VA 22602",Guardian SmartFlagging,4,1,1,BF2513-351-3 (Status: Approved) (WO#: Frederick),Yes,"Huffer, Tavares",,0,,Frederick,
+Broadband Power Solutions,,0,4,0,"Walker, Shaun","Walker, Shaun [swalker3]  (Confirmed)
+Giles, Charles [cgiles]  (Confirmed)
+Sauter, Brett [bsauter]  (Confirmed)
+Mason, Brandon [bmason]  (Confirmed)","1543 (Work Truck: Walker, Shaun)
+1078 (Work Truck: Giles, Charles)",,"Mcgrath, Alex",9/23/2026,8:00 AM,Hagerstown,BF2513-353,Winchester VA,"4137 Cedar Creek Grade Winchester, VA 22602",Guardian SmartFlagging,4,1,1,BF2513-353-3 (Status: Approved) (WO#: Frederick),No,,,0,,Frederick,
+Broadband Power Solutions,,5,4,0,"Thompson, Arron","Gilbert, Markeyss [mgilbert]  (Confirmed)
+Krantz, Ian [ikrantz]  (Confirmed)
+Bigman, Vernon [vbigman]  (Confirmed)
+Thompson, Arron [athompson1]  (Confirmed)","WMD-03 (Work Truck: Gilbert, Markeyss)
+1617 (Work Truck: Thompson, Arron)","AFD-1580 GSF (GSF AFAD: Thompson, Arron)
+AFD-1831 GSF (GSF AFAD: Thompson, Arron)","Mcgrath, Alex",9/23/2026,9:30 AM,Hagerstown,BF2513-354,Winchester VA,"4137 Cedar Creek Grade Winchester, VA 22602",Guardian SmartFlagging,4,1,1,BF2513-354-3 (Status: Approved) (WO#: Frederick),Yes,"Thompson, Arron",,0,,Frederick,
+Verizon,Verizon,4,3,0,"Thompson, Arron","Bowers, Bryan [bbowers2]  (Confirmed)
+Jameson, Justin [jjameson]  (Confirmed)
+Thompson, Arron [athompson1]  (Confirmed)","1617 (Work Truck: Thompson, Arron)
+BAR - HAG (Barrel: Thompson, Arron)","AFD-1580 GSF (GSF AFAD: Thompson, Arron)
+AFD-1831 GSF (GSF AFAD: Thompson, Arron)","Kilby, Tony",9/24/2026,7:00 AM,Hagerstown,CW2586273-11211,Hagerstown MD,"Jefferson Boulevard Hagerstown, MD 21742",Guardian SmartFlagging,3,1,1,CW2586273-11211-1 (Status: Approved) (WO#: TC473148/EWO/Job/Ticket Number: 4P0PU4V),Yes,"Thompson, Arron",,0,,TC473148/EWO/Job/Ticket Number: 4P0PU4V,
+Verizon,Verizon,0,3,0,"Whitfield, Toriyoni","Whitfield, Toriyoni [twhitfield]  (Confirmed)
+Fontanelle, Jermaine [jfontanelle1]  (Confirmed)
+Wills, Jackie [jwills]  (Confirmed)","WMD-02 (Work Truck: Whitfield, Toriyoni)",,"Kilby, Tony",9/24/2026,7:00 AM,Hagerstown,CW2586273-11208,Hagerstown MD,"Fry ave Hagerstown, MD 21740",Manual Flagging,3,1,1,CW2586273-11208-1 (Status: Approved) (WO#: TC473125/EWO/Job/Ticket Number: 1A8U0MC),No,,,0,,TC473125/EWO/Job/Ticket Number: 1A8U0MC,
+West Penn Power,,0,2,0,"Holben, Kevin","Holben, Kevin [kholben]  (Confirmed)
+Pendleton Jr, Michael [mpendleton]  (Confirmed)","23136 (Work Truck: Holben, Kevin)",,"Fischer, Talisha",9/24/2026,7:00 AM,Hagerstown,750063281-984,Mcconnellsburg PA,"634 Lincoln Way West Mcconnellsburg, PA 17233",Manual Flagging,2,1,1,750063281-984-1 (Status: Approved) (WO#: 64679483),No,,,0,,64679483,
+Verizon,Lambert's Cable - PA,0,4,0,"Smith, Stephan","Smith, Stephan [ssmith2]  (Confirmed)
+Shafer, Ricky [rshafer1]  (Confirmed)
+Hood Jr, Franklin [fhood]  (Confirmed)
+Gray, Karyana [kgray1]  (Confirmed)","23193 (Work Truck: Smith, Stephan)
+BAR - HAG (Barrel: Smith, Stephan)",,"Wichael , Micah",9/24/2026,7:30 AM,Hagerstown,CW2586273-11297,Boonsboro MD,"306 Maple Avenue Boonsboro, MD 21713",Manual Flagging,4,1,1,"CW2586273-11297-1 (Status: Approved) (WO#: TC474138 /EWO/Job/Ticket Number: 4A4F4YQ) (Field Notes: Meet Lamberts at Meeting location ""French Lane Hagerstown"" then followed Lamberts to job location ""Mapleville ave Boonsboro MD"" then Meet Lamberts back at Meeting location for sign out at 3:00pm.)",No,,,0,,TC474138 /EWO/Job/Ticket Number: 4A4F4YQ,
+Broadband Power Solutions,,0,4,0,"Gilbert, Markeyss","Gilbert, Markeyss [mgilbert]  (Confirmed)
+Krantz, Ian [ikrantz]  (Confirmed)
+Bigman, Vernon [vbigman]  (Confirmed)
+Swendsen, Glenn [gswendsen]  (Confirmed)","WMD-03 (Work Truck: Gilbert, Markeyss)
+23311 (Work Truck: Swendsen, Glenn)",,"Mcgrath, Alex",9/24/2026,8:00 AM,Hagerstown,BF2513-354,Winchester VA,"4137 Cedar Creek Grade Winchester, VA 22602",Manual Flagging,4,1,1,BF2513-354-4 (Status: Approved) (WO#: Frederick),No,,,0,,Frederick,
+Broadband Power Solutions,,6,5,0,"Grissom, James","Grissom, James [jgrissom]  (Confirmed)
+Prutzman, Bradley [bprutzman]  (Confirmed)
+Kaline, Paul [pkaline1]  (Confirmed)
+Gross, Leland [lgross]  (Confirmed)
+Curry, Ralph [rcurry1]  (Confirmed)","RT091 (Work Truck: Grissom, James)
+1077 (Work Truck: Gross, Leland)","AFD-0597 GSF (GSF AFAD: Grissom, James)
+AFD-2238 GSF (GSF AFAD: Grissom, James)","Mcgrath, Alex",9/24/2026,8:00 AM,Hagerstown,BF2513-350,Winchester VA,"4137 Cedar Creek Grade Winchester, VA 22602",Guardian SmartFlagging,5,1,1,BF2513-350-4 (Status: Approved) (WO#: Frederick),Yes,"Grissom, James",,0,,Frederick,
+Broadband Power Solutions,,5,4,0,"Hood, Aiden","Hood, Aiden [ahood1]  (Confirmed)
+Funk, Kevin [kfunk]  (Confirmed)
+Brooks, Saraia [sbrooks1]  (Confirmed)
+Brooks, Sharod [sbrooks2]  (Confirmed)","RT116 (Work Truck: Hood, Aiden)","AFD-0482 GSF (GSF AFAD: Hood, Aiden)
+AFD-1533 GSF (GSF AFAD: Hood, Aiden)","Mcgrath, Alex",9/24/2026,8:00 AM,Hagerstown,BF2513-352,Winchester VA,"4137 Cedar Creek Grade Winchester, VA 22602",Guardian SmartFlagging,4,1,1,BF2513-352-4 (Status: Approved) (WO#: Frederick),Yes,"Hood, Aiden",,0,,Frederick,
+Broadband Power Solutions,,5,4,0,"Huffer, Tavares","Huffer, Tavares [thuffer]  (Confirmed)
+Curry, Willie [wcurry1]  (Confirmed)
+Mollohan, Jonathan [jmollohan]  (Confirmed)
+Crites, Stephen [scrites]  (Confirmed)","RT114 (Work Truck: Huffer, Tavares)
+23195 (Work Truck: Crites, Stephen)
+RS - HAG (Rumble Strips)","AFD-1048 GSF (GSF AFAD: Huffer, Tavares)
+AFD-0767 GSF (GSF AFAD: Huffer, Tavares)","Mcgrath, Alex",9/24/2026,8:00 AM,Hagerstown,BF2513-351,Winchester VA,"4137 Cedar Creek Grade Winchester, VA 22602",Guardian SmartFlagging,4,1,1,BF2513-351-4 (Status: Approved) (WO#: Frederick),Yes,"Huffer, Tavares",,0,,Frederick,
+Broadband Power Solutions,,0,4,0,"Walker, Shaun","Walker, Shaun [swalker3]  (Confirmed)
+Giles, Charles [cgiles]  (Confirmed)
+Sauter, Brett [bsauter]  (Confirmed)
+Mason, Brandon [bmason]  (Confirmed)","1543 (Work Truck: Walker, Shaun)
+1078 (Work Truck: Giles, Charles)",,"Mcgrath, Alex",9/24/2026,8:00 AM,Hagerstown,BF2513-353,Winchester VA,"4137 Cedar Creek Grade Winchester, VA 22602",Guardian SmartFlagging,4,1,1,BF2513-353-4 (Status: Approved) (WO#: Frederick),No,,,0,,Frederick,
+MasTec Communications Group,,4,3,0,"Adame, Angel","Adame, Angel [aadame]  (Confirmed)
+Arroyo-Rodriguez, Dario [darroyorodriguez]  (Confirmed)
+Brummell, John [jbrummell]  (Confirmed)","1544 (Work Truck: Adame, Angel)","AFD-2304 GSF (GSF AFAD: Adame, Angel)
+AFD-1761 GSF (GSF AFAD: Adame, Angel)",".*, Isreal",9/24/2026,8:00 AM,Hagerstown,25114-386,Waterford VA,"15715 Clarkes Gap Rd Waterford, VA 20197",Guardian SmartFlagging,3,1,1,25114-386-4 (Status: Approved) (WO#: 2.12),Yes,"Adame, Angel",,1,"Employee: Brown, Austin - Cancelled On: 9/23/2026 11:02:00?PM - Confirmed On: 9/23/2026 11:04:01?PM - Type: Call Off - Notes: Family emergency ",2.12,
+MasTec Communications Group,,4,3,0,"Rodgers, Michael","Rodgers, Michael [mrodgers1]  (Confirmed)
+Lopez-Avila, Maryuri [mlopezavila]  (Confirmed)
+Lute, Zenobia [zlute]  (Confirmed)","1607 (Work Truck: Rodgers, Michael)","AFD-0706 GSF (GSF AFAD: Rodgers, Michael)
+AFD-1616 GSF (GSF AFAD: Rodgers, Michael)",".*, Isreal",9/24/2026,8:00 AM,Hagerstown,25114-390,Waterford VA,"15715 Clarkes Gap Rd Waterford, VA 20197",Guardian SmartFlagging,3,1,1,25114-390-2 (Status: Approved) (WO#: 1.9 - 949-62331),Yes,"Rodgers, Michael",,1,"Employee: Nelson, Travis - Cancelled On: 9/24/2026 12:32:00?AM - Confirmed On: 9/24/2026 12:33:16?AM - Type: Call Off - Notes: Needed as lead for other job ",1.9 - 949-62331,
+West Penn Power,,0,2,0,"Kohler, William","Kohler, William [wkohler]  (Confirmed)
+Greco, Charles [cgreco1]  (Confirmed)","1437 (Work Truck: Kohler, William)",,"Lininger , Lisa ",9/24/2026,8:00 AM,Hagerstown,750063281-995,Fayetteville  PA,"95 Wagner road Fayetteville , PA 17222",Manual Flagging,2,1,1,750063281-995-1 (Status: Approved) (WO#: 64703196) (Field Notes: Sign out is at West Penn),No,,,0,,64703196,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Daniel, Lauren","Daniel, Lauren [ldaniel2]  (Confirmed)",,,"Buckstein, Lauren",9/24/2026,8:30 AM,Hagerstown,SPARE-9772,Williamsport MD,"416 South Conococheague Street Williamsport, MD 21795",Internal Labour,1,1,1,SPARE-9772-1 (Status: Approved),No,,,0,,,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Rardin, Paige","Rardin, Paige [prardin]  (Confirmed)",,,"Buckstein, Lauren",9/24/2026,8:30 AM,Hagerstown,SPARE-9771,Williamsport MD,"416 South Conococheague Street Williamsport, MD 21795",Internal Labour,1,1,1,SPARE-9771-1 (Status: Approved),No,,,0,,,
+Verizon,Verizon,0,3,0,"Nelson, Travis","Nelson, Travis [tnelson1]  (Confirmed)
+Brummell, John [jbrummell]  (Confirmed)
+Lute, Zenobia [zlute]  (Confirmed)","1436 (Work Truck: Nelson, Travis)",,"Kilby, Tony",9/25/2026,7:00 AM,Hagerstown,CW2586273-11206,Hagerstown MD,"223 East Memorial Blvd Hagerstown, MD 21740",Manual Flagging,3,1,1,CW2586273-11206-1 (Status: Approved) (WO#: TC473126/EWO/Job/Ticket Number: 1A8U0MC) (Field Notes: Zenobia Commuted to and From Baltimore MD in personal vehicle to the meeting location.),No,,,0,,TC473126/EWO/Job/Ticket Number: 1A8U0MC,
+Verizon,Verizon,0,3,0,"Smith, Stephan","Smith, Stephan [ssmith2]  (Confirmed)
+Brown, Austin [abrown20]  (Confirmed)
+Daniel, Lauren [ldaniel2]  (Confirmed)","23193 (Work Truck: Smith, Stephan)
+WMD-11 (Work Truck: Brown, Austin)
+BAR - HAG (Barrel: Smith, Stephan)",,"Ski, Dave",9/25/2026,7:00 AM,Hagerstown,CW2586273-11313,Mount Airy MD,"1134 Long Corner Rd Mount Airy, MD 21771",Guardian SmartFlagging,3,1,1,CW2586273-11313-1 (Status: Approved) (WO#: TC474245/EWO/Job/Ticket Number: 1a8l9cd),No,,,0,,TC474245/EWO/Job/Ticket Number: 1a8l9cd,
+Verizon,Verizon,0,4,0,"Whitfield, Toriyoni","Whitfield, Toriyoni [twhitfield]  (Confirmed)
+Wills, Jackie [jwills]  (Confirmed)
+Bowers, Bryan [bbowers2]  (Confirmed)
+Giles, Charles [cgiles]  (Confirmed)","WMD-02 (Work Truck: Whitfield, Toriyoni)
+1078 (Work Truck: Giles, Charles)",,"Kilby, Tony",9/25/2026,7:00 AM,Hagerstown,CW2586273-11201,Hagerstown MD,"223 East Memorial Blvd Hagerstown, MD 21740",Manual Flagging,4,1,1,CW2586273-11201-1 (Status: Approved) (WO#: TC473150/EWO/Job/Ticket Number: 1A7AX6W),No,,,0,,TC473150/EWO/Job/Ticket Number: 1A7AX6W,
+West Penn Power,,0,2,0,"Jackson, Michelle","Jackson, Michelle [mjackson5]  (Confirmed)
+Pendleton Jr, Michael [mpendleton]  (Confirmed)","23313 (Work Truck: Jackson, Michelle)",,"Fischer, Talisha",9/25/2026,7:00 AM,Hagerstown,750063281-987,Hustontown PA,"219 Cole Rd, Hustontown, PA 17229 Hustontown, PA 17229",Manual Flagging,2,4,4,"750063281-987-1 (Status: Approved) (WO#: 1569904)
+750063281-987-1-C (Status: Approved) (WO#: 64668241)
+750063281-987-1-A (Status: Approved) (WO#: 64668234)
+750063281-987-1-B (Status: Approved) (WO#: 64668239)",No,,,1,"Employee: Lynch, Amy - Cancelled On: 9/24/2026 10:16:00?PM - Confirmed On: 9/25/2026 12:56:28?PM - Type: Call Off - Notes: Appointment/family member ",1569904,
+Verizon,Lambert's Cable - PA,3,3,1,"Thompson, Arron","Thompson, Arron [athompson1]  (Confirmed)
+Jameson, Justin [jjameson]  (Confirmed)","1617 (Work Truck: Thompson, Arron)","AFD-1580 GSF (GSF AFAD: Thompson, Arron)
+AFD-1831 GSF (GSF AFAD: Thompson, Arron)","Cheshire, Timmy",9/25/2026,7:30 AM,Hagerstown,CW2586273-11319,Hagerstown MD,"11529 French Lane Hagerstown, MD 21740",Guardian SmartFlagging,2,1,1,CW2586273-11319-1 (Status: Approved) (WO#: TC474342 /EWO/Job/Ticket Number: 1A8U0MC),Yes,"Thompson, Arron",,0,,TC474342 /EWO/Job/Ticket Number: 1A8U0MC,
+Broadband Power Solutions,,0,4,0,"Gilbert, Markeyss","Gilbert, Markeyss [mgilbert]  (Confirmed)
+Krantz, Ian [ikrantz]  (Confirmed)
+Bigman, Vernon [vbigman]  (Confirmed)
+Swendsen, Glenn [gswendsen]  (Confirmed)","WMD-03 (Work Truck: Gilbert, Markeyss)
+23311 (Work Truck: Swendsen, Glenn)",,"Mcgrath, Alex",9/25/2026,8:00 AM,Hagerstown,BF2513-354,Winchester VA,"4137 Cedar Creek Grade Winchester, VA 22602",Mobile Operation,4,1,1,BF2513-354-5 (Status: Approved) (WO#: Frederick),No,,,0,,Frederick,
+Broadband Power Solutions,,6,5,0,"Grissom, James","Grissom, James [jgrissom]  (Confirmed)
+Kaline, Paul [pkaline1]  (Confirmed)
+Gross, Leland [lgross]  (Confirmed)
+Curry, Ralph [rcurry1]  (Confirmed)
+Rardin, Paige [prardin]  (Confirmed)","RT091 (Work Truck: Grissom, James)
+1077 (Work Truck: Gross, Leland)","AFD-0597 GSF (GSF AFAD: Grissom, James)
+AFD-2238 GSF (GSF AFAD: Grissom, James)","Mcgrath, Alex",9/25/2026,8:00 AM,Hagerstown,BF2513-350,Winchester VA,"Barley Lane Winchester, VA 22602",Guardian SmartFlagging,5,1,1,BF2513-350-5 (Status: Approved) (WO#: Frederick),Yes,"Grissom, James",,0,,Frederick,
+Broadband Power Solutions,,5,4,0,"Hood, Aiden","Hood, Aiden [ahood1]  (Confirmed)
+Funk, Kevin [kfunk]  (Confirmed)
+Brooks, Saraia [sbrooks1]  (Confirmed)
+Brooks, Sharod [sbrooks2]  (Confirmed)","RT116 (Work Truck: Hood, Aiden)","AFD-0482 GSF (GSF AFAD: Hood, Aiden)
+AFD-1533 GSF (GSF AFAD: Hood, Aiden)","Mcgrath, Alex",9/25/2026,8:00 AM,Hagerstown,BF2513-352,Winchester VA,"4137 Cedar Creek Grade Winchester, VA 22602",Guardian SmartFlagging,4,1,1,BF2513-352-5 (Status: Approved) (WO#: Frederick),Yes,"Hood, Aiden",,0,,Frederick,
+Broadband Power Solutions,,5,4,0,"Huffer, Tavares","Huffer, Tavares [thuffer]  (Confirmed)
+Curry, Willie [wcurry1]  (Confirmed)
+Mollohan, Jonathan [jmollohan]  (Confirmed)
+Prutzman, Bradley [bprutzman]  (Confirmed)","RT114 (Work Truck: Huffer, Tavares)
+RT398 (TMA: Curry, Willie)","AFD-1048 GSF (GSF AFAD: Huffer, Tavares)
+AFD-0767 GSF (GSF AFAD: Huffer, Tavares)","Mcgrath, Alex",9/25/2026,8:00 AM,Hagerstown,BF2513-351,Winchester VA,"4137 Cedar Creek Grade Winchester, VA 22602",Guardian SmartFlagging,4,1,1,BF2513-351-5 (Status: Approved) (WO#: Frederick),Yes,"Huffer, Tavares",,0,,Frederick,
+Broadband Power Solutions,,0,4,0,"Walker, Shaun","Walker, Shaun [swalker3]  (Confirmed)
+Sauter, Brett [bsauter]  (Confirmed)
+Mason, Brandon [bmason]  (Confirmed)
+Fontanelle, Jermaine [jfontanelle1]  (Confirmed)","1543 (Work Truck: Walker, Shaun)",,"Mcgrath, Alex",9/25/2026,8:00 AM,Hagerstown,BF2513-353,Winchester VA,"4137 Cedar Creek Grade Winchester, VA 22602",Guardian SmartFlagging,4,1,1,BF2513-353-5 (Status: Approved) (WO#: Frederick),No,,,0,,Frederick,
+MasTec Communications Group,,4,3,0,"Adame, Angel","Adame, Angel [aadame]  (Confirmed)
+Arroyo-Rodriguez, Dario [darroyorodriguez]  (Confirmed)
+Lopez-Avila, Maryuri [mlopezavila]  (Confirmed)","1544 (Work Truck: Adame, Angel)","AFD-2304 GSF (GSF AFAD: Adame, Angel)
+AFD-1761 GSF (GSF AFAD: Adame, Angel)",".*, Isreal",9/25/2026,8:00 AM,Hagerstown,25114-393,Lovettsville VA,"39102 Rickard Rd Lovettsville, VA 20180",Guardian SmartFlagging,3,1,1,25114-393-1 (Status: Approved) (WO#: 2.12),Yes,"Adame, Angel",,0,,2.12,
+MasTec Communications Group,,4,3,0,"Rodgers, Michael","Rodgers, Michael [mrodgers1]  (Confirmed)
+Brown, Tonya [tbrown24]  (Confirmed)
+Faust, Ricky [rfaust1]  (Confirmed)","1607 (Work Truck: Rodgers, Michael)
+23312 (Work Truck: Faust, Ricky)","AFD-0706 GSF (GSF AFAD: Rodgers, Michael)
+AFD-1616 GSF (GSF AFAD: Rodgers, Michael)",".*, Isreal",9/25/2026,8:00 AM,Hagerstown,25114-394,Waterford VA,"15715 Clarkes Gap Rd  Waterford, VA 20197",Guardian SmartFlagging,3,1,1,25114-394-1 (Status: Approved) (WO#: 1.9 - 949-62331),Yes,"Rodgers, Michael",,1,"Employee: Earl, Pierre - Cancelled On: 9/25/2026 10:50:00?AM - Confirmed On: Not Confirmed - Type: No Show/No Contact - Notes: NCNS",1.9 - 949-62331,
+Verizon,Verizon,3,2,0,"Mann, Tiffany","Mann, Tiffany [tmann1]  (Confirmed)
+Gray, Karyana [kgray1]  (Confirmed)","RT118 (Work Truck: Mann, Tiffany)","AFD-1083 GSF (GSF AFAD: Mann, Tiffany)
+AFD-1822 GSF (GSF AFAD: Mann, Tiffany)","Bupp, Matthew ",9/25/2026,8:00 AM,Hagerstown,CW2586273-11315,Urbana MD,"2407 Thurston Road Pole 45 Urbana, MD 21716",Guardian SmartFlagging,2,1,1,CW2586273-11315-1 (Status: Approved) (WO#: TC474237/EWO/Job/Ticket Number: 4A4B6DQ),Yes,"Mann, Tiffany",,0,,TC474237/EWO/Job/Ticket Number: 4A4B6DQ,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Carr, Brandy","Carr, Brandy [bcarr]  (Confirmed)",,,"Willey, Amy",9/25/2026,8:00 AM,Hagerstown,NH-Defensive-Driving-1211,Williamsport MD,"416 South Conococheague Street Williamsport, MD 21795",Internal Labour,1,1,1,NH-Defensive-Driving-1211-1 (Status: Approved) (WO#: Defensive Driving),No,,,0,,Defensive Driving,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Lewis, Garrett","Lewis, Garrett [glewis2]  (Confirmed)",,,"Willey, Amy",9/25/2026,8:00 AM,Hagerstown,NH-Defensive-Driving-1214,Williamsport MD,"416 South Conococheague Street Williamsport, MD 21795",Internal Labour,1,1,1,NH-Defensive-Driving-1214-1 (Status: Approved) (WO#: Defensive Driving),No,,,0,,Defensive Driving,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Shafer, Ricky","Shafer, Ricky [rshafer1]  (Confirmed)",,,"Willey, Amy",9/25/2026,8:00 AM,Hagerstown,Defensive-Driving-537,Williamsport MD,"416 S Conococheague St Williamsport, MD 21795",Internal Labour,1,1,1,Defensive-Driving-537-1 (Status: Approved),No,,,0,,,
+West Penn Power,,0,2,0,"Holben, Kevin","Holloman, Amanda [aholloman]  (Confirmed)
+Holben, Kevin [kholben]  (Confirmed)","23136 (Work Truck: Holben, Kevin)",,"Lininger , Lisa ",9/25/2026,8:00 AM,Hagerstown,750063281-996,Waynesboro PA,"Woodland Parkway Waynesboro, PA 17268",Manual Flagging,2,2,2,"750063281-996-1 (Status: Approved) (WO#: 64232367)
+750063281-996-1-A (Status: Approved) (WO#: 63979367)",No,,,0,,64232367,
+West Penn Power,,0,2,0,"Kohler, William","Kohler, William [wkohler]  (Confirmed)
+Cooper, Thomas [tcooper5]  (Confirmed)","1437 (Work Truck: Kohler, William)",,"Lininger , Lisa ",9/25/2026,8:00 AM,Hagerstown,750063281-997,Mount Alto PA,"Rocky Mount Road  Mount Alto, PA 17268",Manual Flagging,2,2,2,"750063281-997-1 (Status: Approved) (WO#: 64831193)
+750063281-997-1-A (Status: Approved) (WO#: 64505538)",No,,,0,,64831193,
