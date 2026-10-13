@@ -1,0 +1,369 @@
+Customer,Subcontractor,Requested Resources,Required Resources,Unfilled Count,Crew Lead,Assigned Employees,Assigned Equipment,GSF AFAD,Foreman,Assignment Date,Start Time,Dispatching,Job Number,Job Location Name,Job Location Address,Job Type,Assignment Count,Completed Timesheets,Total Timesheets,Timesheets,GSF Job,GSF Operator,Second GSF Operator,Cancellation Count,Cancellation Information,WO Number,Project Notes
+Columbia Gas of Pennsylvania,Kinsley Construction,0,3,0,"Sentz, Ashley","Sentz, Ashley [asentz]  (Confirmed)
+Lua, Anaya [alua2]  (Confirmed)
+Steck, Bryan [bsteck]  (Confirmed)","23137 (Work Truck: Sentz, Ashley)",,"Amspacher, Neal",8/17/2026,6:30 AM,York,CW2009101-3299,Bendersville PA,"111 South Main Street Bendersville, PA 17304",Manual Flagging,3,1,1,CW2009101-3299-1 (Status: Approved) (WO#: 40000758859) (Field Notes: AM-370 Main Street McSherrystown to 111 south Main Street bendersville PM-111 south Main Street bendersville to 370 Main Street McSherrystown ),No,,,0,,40000758859,
+Communications Infrastructure,,3,2,0,"Loucks, Wade","Loucks, Wade [wloucks]  (Confirmed)
+McMenamin, Robin [rmcmenamin]  (Confirmed)","RT198 (Work Truck: Loucks, Wade)","AFD-0725 GSF (GSF AFAD: Loucks, Wade)
+AFD-0117 GSF (GSF AFAD: Loucks, Wade)","McCloskey, Thor",8/17/2026,7:00 AM,York,2639-6,Quarryville PA,"208 East State Street Quarryville, PA 17566",Manual Flagging,2,1,1,2639-6-1 (Status: Approved) (WO#: 2601473) (Field Notes: 5:30-7 drove to 208 e state st quarryville pa meeting location 7:30-3:30 379 scroggy rd Oxford pa fiber optic cable and splicing 3:30-4:30 305 n hoover Ave new Holland pa pole replacement 4:30-5 37 killer rd new Holland pa standby 5-6:30 drove Robin to her car at 3125 york haven Manchester pa),Yes,"Loucks, Wade",,0,,2601473,
+PPL,,0,2,0,"Caraballo, Luis","Caraballo, Luis [lcaraballo]  (Confirmed)
+Ferral, Demarcus [dferral]  (Confirmed)","1427 (Work Truck: Caraballo, Luis)",,"Geesey, Kurt",8/17/2026,7:00 AM,York,10000123940L-665,Lancaster PA,"651 Delp Road Lancaster, PA 17601",Manual Flagging,2,1,1,10000123940L-665-1 (Status: Approved) (WO#: 70055166-588),No,,,0,,70055166-588,
+PPL,,0,2,0,"Frysinger, Daniel","Frysinger, Daniel [dfrysinger]  (Confirmed)
+Koch, Dakota [dkoch]  (Confirmed)","1599 (Work Truck: Frysinger, Daniel)",,"Miller, Brian",8/17/2026,7:00 AM,York,10000123940L-666,Lancaster PA,"651 Delp Road Lancaster, PA 17601",Staging,2,1,1,10000123940L-666-1 (Status: Approved) (WO#: 70055166-588) (Field Notes: Standby ),No,,,0,,70055166-588,
+PPL,,0,2,0,"Griest, Samuel","Griest, Samuel [sgriest]  (Confirmed)
+Maurer, Gerald [gmaurer]  (Confirmed)","WPA-01 (Work Truck: Griest, Samuel)",,"Urbassik, Greg",8/17/2026,7:00 AM,York,10000123940L-663,Lancaster PA,"651 Delp Road Lancaster, PA 17601",Manual Flagging,2,2,2,"10000123940L-663-1 (Status: Approved) (WO#: 42028412)
+10000123940L-663-1-A (Status: Approved) (WO#: 15114965)",No,,,0,,42028412,
+PPL,,0,2,0,"Johnson, LaRon","Johnson, LaRon [ljohnson1]  (Confirmed)
+Wright, David [dwright3]  (Confirmed)","23324 (Work Truck: Johnson, LaRon)",,"Beazley, Luke",8/17/2026,7:00 AM,York,10000123940L-664,Lancaster PA,"651 Delp Road Lancaster, PA 17601",Manual Flagging,2,1,1,10000123940L-664-1 (Status: Approved) (WO#: 14896388) (Field Notes: 313 Walnut St Columbia PA 17512 ),No,,,0,,14896388,
+PPL,,0,2,0,"Michael, Tammy","Michael, Tammy [tmichael]  (Confirmed)
+Messinger, Shelly [smessinger]  (Confirmed)","1150 (Work Truck: Michael, Tammy)",,"Foulk, Justin",8/17/2026,7:00 AM,York,10000123940L-667,Quarryville PA,"555 Camargo Road Quarryville, PA 17566",Off-Road Work,2,1,1,"10000123940L-667-1 (Status: Approved) (WO#: 42028404) (Field Notes: Picked Shelly up at 449 Clover Dr York at 6am. Drove to 555 Camargo Rd Quarryville
+ arrived at 7am. Was trouble shooting/standby from 7am to 3pm. Left Camargo Rd and drove to 449 Clover Dr York to drop Shelly off at 4pm.)",No,,,0,,42028404,
+PPL,,0,2,0,"Souden, Matthew","Souden, Matthew [msouden]  (Confirmed)
+Williams, Justin [jwillaims]  (Confirmed)","1079 (Work Truck: Souden, Matthew)",,"Herr, Bryan",8/17/2026,7:00 AM,York,10000123940L-668,Quarryville PA,"555 Camargo Road Quarryville, PA 17566",Staging,2,1,1,10000123940L-668-1 (Status: Approved) (WO#: 42028412) (Field Notes: Stanby),No,,,0,,42028412,
+PPL,,0,2,0,"Twyman, Calvin","Twyman, Calvin [ctwyman]  (Confirmed)
+Diggs, Timothy [tdiggs]  (Confirmed)","1550 (Work Truck: Twyman, Calvin)",,"Gibbs, Lenny",8/17/2026,7:00 AM,York,10000123940L-662,Lancaster PA,"651 Delp Road Lancaster, PA 17601",Off-Road Work,2,1,1,"10000123940L-662-1 (Status: Approved) (WO#: 42028420
+ oms 8669794) (Field Notes: 651 delp rd Lancaster pa )",No,,,0,,"42028420, oms 8669794",
+"Thompson Electric, Inc.",,0,2,0,"Brown, Ernie","Brown, Ernie [ebrown2]  (Confirmed)
+Flinchbaugh, Benjamin [bflinchbaugh]  (Confirmed)","1609 (Work Truck: Brown, Ernie)",,"Summers, Ken",8/17/2026,7:00 AM,York,TEI2026-99,York PA,"2048 Eden Road York, PA 17402",Manual Flagging,2,1,1,TEI2026-99-1 (Status: Approved) (WO#: 2163A0249) (Field Notes: 309 poplar St Fleetwood pa ),No,,,0,,2163A0249,
+"Thompson Electric, Inc.",,0,2,0,"Smith, Michael","Smith, Shanice [ssmith30]  (Confirmed)
+Smith, Michael [msmith20]  (Confirmed)","23118 (Work Truck: Smith, Michael)",,"Leonard, Mike",8/17/2026,7:00 AM,York,TEI2026-101,Womelsdorf PA,"4055 Conrad Weiser Pkwy Womelsdorf, PA 19567",Manual Flagging,2,1,1,"TEI2026-101-1 (Status: Approved) (WO#: 2163A0249) (Field Notes: I picked up Shanice up at her address 623 east market street York pa at 5:30am and got to the jobsite at 7:00am. After we finished for the day at 1 high medows ln Leesport 
+ PA 19533 at 4:30am I drove Shanice back to her address and got there at 6:00am)",No,,,0,,2163A0249,
+"Thompson Electric, Inc.",,0,2,0,"Zimmerman, Daniel","Zimmerman, Daniel [dzimmerman]  (Confirmed)
+DeJesus, Orlando [odejesus]  (Confirmed)","1608 (Work Truck: Zimmerman, Daniel)",,"Leonard, Mike",8/17/2026,7:00 AM,York,TEI2026-100,Womelsdorf PA,"4055 Conrad Weiser Pkwy Womelsdorf, PA 19567",Manual Flagging,2,1,1,TEI2026-100-1 (Status: Approved) (WO#: 2163A0249) (Field Notes: Installed four polls started on transformers and wires .),No,,,0,,2163A0249,
+UGI,Kinsley - RESTORATION,0,3,0,"Davidson, John","Davidson, John [jdavidson2]  (Confirmed)
+Tychinski, Alan [atychinski]  (Confirmed)
+Kearney, Christian [kearneychristan32@gmail.com]  (Confirmed)","1459 (Work Truck: Davidson, John)",,"Heck, Jeremy",8/17/2026,7:00 AM,York,CW2247137-560,Lancaster PA,"742 Nancy Lane Lancaster, PA 17601",Road Closure,3,2,2,"CW2247137-560-1 (Status: Approved) (WO#: 751563) (Field Notes: Dt for me and Alan 23 south Hartley st york pa to 742 Nancy Dr Lancaster. DT for Christian 311 s grant st Lancaster to 742 Nancy Dr Lancaster. The on 2nd job 2033 old Philadelphia pike to 311 grant st Lancaster for Christian. And 2033 old Philadelphia pike to 23 south Hartley st york for me and Alan)
+CW2247137-560-1-A (Status: Approved) (WO#: 747195) (Field Notes: Dt for me and Alan 23 south Hartley st york pa to 742 Nancy Dr Lancaster. DT for Christian 311 s grant st Lancaster to 742 Nancy Dr Lancaster. The on 2nd job 2033 old Philadelphia pike to 311 grant st Lancaster for Christian. And 2033 old Philadelphia pike to 23 south Hartley st york for me and Alan)",No,,,0,,751563,
+UGI,Kinsley - RESTORATION,3,2,0,"Nazario, Rosa","Nazario, Rosa [rnazario]  (Confirmed)
+Vazquez, Deborah [dvazquez]  (Confirmed)","RT202 (Work Truck: Nazario, Rosa)",,"Capello, Mike",8/17/2026,7:00 AM,York,CW2247137-566,Exeter PA,"14 East 36th Street Exeter, PA 19606",Road Closure,2,2,2,"CW2247137-566-1 (Status: Approved) (WO#: 070663) (Field Notes: Picked up Deborah Vasquez at her home 504 W. Philadelphia drove to the site 14 E. 36th St. and from 101 E. 36th St. at the end of the day I drove there Basquez back home 504 E. Philadelphia New York)
+CW2247137-566-1-A (Status: Approved) (WO#: 070707) (Field Notes: Picked up Deborah Vasquez at her home 504 W. Philadelphia drove to the site 14 E. 36th St. and from 101 E. 36th St. at the end of the day I drove there Basquez back home 504 E. Philadelphia New York)",No,,,0,,070663,
+UGI,Henkels & McCoy,0,2,0,"Noel, Jason","Noel, Jason [jnoel1]  (Confirmed)
+Miller, Noah [nmiller5]  (Confirmed)","1564 (Work Truck: Noel, Jason)",,"Holly, Kevin",8/17/2026,7:00 AM,York,CW2247137-561,Harrisburg PA,"312 A Kelso St Harrisburg, PA 17111",Manual Flagging,2,1,1,CW2247137-561-1 (Status: Approved) (WO#: 003086) (Field Notes: 60 arsenal rd York pa to 312 Kelso st  paxting dauphin co. 312 Kelso st paxting dauphin co  to 60 arsenal rd York pa ),No,,,0,,003086,
+UGI,Miller Pipeline,3,2,0,"Soto, Carlos","Soto, Carlos [csoto]  (Confirmed)
+Mora, Alexander [amora]  (Confirmed)","RT197 (Work Truck: Soto, Carlos)","AFD-0411 GSF (GSF AFAD: Soto, Carlos)
+AFD-1209 GSF (GSF AFAD: Soto, Carlos)","Carreras, Dixon ",8/17/2026,7:00 AM,York,CW2247137-563,Lititz PA,"201 East Main Street Lititz, PA 17543",Manual Flagging,2,1,1,CW2247137-563-1 (Status: Approved) (WO#: 754488) (Field Notes: One lane operation. Picked Alexander Mora at 244 Cherry St Elizabethtown PA and drove to meeting location. Drove Alexander Mora at 244 Cherry St Elizabethtown PA from job location.),Yes,"Soto, Carlos",,0,,754488,
+Verizon,Lambert's Cable - PA,0,2,0,"Ebaugh, Brandon","Ebaugh, Brandon [bebaugh]  (Confirmed)
+Campbell, Michael [mcampbell5]  (Confirmed)","1080 (Work Truck: Ebaugh, Brandon)",,"Lambert, Tyler",8/17/2026,7:00 AM,York,CW2586273-10576,Lebanon PA,"2700 West Cumberland Street Lebanon, PA 17042",Off-Road Work,2,1,1,CW2586273-10576-1 (Status: Approved) (WO#: TC466814   /  1A7JU6N) (Field Notes: 895 pine grove road hanover to 145 locust point road york to 2700 w.cumberland st lebanon to 1839 Bellevue road harrisburg to white barn drive Palmyra to 145 locust point road york to 895 pine grove road hanover ),No,,,0,,TC466814   /  1A7JU6N,
+Verizon,Lambert's Cable - PA,0,2,0,"Holton, Wilmore","Holton, Wilmore [wholton]  (Confirmed)
+Cain, Dazhir [dcain1]  (Confirmed)","1622 (Work Truck: Holton, Wilmore)",,"Gallagher, Gunner",8/17/2026,7:00 AM,York,CW2586273-10575,Lebanon PA,"2700 West Cumberland Street Lebanon, PA 17042",Manual Flagging,2,2,2,"CW2586273-10575-1 (Status: Approved) (WO#: TC468110   /.    1A7JU6N) (Field Notes: 265 Cottage Pl York Pa To 2700 Cumberland Street Lebanon Pa. PV074713 there were two poles with the same number on Cape Horn road with the same numbers!)
+CW2586273-10575-1-A (Status: Approved) (WO#: TC466820   /   1A8AG6M) (Field Notes: 265 Cottage Pl York Pa To 2700 Cumberland Street Lebanon Pa. PV074713 there were two poles with the same number on Cape Horn Rd road Red Lion pa with the same numbers!... Old US. Bernville Pa )",No,,,0,,TC468110   /.    1A7JU6N,
+Verizon,Verizon,0,3,0,"Weaver, Justin","Weaver, Justin [jweaver1]  (Confirmed)
+Conley, Shaniqua [sconley]  (Confirmed)
+Rosengrant, Thomas [tomrosengrant@gmail.com]  (Confirmed)","1554 (Work Truck: Weaver, Justin)",,"Sheriff, Bob",8/17/2026,7:00 AM,York,CW2586273-10574,Annville PA,"Clear Spring Road & West Main Street Annville, PA 17003",Mobile,3,1,1,"CW2586273-10574-1 (Status: Approved) (WO#: TC466108 / EWO 1A7DA5Y) (Field Notes: Picked up shaniqua at 141 oak manor dr york pa 17402
+ at 530am then Picked up Thomas at 120 Hellam St
+ Wrightsville
+ PA 17368
+At 605am got to 401 Green St
+ Lebanon
+ PA 17046 at 7am for 7am start time. Went to Clear Spring Road & West Main Street Annville
+ PA 17003 finished there at 3pm. took Tomas back to 120 Hellam St
+ Wrightsville
+ PA 17368 at 350 then took shaniqua back to 141 oak manor dr york pa 17402
+ at 420pm
+
+)",No,,,0,,TC466108 / EWO 1A7DA5Y,
+"W.D. Wright Contracting, Inc.",,0,2,0,"Atchison, Jeremy","Atchison, Jeremy [jatchison]  (Confirmed)
+Atchison, Kristina [kmena1633@gmail.com]  (Confirmed)",,,"Burkey, Marchelle",8/17/2026,7:00 AM,York,SPARE-8785,Spring Grove PA,"24 Roths Church Road Spring Grove, PA 17362",Internal Labour,2,1,1,SPARE-8785-1 (Status: Approved) (Field Notes: Jeremy and Kristina left 1404 3rd Ave York PA to 24 roths church rd spring Grove pa then back to 1404 3rd Ave York PA ),No,,,0,,,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Brice, Carson","Brice, Carson [cbrice]  (Confirmed)",,,"Burkey, Marchelle",8/17/2026,7:00 AM,York,SPARE-8786,Spring Grove PA,"24 Roths Church Road Spring Grove, PA 17362",Internal Labour,1,1,1,SPARE-8786-1 (Status: Approved),No,,,0,,,
+Columbia Gas of Pennsylvania,Kinsley Construction,0,3,0,"Sentz, Ashley","Sentz, Ashley [asentz]  (Confirmed)
+Lua, Anaya [alua2]  (Confirmed)
+Steck, Bryan [bsteck]  (Confirmed)","23137 (Work Truck: Sentz, Ashley)",,"Amspacher, Neal",8/18/2026,6:30 AM,York,CW2009101-3299,Bendersville PA,"111 South Main Street Bendersville, PA 17304",Manual Flagging,3,1,1,CW2009101-3299-2 (Status: Approved) (WO#: 40000758859) (Field Notes: AM-370 Main Street to 111 south Main Street bendersville PM-111 south Main Street bendersville to 370 Main Street McSherrystown ),No,,,0,,40000758859,
+Columbia Gas of Pennsylvania,Kinsley Construction,0,3,0,"Riskin, Andrew","Kirby, Andre [kirbya251@gmail.com]  (Confirmed)
+Riskin, Andrew [ariskin1]  (Confirmed)
+Gillespie, Devyn [dgillespie3]  (Confirmed)","1620 (Work Truck: Riskin, Andrew)",,"Smeltzer, Scott",8/18/2026,7:00 AM,York,CW2009101-3300,York PA,"116 Hamilton Avenue York, PA 17401",Manual Flagging,3,1,1,CW2009101-3300-1 (Status: Approved) (WO#: 4000087628) (Field Notes: Devyn start time is later because he came late . And the other guy called off Andre Kirby .),No,,,0,,4000087628,
+Communications Infrastructure,,3,2,0,"Loucks, Wade","Loucks, Wade [wloucks]  (Confirmed)
+McMenamin, Robin [rmcmenamin]  (Confirmed)","RT198 (Work Truck: Loucks, Wade)",,"McCloskey, Thor",8/18/2026,7:00 AM,York,2639-6,Quarryville PA,"208 East State Street Quarryville, PA 17566",Manual Flagging,2,1,1,2639-6-2 (Status: Approved) (WO#: 2602588) (Field Notes: 5:30-7 drove to 37 diller Ave new holland pa meeting location 8:30-11 305 n hoover Ave new holland pa fiber optic cable transfer 11-3 208 e state st quarryville pa standby 3-5:45 2178 york haven rd etters fiber optic cable splicing 5:45-6 drove Robin to her car at 3125 york haven manchester pa could not use the Gsfs),No,,,0,,2602588,
+"John W. Gleim Jr., Inc.",,3,2,1,"Pratt-Wenzinger, Steven","Pratt-Wenzinger, Steven [swenzinger]  (Confirmed)","RT196 (Work Truck: Pratt-Wenzinger, Steven)","AFD-1574 GSF (GSF AFAD: Pratt-Wenzinger, Steven)
+AFD-1720 GSF (GSF AFAD: Pratt-Wenzinger, Steven)","Julius, Pat",8/18/2026,7:00 AM,York,JO2667-4,Etters PA,"674 Beinhower Road Etters, PA 17319",Guardian SmartFlagging,1,1,1,JO2667-4-2 (Status: Approved) (WO#: 26-2302-Southern Crossings),Yes,"Pratt-Wenzinger, Steven",,1,"Employee: Blacka, Shirley - Cancelled On: 8/18/2026 9:21:00?AM - Confirmed On: 8/18/2026 9:20:37?AM - Type: Call Off - Notes: ",26-2302-Southern Crossings,
+PPL,,0,2,0,"Caraballo, Luis","Caraballo, Luis [lcaraballo]  (Confirmed)
+Ferral, Demarcus [dferral]  (Confirmed)","1427 (Work Truck: Caraballo, Luis)",,"Burger, Mike",8/18/2026,7:00 AM,York,10000123940L-670,Quarryville PA,"555 Camargo Road Quarryville, PA 17566",Manual Flagging,2,1,1,10000123940L-670-1 (Status: Approved) (WO#: 42028412),No,,,0,,42028412,
+PPL,,0,2,0,"Frysinger, Daniel","Frysinger, Daniel [dfrysinger]  (Confirmed)
+Koch, Dakota [dkoch]  (Confirmed)","1599 (Work Truck: Frysinger, Daniel)",,"Miller, Brian",8/18/2026,7:00 AM,York,10000123940L-666,Lancaster PA,"651 Delp Road Lancaster, PA 17601",Staging,2,1,1,10000123940L-666-2 (Status: Approved) (WO#: 70055166-588) (Field Notes: Troubleshooting ),No,,,0,,70055166-588,
+PPL,,0,2,0,"Griest, Samuel","Griest, Samuel [sgriest]  (Confirmed)
+Maurer, Gerald [gmaurer]  (Confirmed)","WPA-01 (Work Truck: Griest, Samuel)",,"Urbassik, Greg",8/18/2026,7:00 AM,York,10000123940L-663,Lancaster PA,"651 Delp Road Lancaster, PA 17601",Manual Flagging,2,1,1,10000123940L-663-2 (Status: Approved) (WO#: 14913774) (Field Notes: The address is closest to work site),No,,,0,,14913774,
+PPL,,0,2,0,"Johnson, LaRon","Johnson, LaRon [ljohnson1]  (Confirmed)
+Wright, David [dwright3]  (Confirmed)","23324 (Work Truck: Johnson, LaRon)",,"Beazley, Luke",8/18/2026,7:00 AM,York,10000123940L-664,Gordonville PA,"651 Delp Road 2941 Lincoln hwy e Gordonville, PA 17529",Manual Flagging,2,2,2,"10000123940L-664-2 (Status: Approved) (WO#: 15055644) (Field Notes: 313 Walnut St Columbia PA 17512 )
+10000123940L-664-2-A (Status: Approved) (WO#: 42028392) (Field Notes: 313 Walnut St Columbia PA 17512 )",No,,,0,,15055644,
+PPL,,0,2,0,"Michael, Tammy","Michael, Tammy [tmichael]  (Confirmed)
+Messinger, Shelly [smessinger]  (Confirmed)","1150 (Work Truck: Michael, Tammy)",,"Foulk, Justin",8/18/2026,7:00 AM,York,10000123940L-667,Quarryville PA,"1096 May Post Office Rd Quarryville, PA 17566",Manual Flagging,2,1,1,"10000123940L-667-2 (Status: Approved) (WO#: 15078703) (Field Notes: Picked Shelly up at 449 Clover Dr York at 6am. Drove to 555 Camargo Rd Quarryville
+ arrived at 7am. At 8:30am drove to 1096 May Post Office Rd Quarryville. Flagged until 12:30 pm. The foreman had us to go back to the service center at 555 Camargo Rd Quarryville
+ for trouble shooting until 3pm. Then drove to 449 Clover Dr York to drop Shelly off at 4pm.)",No,,,0,,15078703,
+PPL,,0,2,0,"Souden, Matthew","Souden, Matthew [msouden]  (Confirmed)
+Williams, Justin [jwillaims]  (Confirmed)","1079 (Work Truck: Souden, Matthew)",,"Herr, Bryan",8/18/2026,7:00 AM,York,10000123940L-668,Quarryville PA,"555 Camargo Road Quarryville, PA 17566",Manual Flagging,2,1,1,"10000123940L-668-2 (Status: Approved) (WO#: 42028404
+ oms 86760669) (Field Notes: One lane on 8670669 4 hrs. One lane on 15132855 4 hrs )",No,,,0,,"42028404, oms 86760669",
+PPL,,0,2,0,"Twyman, Calvin","Twyman, Calvin [ctwyman]  (Confirmed)
+Diggs, Timothy [tdiggs]  (Confirmed)","1550 (Work Truck: Twyman, Calvin)",,"Gibbs, Lenny",8/18/2026,7:00 AM,York,10000123940L-662,Lancaster PA,"651 Delp Road Lancaster, PA 17601",Off-Road Work,2,1,1,"10000123940L-662-2 (Status: Approved) (WO#: 42028421
+ oms 8670629) (Field Notes: 651 delp rd Lancaster pa)",No,,,0,,"42028421, oms 8670629",
+"Thompson Electric, Inc.",,0,2,0,"Brown, Ernie","Brown, Ernie [ebrown2]  (Confirmed)
+Flinchbaugh, Benjamin [bflinchbaugh]  (Confirmed)","1609 (Work Truck: Brown, Ernie)",,"Summers, Ken",8/18/2026,7:00 AM,York,TEI2026-99,York PA,"2048 Eden Road York, PA 17402",Manual Flagging,2,1,1,TEI2026-99-2 (Status: Approved) (WO#: 2163A0249) (Field Notes: 2299 Lancaster Pike Reading Pa and 220 McCoy Ln Leesport PA still on storm duty ),No,,,0,,2163A0249,
+UGI,Kinsley - RESTORATION,0,3,0,"Davidson, John","Davidson, John [jdavidson2]  (Confirmed)
+Tychinski, Alan [atychinski]  (Confirmed)
+Kearney, Christian [kearneychristan32@gmail.com]  (Confirmed)","1459 (Work Truck: Davidson, John)",,"Heck, Jeremy",8/18/2026,7:00 AM,York,CW2247137-560,6Lancaster PA,"64 Glendale Drive 6Lancaster, PA 17602",Road Closure,3,2,2,"CW2247137-560-2 (Status: Approved) (WO#: 752674) (Field Notes: Dt for me and alan 23 Hartley st york pa. To 646 Glendale drive Lancaster. DT for Christian 311 grant st Lancaster to 646 Glendale drive Lancaster DT home for Christian from 2nd job 2161 old Philadelphia plke to 311 grant st. DT from 2nd job for me and Alan 2161 old Philadelphia pike to 23 Hartley st york)
+CW2247137-560-2-A (Status: Approved) (WO#: 751280) (Field Notes: Dt for me and alan 23 Hartley st york pa. To 646 Glendale drive Lancaster. DT for Christian 311 grant st Lancaster to 646 Glendale drive Lancaster DT home for Christian from 2nd job 2161 old Philadelphia plke to 311 grant st. DT from 2nd job for me and Alan 2161 old Philadelphia pike to 23 Hartley st york)",No,,,0,,752674,
+UGI,Kinsley - RESTORATION,4,3,1,"Nazario, Rosa","Nazario, Rosa [rnazario]  (Confirmed)
+Lewis, Kyle [klewis4]  (Confirmed)","RT202 (Work Truck: Nazario, Rosa)",,"Capello, Mike",8/18/2026,7:00 AM,York,CW2247137-566,Reading PA,"110 E 35th Street Reading, PA 19606",Road Closure,2,3,3,"CW2247137-566-2 (Status: Approved) (WO#: 075648)
+CW2247137-566-2-A (Status: Approved) (WO#: 070828)
+CW2247137-566-2-B (Status: Approved) (WO#: 071011)",No,,,1,"Employee: Vazquez, Deborah - Cancelled On: 8/18/2026 7:49:00?AM - Confirmed On: 8/18/2026 7:55:22?AM - Type: Call Off - Notes: called out sick",075648,
+UGI,Henkels & McCoy,0,2,0,"Noel, Jason","Noel, Jason [jnoel1]  (Confirmed)
+Miller, Noah [nmiller5]  (Confirmed)","1564 (Work Truck: Noel, Jason)",,"Holly, Kevin",8/18/2026,7:00 AM,York,CW2247137-561,Harrisburg PA,"6774 Somerset Street Harrisburg, PA 17111",Manual Flagging,2,1,1,CW2247137-561-2 (Status: Approved) (WO#: 002757) (Field Notes: 60 arsenal rd York pa to 6774 somerset st swatara pa  6774 somerset st swatara pa to 60 arsenal rd York pa ),No,,,0,,002757,
+UGI,Miller Pipeline,3,2,0,"Soto, Carlos","Soto, Carlos [csoto]  (Confirmed)
+Mora, Alexander [amora]  (Confirmed)","RT197 (Work Truck: Soto, Carlos)","AFD-0411 GSF (GSF AFAD: Soto, Carlos)
+AFD-1209 GSF (GSF AFAD: Soto, Carlos)","Carreras, Dixon ",8/18/2026,7:00 AM,York,CW2247137-563,Lititz PA,"201 East Main Street Lititz, PA 17543",Manual Flagging,2,1,1,CW2247137-563-2 (Status: Approved) (WO#: 754488) (Field Notes: One lane operation. Picked Alexander Mora at 244 Cherry St Elizabethtown PA and drove to meeting location. Drove Alexander Mora at 244 Cherry St Elizabethtown PA from job location.),Yes,"Soto, Carlos",,0,,754488,
+Verizon,Lambert's Cable - PA,0,2,0,"Ebaugh, Brandon","Ebaugh, Brandon [bebaugh]  (Confirmed)
+Campbell, Michael [mcampbell5]  (Confirmed)","1080 (Work Truck: Ebaugh, Brandon)",,"Lambert, Tyler",8/18/2026,7:00 AM,York,CW2586273-10576,Lebanon PA,"2700 West Cumberland Street Lebanon, PA 17042",Lane Shift,2,1,1,"CW2586273-10576-2 (Status: Approved) (WO#: TC466817  /   1A8U1UD) (Field Notes: 895 pine grove road hanover to 145 locust point road york to 2700 w.cumberland st lebanon to 19 South 4th st
+ Harrisburg to 145 locust point road york to 895 pine grove road hanover )",No,,,0,,TC466817  /   1A8U1UD,
+Verizon,Verizon,0,2,0,"Gonzalez, Jonathan","Gonzalez, Jonathan [jgonzalez6]  (Confirmed)
+Vega-Rivera, Janice [jvegarivera]  (Confirmed)","23098 (Work Truck: Gonzalez, Jonathan)",,"Fletcher, Charles",8/18/2026,7:00 AM,York,CW2586273-10577,New Park PA,"332 Marsteller Road New Park, PA 17352",Manual Flagging,2,1,1,CW2586273-10577-1 (Status: Approved) (WO#: TC466081 / EWO Lowcable) (Internal Notes: crew sat on standby per the foreman at the meeting location from 2PM until 2:45PM.   Jonathan forgot to add drive home for himself and Janice as they did ride home together),No,,,0,,TC466081 / EWO Lowcable,
+Verizon,Verizon,0,3,0,"Weaver, Justin","Weaver, Justin [jweaver1]  (Confirmed)
+Brice, Carson [cbrice]  (Confirmed)
+Rosengrant, Thomas [tomrosengrant@gmail.com]  (Confirmed)","1554 (Work Truck: Weaver, Justin)",,"Sheriff, Bob",8/18/2026,7:00 AM,York,CW2586273-10630,Lebanon PA,"Boyd st at intersection of iron valley dr, Lebanon pa 17042 Lebanon, PA 17046",Lane Closure,3,1,1,"CW2586273-10630-1 (Status: Approved) (WO#: TC466373 - 1A8J0RM) (Field Notes: Picked up Thomas at 120 Hellam St
+ Wrightsville
+ PA 17368 At 605am got to 401 Green St
+ Lebanon
+ PA 17046 at 7am for 7am start time. Went to McCorkel rd Hershey pa 17033 finished there at 11am and went to Boyd st
+ intersection of iron valley Cornwall pa 17402 finished there and took Bryce back to Verizon at430pm. took Tomas back to 120 Hellam St
+ Wrightsville
+ PA 17368 at 525pm
+
+Bryce drove from 549 McAllister St
+ Hanover
+ PA 17331 at 5am got to 401 Green St
+ Lebanon
+ PA 17046 at 7am for 7am start time finished at 430pm drove back to 549 McAllister St
+ Hanover
+ PA 17331 at 630pm (2 hours each way so putting an hour dr time in for each way)
+)",No,,,1,"Employee: Conley, Shaniqua - Cancelled On: 8/18/2026 5:17:00?PM - Confirmed On: 8/18/2026 5:19:08?PM - Type: Call Off - Notes: ",TC466373 - 1A8J0RM,
+Columbia Gas of Pennsylvania,Kinsley Construction,0,3,0,"Sentz, Ashley","Sentz, Ashley [asentz]  (Confirmed)
+Lua, Anaya [alua2]  (Confirmed)
+Steck, Bryan [bsteck]  (Confirmed)","23137 (Work Truck: Sentz, Ashley)",,"Amspacher, Neal",8/19/2026,6:30 AM,York,CW2009101-3299,Bendersville PA,"111 South Main Street Bendersville, PA 17304",Manual Flagging,3,1,1,CW2009101-3299-3 (Status: Approved) (WO#: 40000758859) (Field Notes: AM-300 rife road east Berlin to 111 south Main Street bendersville PM-111 south Main Street bendersville to 300 rice road east Berlin ),No,,,0,,40000758859,
+Columbia Gas of Pennsylvania,Kinsley Construction,0,4,0,"Zimmerman, Daniel","Zimmerman, Daniel [dzimmerman]  (Confirmed)
+DeJesus, Orlando [odejesus]  (Confirmed)
+Kirby, Andre [kirbya251@gmail.com]  (Confirmed)
+Etheridge, Adriel [adrieletheridge1999@icloud.com]  (Confirmed)","1608 (Work Truck: Zimmerman, Daniel)",,"Smeltzer, Scott",8/19/2026,7:00 AM,York,CW2009101-3300,York PA,"116 Hamilton Avenue York, PA 17401",Maintenance of Traffic,4,1,1,CW2009101-3300-2 (Status: Approved) (WO#: 4000087628) (Field Notes: Work gas lines installed new lines too homes.),No,,,0,,4000087628,
+Communications Infrastructure,,3,2,0,"Loucks, Wade","Loucks, Wade [wloucks]  (Confirmed)
+McMenamin, Robin [rmcmenamin]  (Confirmed)","RT198 (Work Truck: Loucks, Wade)",,"McCloskey, Thor",8/19/2026,7:00 AM,York,2639-6,Quarryville PA,"208 East State Street Quarryville, PA 17566",Manual Flagging,2,1,1,2639-6-3 (Status: Approved) (WO#: 2601529) (Field Notes: GSF NOT USED = BROKEN 5:30-7 drove to 40 Collier Ave elizabethville pa meeting location/standby 8:30-3 71 tower rd Tremont pa mobile fiber optic cable and lashing 3-4:30 drove Robin to her car at 3125 york haven manchester pa),No,,,0,,2601529,
+"John W. Gleim Jr., Inc.",,3,2,0,"Pratt-Wenzinger, Steven","Pratt-Wenzinger, Steven [swenzinger]  (Confirmed)
+Blacka, Shirley [sblacka1]  (Confirmed)","RT196 (Work Truck: Pratt-Wenzinger, Steven)","AFD-1574 GSF (GSF AFAD: Pratt-Wenzinger, Steven)
+AFD-1720 GSF (GSF AFAD: Pratt-Wenzinger, Steven)","Julius, Pat",8/19/2026,7:00 AM,York,JO2667-4,Etters PA,"674 Beinhower Road Etters, PA 17319",Guardian SmartFlagging,2,1,1,JO2667-4-3 (Status: Approved) (WO#: 26-2302-Southern Crossings) (Field Notes: I picked up shirley at 6:30 am at 1352 n George st York pa 17404 then drop her off at 6:00pm at 1352 north George st York pa 17404),Yes,"Pratt-Wenzinger, Steven",,0,,26-2302-Southern Crossings,
+PPL,,0,2,0,"Caraballo, Luis","Caraballo, Luis [lcaraballo]  (Confirmed)
+Ferral, Demarcus [dferral]  (Confirmed)","1427 (Work Truck: Caraballo, Luis)",,"Foulk, Justin",8/19/2026,7:00 AM,York,10000123940L-667,Quarryville PA,"555 Camargo Road Quarryville, PA 17566",Manual Flagging,2,1,1,"10000123940L-667-3 (Status: Approved) (WO#: 15077934) (Internal Notes: crew lead resubmitted too quickly and forgot to add the wo number
+ he just called it in to me)",No,,,0,,15077934,
+PPL,,0,2,0,"Frysinger, Daniel","Frysinger, Daniel [dfrysinger]  (Confirmed)
+Koch, Dakota [dkoch]  (Confirmed)","1599 (Work Truck: Frysinger, Daniel)",,"Miller, Brian",8/19/2026,7:00 AM,York,10000123940L-666,Lancaster PA,"651 Delp Road Lancaster, PA 17601",Staging,2,2,2,"10000123940L-666-3 (Status: Approved) (WO#: 70055166-588) (Field Notes: Standby )
+10000123940L-666-3-A (Status: Approved) (WO#: 15025542) (Field Notes: One lane flagging )",No,,,0,,70055166-588,
+PPL,,0,2,0,"Griest, Samuel","Griest, Samuel [sgriest]  (Confirmed)
+Maurer, Gerald [gmaurer]  (Confirmed)","WPA-01 (Work Truck: Griest, Samuel)",,"Urbassik, Greg",8/19/2026,7:00 AM,York,10000123940L-663,Lancaster PA,"651 Delp Road Lancaster, PA 17601",Manual Flagging,2,2,2,"10000123940L-663-3 (Status: Approved) (WO#: 15133391)
+10000123940L-663-3-A (Status: Approved) (WO#: 14901209)",No,,,0,,15133391,
+PPL,,0,2,0,"Johnson, LaRon","Johnson, LaRon [ljohnson1]  (Confirmed)
+Wright, David [dwright3]  (Confirmed)","23324 (Work Truck: Johnson, LaRon)",,"Beazley, Luke",8/19/2026,7:00 AM,York,10000123940L-664,Lancaster PA,"651 Delp Road 1864-1814 millersville pike Lancaster, PA 17603",Manual Flagging,2,1,1,10000123940L-664-3 (Status: Approved) (WO#: 15025542) (Field Notes: 313 Walnut St Columbia PA 17512 ),No,,,0,,15025542,
+PPL,,0,2,0,"Souden, Matthew","Souden, Matthew [msouden]  (Confirmed)
+Williams, Justin [jwillaims]  (Confirmed)","1079 (Work Truck: Souden, Matthew)",,"Herr, Bryan",8/19/2026,7:00 AM,York,10000123940L-668,Quarryville PA,"523 valley Rd  Quarryville, PA 17566",Off-Road Work,2,1,1,10000123940L-668-3 (Status: Approved) (WO#: 15127955) (Field Notes: Off road ),No,,,0,,15127955,
+PPL,,0,2,0,"Twyman, Calvin","Twyman, Calvin [ctwyman]  (Confirmed)
+Diggs, Timothy [tdiggs]  (Confirmed)","1550 (Work Truck: Twyman, Calvin)",,"Gibbs, Lenny",8/19/2026,7:00 AM,York,10000123940L-662,Lancaster PA,"651 Delp Road Lancaster, PA 17601",Lane Shift,2,1,1,"10000123940L-662-3 (Status: Approved) (WO#: 42028418
+ oms 8670941) (Field Notes: 651 delp rd Lancaster pa)",No,,,0,,"42028418, oms 8670941",
+"Thompson Electric, Inc.",,0,2,0,"Atchison, Jeremy","Atchison, Jeremy [jatchison]  (Confirmed)
+Brown, Shymir [shybrown59@icloud.com]  (Confirmed)","1612 (Work Truck: Atchison, Jeremy)",,"Leonard, Mike",8/19/2026,7:00 AM,York,TEI2026-100,Reading PA,"246 west Douglass st  Reading, PA 19601",Manual Flagging,2,1,1,"TEI2026-100-3 (Status: Approved) (WO#: 63810916) (Field Notes: Jeremy and shymir left 1404 3rd ave York PA to 4055 Conrad weiser parkway womelsdorf
+ then went to job site at 246 west Douglass st reading pa
+ then drove back to 1404 3rd Ave York PA )",No,,,0,,63810916,
+"Thompson Electric, Inc.",,0,2,0,"Brown, Ernie","Brown, Ernie [ebrown2]  (Confirmed)
+Flinchbaugh, Benjamin [bflinchbaugh]  (Confirmed)","1609 (Work Truck: Brown, Ernie)",,"Summers, Ken",8/19/2026,7:00 AM,York,TEI2026-99,York PA,"2048 Eden Road York, PA 17402",Manual Flagging,2,1,1,TEI2026-99-3 (Status: Approved) (WO#: 62962458) (Field Notes: 2480 wyndhurst ct York PA ),No,,,0,,62962458,
+"Thompson Electric, Inc.",,0,2,0,"Gonzalez, Jonathan","Gonzalez, Jonathan [jgonzalez6]  (Confirmed)
+Vega-Rivera, Janice [jvegarivera]  (Confirmed)","23098 (Work Truck: Gonzalez, Jonathan)",,"Leonard, Mike",8/19/2026,7:00 AM,York,TEI2026-101,Womelsdorf PA,"4055 Conrad Weiser Pkwy Womelsdorf, PA 19567",Mobile,2,1,1,TEI2026-101-3 (Status: Approved) (WO#: GIVEN ON SITE),No,,,0,,GIVEN ON SITE,
+UGI,Kinsley - RESTORATION,0,3,0,"Davidson, John","Davidson, John [jdavidson2]  (Confirmed)
+Tychinski, Alan [atychinski]  (Confirmed)
+Flerx, Robert [rflerx2]  (Confirmed)","1459 (Work Truck: Davidson, John)",,"Heck, Jeremy",8/19/2026,7:00 AM,York,CW2247137-560,Lancaster PA,"1713 Windy Hill Road Lancaster, PA 17602",Road Closure,3,2,2,"CW2247137-560-3 (Status: Approved) (WO#: 747190) (Field Notes: Dt 23 s Hartley st york to 1713 windy hill rd Lancaster. Drove to 2nd job DT from there 704 skip lane Lancaster to 23 south Hartley st york)
+CW2247137-560-3-A (Status: Approved) (WO#: 750321) (Field Notes: Dt 23 s Hartley st york to 1713 windy hill rd Lancaster. Drove to 2nd job DT from there 704 skip lane Lancaster to 23 south Hartley st york Robert left at 1:45. Not feeling well. Dod not need a replacement.)",No,,,0,,747190,
+UGI,Miller Pipeline,0,2,0,"Michael, Tammy","Michael, Tammy [tmichael]  (Confirmed)
+Messinger, Shelly [smessinger]  (Confirmed)","1150 (Work Truck: Michael, Tammy)",,"Carreras, Dixon ",8/19/2026,7:00 AM,York,CW2247137-563,Lititz PA,"201 East Main Street Lititz, PA 17543",Manual Flagging,2,1,1,"CW2247137-563-3 (Status: Approved) (WO#: 754488) (Field Notes: Picked Shelly up at 6:15am. Drove to 201 E Main St Lititz
+arrived at 7am. From 7am until 2pm worked. At 2pm followed the foreman back to his yard at 700 Hartman Station Rd Lancaster. At 3pm left there headed for 449 Clover Dr York to drop Shelly off at 3:45pm)",No,,,0,,754488,
+UGI,Kinsley - RESTORATION,4,3,0,"Nazario, Rosa","Nazario, Rosa [rnazario]  (Confirmed)
+Lewis, Kyle [klewis4]  (Confirmed)
+Vazquez, Deborah [dvazquez]  (Confirmed)","RT202 (Work Truck: Nazario, Rosa)",,"Capello, Mike",8/19/2026,7:00 AM,York,CW2247137-566,Reading PA,"3309 Circle Avenue Reading, PA 19606",Road Closure,3,2,2,"CW2247137-566-3 (Status: Approved) (WO#: 068080) (Field Notes: Picked up Deborah Vasquez at her home 504 E. Philadelphia drove to 4003 Grant St. from Grant Street. We drove to 3309 Circle Dr. from there at the end of the day I drove several Vasquez back to her home 504 E. Philadelphia
+ New York )
+CW2247137-566-3-A (Status: Approved) (WO#: 068080) (Field Notes: Picked up Deborah Vasquez at her home 504 E. Philadelphia drove to 4003 Grant St. from Grant Street. We drove to 3309 Circle Dr. from there at the end of the day I drove several Vasquez back to her home 504 E. Philadelphia
+ New York )",No,,,0,,068080,
+UGI,Henkels & McCoy,0,2,0,"Noel, Jason","Noel, Jason [jnoel1]  (Confirmed)
+Miller, Noah [nmiller5]  (Confirmed)","1564 (Work Truck: Noel, Jason)",,"Holly, Kevin",8/19/2026,7:00 AM,York,CW2247137-561,Lower Paxton PA,"135 Peach Street Lower Paxton, PA 17112",Manual Flagging,2,1,1,CW2247137-561-3 (Status: Approved) (WO#: 004574) (Field Notes: 60 arsenal rd York pa to  135 peach st lower Paxton pa. 135 peach st lower Paxton pa to 60 arsenal rd York pa ),No,,,0,,004574,
+Verizon,Lambert's Cable - PA,0,2,0,"Ebaugh, Brandon","Ebaugh, Brandon [bebaugh]  (Confirmed)
+Campbell, Michael [mcampbell5]  (Confirmed)","1080 (Work Truck: Ebaugh, Brandon)",,"Lambert, Tyler",8/19/2026,7:00 AM,York,CW2586273-10576,Lebanon PA,"2700 West Cumberland Street Lebanon, PA 17042",Road Closure,2,1,1,CW2586273-10576-3 (Status: Approved) (WO#: TC467032   /  1A7VA8A) (Field Notes: 895 pine grove road hanover to 145 locust point road york to 2700 w.cumberland st lebanon to 20 e.eleventh avenue york to 145 locust point road york to 895 pine grove road hanover ),No,,,0,,TC467032   /  1A7VA8A,
+Verizon,Lambert's Cable - PA,0,2,0,"Holton, Wilmore","Holton, Wilmore [wholton]  (Confirmed)
+Cain, Dazhir [dcain1]  (Confirmed)","1622 (Work Truck: Holton, Wilmore)",,"Gallagher, Gunner",8/19/2026,7:00 AM,York,CW2586273-10575,Lebanon PA,"2700 West Cumberland Street Lebanon, PA 17042",Manual Flagging,2,2,2,"CW2586273-10575-3 (Status: Approved) (WO#: TC467044  /  NonEWO) (Field Notes: 265 Cottage Pl York Pa To 2700 Cumberland Street Lebanon Pa. 307-201 Beaver Street East Berlin Pa )
+CW2586273-10575-3-A (Status: Approved) (WO#: TC467046   /  1A8J0BM) (Field Notes: 265 Cottage Pl York Pa To 2700 Cumberland Street Lebanon Pa. 307-201 Beaver Street East Berlin Pa  To 1517 N. George Street York Pa To 265 Cottage Pl York Pa.)",No,,,0,,TC467044  /  NonEWO,
+Verizon,Verizon,0,4,0,"Smith, Michael","Smith, Michael [msmith20]  (Confirmed)
+Smith, Shanice [ssmith30]  (Confirmed)
+Brice, Carson [cbrice]  (Confirmed)
+Oheren, Matthew [matthewoheren@gmail.com]  (Confirmed)","23118 (Work Truck: Smith, Michael)",,"Sheriff, Bob",8/19/2026,7:00 AM,York,CW2586273-10656,Lebanon PA,"East Main Street & Quentin Road  Lebanon, PA 17046",Manual Flagging,4,1,1,CW2586273-10656-1 (Status: Approved) (WO#: TC466724 - 1A8J0RM) (Field Notes: I picked up Shanice from her address at 5:30am and got to the meeting location at 7:00am... after we finished for the day we left the jobsite at 4:00pm and got back to Shanice address at 5:00pm),No,,,0,,TC466724 - 1A8J0RM,
+Verizon,Verizon,0,4,0,"Weaver, Justin","Weaver, Justin [jweaver1]  (Confirmed)
+Conley, Shaniqua [sconley]  (Confirmed)
+Rosengrant, Thomas [tomrosengrant@gmail.com]  (Confirmed)
+Santana-Cruz, Reynaldo [cruz.dre3@icloud.com]  (Confirmed)","1554 (Work Truck: Weaver, Justin)
+AB-190 (Arrow Board)",,"Hivner, David",8/19/2026,7:00 AM,York,CW2586273-10632,York PA,"1715 N Susquehanna Trail York, PA 17404",Arrow Board,4,1,1,"CW2586273-10632-2 (Status: Approved) (WO#: TC466362 - 1A7RL9K) (Field Notes: went to 24 roth church rd spring grove pa to pick up arrow board at 600am then went to pick up reynoldo at 248 Chain Ave
+ York
+ PA 17403 at 630am then went and picked up shaniqua at 141 Oak Manor Dr
+ York
+ PA 17402 at 655am got to meeting location 2246 S Queen St
+ York
+ PA 17402 at 7am for 7am start time.went to job location 1715 N Susquehanna Trail York
+ PA 17404 finished at 300 pm took arrow board back to 24 roth church rd spring grove pa at  330pm then took reynoldo santana back to 248 Chain Ave
+ York
+ PA 17403at 4pm then took shaniqua back to 141 Oak Manor Dr
+ York
+ PA 17402 at 415pm)",No,,,0,,TC466362 - 1A7RL9K,
+Verizon,Lambert's Cable - PA,3,2,0,"Soto, Carlos","Soto, Carlos [csoto]  (Confirmed)
+Mora, Alexander [amora]  (Confirmed)","RT197 (Work Truck: Soto, Carlos)",,"CSB, MAYS",8/19/2026,8:00 AM,York,CW2586273-10646,York PA,"2251 North George Street York, PA 17402",Lane Shift,2,1,1,CW2586273-10646-1 (Status: Approved) (WO#: TC467038   EWO:1A7RL9K) (Field Notes: Lane shift. Picked Alexander Mora at 244 Cherry St Elizabethtown PA and drove to meeting location. Drove Alexander Mora at 244 Cherry St Elizabethtown PA from job location.),No,,,0,,TC467038   EWO:1A7RL9K,
+Columbia Gas of Pennsylvania,Kinsley Construction,0,3,0,"Sentz, Ashley","Sentz, Ashley [asentz]  (Confirmed)
+Kirby, Andre [kirbya251@gmail.com]  (Confirmed)
+Steck, Bryan [bsteck]  (Confirmed)","23137 (Work Truck: Sentz, Ashley)",,"Amspacher, Neal",8/20/2026,6:30 AM,York,CW2009101-3299,Bendersville PA,"111 South Main Street Bendersville, PA 17304",Manual Flagging,3,1,1,CW2009101-3299-4 (Status: Approved) (WO#: 40000758859) (Field Notes: PM-111 south Main Street bendersville to 370 Main Street McSherrystown ),No,,,0,,40000758859,
+Columbia Gas of Pennsylvania,Kinsley Construction,0,5,0,"Soto, Carlos","Zimmerman, Daniel [dzimmerman]  (Confirmed)
+Etheridge, Adriel [adrieletheridge1999@icloud.com]  (Confirmed)
+Santana-Cruz, Reynaldo [cruz.dre3@icloud.com]  (Confirmed)
+Soto, Carlos [csoto]  (Confirmed)
+Mora, Alexander [amora]  (Confirmed)","1608 (Work Truck: Zimmerman, Daniel)
+RT197 (Work Truck: Soto, Carlos)",,"Smeltzer, Scott",8/20/2026,7:00 AM,York,CW2009101-3300,York PA,"116 Hamilton Avenue York, PA 17401",Manual Flagging,5,1,1,CW2009101-3300-3 (Status: Approved) (WO#: 4000087628) (Field Notes: Road closure. Dropped Alexander Mora at his home at 244 Cherry St Elizabethtown PA from job location.),No,,,0,,4000087628,
+Communications Infrastructure,,0,2,0,"Loucks, Wade","Loucks, Wade [wloucks]  (Confirmed)
+McMenamin, Robin [rmcmenamin]  (Confirmed)","RT198 (Work Truck: Loucks, Wade)",,"McCloskey, Thor",8/20/2026,7:00 AM,York,2639-6,Quarryville PA,"208 East State Street Quarryville, PA 17566",Manual Flagging,2,1,1,2639-6-4 (Status: Approved) (WO#: 2601494) (Field Notes: GSF NOT USED = BROKEN 5:30-7 drove to 71 tower rd Tremont pa meeting location/ standby 9:15-3 259 Mccoy Ln leesport pa road closed tree down fiber optic cable and splicing 3-4:30 drove Robin to her car at 3125 york haven pa  ),No,,,0,,2601494,
+"John W. Gleim Jr., Inc.",,3,2,0,"Pratt-Wenzinger, Steven","Pratt-Wenzinger, Steven [swenzinger]  (Confirmed)
+Blacka, Shirley [sblacka1]  (Confirmed)","RT196 (Work Truck: Pratt-Wenzinger, Steven)","AFD-1574 GSF (GSF AFAD: Pratt-Wenzinger, Steven)
+AFD-1720 GSF (GSF AFAD: Pratt-Wenzinger, Steven)","Julius, Pat",8/20/2026,7:00 AM,York,JO2667-4,Etters PA,"674 Beinhower Road Etters, PA 17319",Guardian SmartFlagging,2,1,1,JO2667-4-4 (Status: Approved) (WO#: 26-2302-Southern Crossings) (Field Notes: I picked up shirley at 6:30 am at 1352 n George st York pa 17404 then drop her off at 3 pm at 1352 north George st York pa 17404) (Internal Notes: DQA approved this timesheet with 630PM - 7AM drive time to job for both flaggers which caused overlap on todays timesheet),Yes,"Pratt-Wenzinger, Steven",,0,,26-2302-Southern Crossings,
+PPL,,0,2,0,"Caraballo, Luis","Caraballo, Luis [lcaraballo]  (Confirmed)
+Ferral, Demarcus [dferral]  (Confirmed)","1427 (Work Truck: Caraballo, Luis)",,"Geesey, Kurt",8/20/2026,7:00 AM,York,10000123940L-665,Lancaster PA,"651 Delp Road Lancaster, PA 17601",Manual Flagging,2,1,1,10000123940L-665-4 (Status: Approved) (WO#: 70055166-588),No,,,0,,70055166-588,
+PPL,,0,2,0,"Griest, Samuel","Griest, Samuel [sgriest]  (Confirmed)
+Maurer, Gerald [gmaurer]  (Confirmed)","WPA-01 (Work Truck: Griest, Samuel)",,"Urbassik, Greg",8/20/2026,7:00 AM,York,10000123940L-663,Lancaster PA,"651 Delp Road Lancaster, PA 17601",Off-Road Work,2,1,1,10000123940L-663-4 (Status: Approved) (WO#: 15080982),No,,,0,,15080982,
+PPL,,0,2,0,"Johnson, LaRon","Johnson, LaRon [ljohnson1]  (Confirmed)
+Rosengrant, Thomas [tomrosengrant@gmail.com]  (Confirmed)","23324 (Work Truck: Johnson, LaRon)",,"Beazley, Luke",8/20/2026,7:00 AM,York,10000123940L-664,Gordonville PA,"651 Delp Road 2941 Lincoln highway E Gordonville, PA 17529",Manual Flagging,2,1,1,10000123940L-664-4 (Status: Approved) (WO#: 15055644),No,,,0,,15055644,
+PPL,,0,2,0,"Michael, Tammy","Michael, Tammy [tmichael]  (Confirmed)
+Messinger, Shelly [smessinger]  (Confirmed)","1150 (Work Truck: Michael, Tammy)",,"Foulk, Justin",8/20/2026,7:00 AM,York,10000123940L-667,Quarryville PA,"555 Camargo Road Quarryville, PA 17566",Off-Road Work,2,1,1,"10000123940L-667-4 (Status: Approved) (WO#: 42028404) (Field Notes: Picked Shelly up at 449 Clover Dr York at 6am. Drove to 555 Camargo Rd Quarryville
+ arrived at 7am. Was trouble shooting/standby from 7am to 3pm. Left Camargo Rd Quarryville
+ drove to 449 Clover Dr York to drop Shelly off at 4pm.)",No,,,0,,42028404,
+PPL,,0,2,0,"Souden, Matthew","Souden, Matthew [msouden]  (Confirmed)
+Williams, Justin [jwillaims]  (Confirmed)","1079 (Work Truck: Souden, Matthew)",,"Herr, Bryan",8/20/2026,7:00 AM,York,10000123940L-668,Quarryville PA,"555 Camargo Road Quarryville, PA 17566",Manual Flagging,2,1,1,10000123940L-668-4 (Status: Approved) (WO#: 14830399) (Field Notes: 14830399 one lane 5 hrs. 8671476-1 off road work 3 hrs),No,,,0,,14830399,
+PPL,,0,2,0,"Twyman, Calvin","Twyman, Calvin [ctwyman]  (Confirmed)
+Diggs, Timothy [tdiggs]  (Confirmed)","1550 (Work Truck: Twyman, Calvin)",,"Gibbs, Lenny",8/20/2026,7:00 AM,York,10000123940L-662,Lancaster PA,"651 Delp Road Lancaster, PA 17601",Off-Road Work,2,1,1,10000123940L-662-4 (Status: Approved) (WO#: 70055166-588) (Field Notes: 651 delp rd Lancaster pa),No,,,0,,70055166-588,
+"Thompson Electric, Inc.",,0,2,0,"Atchison, Jeremy","Atchison, Jeremy [jatchison]  (Confirmed)
+Brown, Shymir [shybrown59@icloud.com]  (Confirmed)","1612 (Work Truck: Atchison, Jeremy)",,"Leonard, Mike",8/20/2026,7:00 AM,York,TEI2026-101,Reading  PA,"924 Hampden blvd  Reading , PA 19604",Manual Flagging,2,1,1,TEI2026-101-4 (Status: Approved) (WO#: 63507859) (Field Notes: Jeremy and shymir left 1404 3rd Ave York PA to 4055 Conrad weiser parkway blvd womelsdorf pa. 1st job 924 Hampden blvd Reading pa 2nd 2nd job 801 lobelia ave reading pa then meted yard with client. Then was parked off and instructed by client to wait for further instructions ),No,,,0,,63507859,
+"Thompson Electric, Inc.",,0,2,0,"Brown, Ernie","Brown, Ernie [ebrown2]  (Confirmed)
+Flinchbaugh, Benjamin [bflinchbaugh]  (Confirmed)","1609 (Work Truck: Brown, Ernie)
+AB-190 (Arrow Board)",,"Summers, Ken",8/20/2026,7:00 AM,York,TEI2026-99,York PA,"2048 Eden Road York, PA 17402",Manual Flagging,2,1,1,TEI2026-99-4 (Status: Approved) (WO#: 63423018) (Field Notes: 2519 Mt rose ave York PA ),No,,,0,,63423018,
+"Thompson Electric, Inc.",,0,2,0,"Gonzalez, Jonathan","Gonzalez, Jonathan [jgonzalez6]  (Confirmed)
+Vega-Rivera, Janice [jvegarivera]  (Confirmed)","23098 (Work Truck: Gonzalez, Jonathan)",,"Leonard, Mike",8/20/2026,7:00 AM,York,TEI2026-100,Laureldale PA,"3617 Kutztown Rd, Laureldale, PA 19605",Manual Flagging,2,1,1,TEI2026-100-4 (Status: Approved) (WO#: Laureldale),No,,,0,,Laureldale,
+UGI,Kinsley - RESTORATION,0,3,0,"Davidson, John","Davidson, John [jdavidson2]  (Confirmed)
+Tychinski, Alan [atychinski]  (Confirmed)
+DeJesus, Orlando [odejesus]  (Confirmed)","1459 (Work Truck: Davidson, John)",,"Heck, Jeremy",8/20/2026,7:00 AM,York,CW2247137-560,Litiz PA,"1085 buckwater rd Litiz, PA 17603",Manual Flagging,3,1,1,CW2247137-560-4 (Status: Approved) (WO#: 754985) (Field Notes: Dt to site 23 south Hartley st york To 1085 backwater st litiz. Dt home from 1085 backwater. St litiz to 1145 moulstown town rd hanover pa),No,,,0,,754985,
+UGI,Kinsley - RESTORATION,4,3,0,"Nazario, Rosa","Nazario, Rosa [rnazario]  (Confirmed)
+Vazquez, Deborah [dvazquez]  (Confirmed)
+Lewis, Kyle [klewis4]  (Confirmed)","RT202 (Work Truck: Nazario, Rosa)","AFD-2693 GSF (GSF AFAD: Nazario, Rosa)
+AFD-2025 GSF (GSF AFAD: Nazario, Rosa)","Capello, Mike",8/20/2026,7:00 AM,York,CW2247137-566,Reading PA,"10 West 33rd Street Reading, PA 19606",Road Closure,3,4,4,"CW2247137-566-4 (Status: Approved) (WO#: 070652) (Field Notes: Picked up Deborah Vasquez at our home 504 E. Philadelphia York drove to the side 10 W. 33rd St. at the end of the day I drove Deborah back to her home 504 E. Philadelphia)
+CW2247137-566-4-B (Status: Approved) (WO#: 070698) (Field Notes: Picked up Deborah Vasquez at our home 504 E. Philadelphia York drove to the side 10 W. 33rd St. at the end of the day I drove Deborah back to her home 504 E. Philadelphia)
+CW2247137-566-4-C (Status: Approved) (WO#: 070489) (Field Notes: Picked up Deborah Vasquez at our home 504 E. Philadelphia York drove to the side 10 W. 33rd St. at the end of the day I drove Deborah back to her home 504 E. Philadelphia)
+CW2247137-566-4-A (Status: Approved) (WO#: 070673) (Field Notes: Picked up Deborah Vasquez at our home 504 E. Philadelphia York drove to the side 10 W. 33rd St. at the end of the day I drove Deborah back to her home 504 E. Philadelphia)",Yes,"Nazario, Rosa",,1,"Employee: Kearney, Christian - Cancelled On: 8/20/2026 9:58:00?AM - Confirmed On: 8/20/2026 9:57:42?AM - Type: Call Off - Notes: Failed to notify CL the night before of transportation needs",070652,
+UGI,Henkels & McCoy,0,2,0,"Noel, Jason","Noel, Jason [jnoel1]  (Confirmed)
+Miller, Noah [nmiller5]  (Confirmed)","1564 (Work Truck: Noel, Jason)",,"Holly, Kevin",8/20/2026,7:00 AM,York,CW2247137-561,Lancaster PA,"342 New Dorwart Street Lancaster, PA 17603",Manual Flagging,2,1,1,CW2247137-561-4 (Status: Approved) (WO#: 753484),No,,,0,,753484,
+Verizon,Verizon,0,2,0,"Weaver, Justin","Weaver, Justin [jweaver1]  (Confirmed)
+Conley, Shaniqua [sconley]  (Confirmed)","1554 (Work Truck: Weaver, Justin)",,"Fletcher, Charles",8/20/2026,7:00 AM,York,CW2586273-10672,Dillsburg PA,"Chestnut Grove Road & Dorsey Lane Dillsburg, PA 17019",Mobile,2,1,1,"CW2586273-10672-1 (Status: Approved) (WO#: TC466896 / EWO Fibertrbl) (Field Notes: Picked up shaniqua  at 141 Oak Manor Dr
+ York
+ PA 17402 at 655am got to meeting location 2246 south Queen Street York pa 17402 at 7am for 7am start time. We went to Chestnut Grove rd & Dorsey lane Dillsburge pa 17019 left there around 12 and went to 501 north George st york pa.we finished at 3pm took shaniqua back to 141 Oak Manor Dr
+ York
+ PA 17402 at 310pm
+
+
+
+)",No,,,0,,TC466896 / EWO Fibertrbl,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Flerx, Robert","Flerx, Robert [rflerx2]  (Confirmed)",,,"Burkey, Marchelle",8/20/2026,7:00 AM,York,SPARE-8884,Spring Grove PA,"24 Roths Church Road Spring Grove, PA 17362",Manual Flagging,1,1,1,SPARE-8884-1 (Status: Approved),No,,,0,,,
+"W.D. Wright Contracting, Inc.",,0,2,0,"Soto, Carlos","Soto, Carlos [csoto]  (Confirmed)
+Mora, Alexander [amora]  (Confirmed)",,,"Burkey, Marchelle",8/20/2026,7:00 AM,York,SPARE-8882,Spring Grove PA,"24 Roths Church Road Spring Grove, PA 17362",Manual Flagging,2,1,1,SPARE-8882-1 (Status: Approved) (Field Notes: Picked Alexander Mora at 244 Cherry St Elizabethtown PA and drove to office. We got sent on a Job at 116 Hamilton Ave York PA.),No,,,0,,,
+PPL,,0,2,0,"Atchison, Jeremy","Atchison, Jeremy [jatchison]  (Confirmed)
+Lewis, Kyle [klewis4]  (Confirmed)","1612 (Work Truck: Atchison, Jeremy)",,"Burger, Mike",8/20/2026,6:00 PM,York,10000123940L-676,Quarryville PA,"555 Camargo Road Quarryville, PA 17566",Manual Flagging,2,1,1,10000123940L-676-1 (Status: Approved) (WO#: STORM 15023053) (Field Notes: Storm ),No,,,0,,STORM 15023053,
+Verizon,Verizon,0,4,0,"Smith, Michael","Brice, Carson [cbrice]  (Confirmed)
+Oheren, Matthew [matthewoheren@gmail.com]  (Confirmed)
+Smith, Michael [msmith20]  (Confirmed)
+Smith, Shanice [ssmith30]  (Confirmed)","23118 (Work Truck: Smith, Michael)",,"Sheriff, Bob",8/20/2026,7:00 AM,York,CW2586273-10656,Lebanon PA,"East Main Street & Quentin Road Lebanon, PA 17042",Manual Flagging,4,1,1,CW2586273-10656-2 (Status: Approved) (WO#: TC466824 / EWO 1A8J0RM) (Field Notes: I picked Shanice up from her address 623 east market street York pa at 5:30am and got to the jobsite at 7:00am... after we finished for the day at 1:30pm I dropped Shanice back at her address and got there at 2:30),No,,,0,,TC466824 / EWO 1A8J0RM,
+Verizon,Lambert's Cable - PA,0,2,0,"Ebaugh, Brandon","Ebaugh, Brandon [bebaugh]  (Confirmed)
+Campbell, Michael [mcampbell5]  (Confirmed)","1080 (Work Truck: Ebaugh, Brandon)",,"Lambert, Tyler",8/20/2026,7:30 AM,York,CW2586273-10576,Harrisburg PA,"326 Market Street Harrisburg, PA 17101",Lane Shift,2,1,1,CW2586273-10576-4 (Status: Approved) (WO#: TC467293   /   1A8U1UD) (Field Notes: 895 pine grove road hanover to 145 locust point road york to 2700 w.cumberland st lebanon to 326 market st harrisburg to 520 airport drive Harrisburg to 145 locust point rd york to 895 pine grove rd hanover ),No,,,0,,TC467293   /   1A8U1UD,
+Verizon,Lambert's Cable - PA,0,2,0,"Holton, Wilmore","Holton, Wilmore [wholton]  (Confirmed)
+Cain, Dazhir [dcain1]  (Confirmed)","1622 (Work Truck: Holton, Wilmore)",,"Gallagher, Gunner",8/20/2026,7:30 AM,York,CW2586273-10575,Lancaster  PA,"843-801Grandview Rd. Lancaster , PA 17601",Manual Flagging,2,1,1,CW2586273-10575-4 (Status: Approved) (WO#: TC467789    /       1A8AG6M) (Field Notes: 265 Cottage Pl York Pa To 2700 w. Cumberland Street Lebanon Pa To 843-801 Grandview Rd. Lancaster Pa.),No,,,0,,TC467789    /       1A8AG6M,
+PPL,,0,2,0,"Frysinger, Daniel","Frysinger, Daniel [dfrysinger]  (Confirmed)
+Koch, Dakota [dkoch]  (Confirmed)","1599 (Work Truck: Frysinger, Daniel)",,"Burger, Mike",8/20/2026,6:00 PM,York,10000123940L-674,Lancaster PA,"651 Delp Road La Lancaster, PA 17601",Staging,2,1,1,10000123940L-674-1 (Status: Approved) (WO#: STORM 15023053) (Field Notes: Storm duty Overnight ),No,,,0,,STORM 15023053,
+PPL,,0,2,0,"Griest, Samuel","Griest, Samuel [sgriest]  (Confirmed)
+Maurer, Gerald [gmaurer]  (Confirmed)","WPA-01 (Work Truck: Griest, Samuel)",,"Burger, Mike",8/20/2026,6:00 PM,York,10000123940L-673,Lancaster PA,"651 Delp Road Lancaster, PA 17601",Manual Flagging,2,1,1,10000123940L-673-1 (Status: Approved) (WO#: STORM 15023053),No,,,0,,STORM 15023053,
+Columbia Gas of Pennsylvania,Kinsley Construction,0,3,0,"Sentz, Ashley","Sentz, Ashley [asentz]  (Confirmed)
+Steck, Bryan [bsteck]  (Confirmed)
+Kirby, Andre [kirbya251@gmail.com]  (Confirmed)","23137 (Work Truck: Sentz, Ashley)",,"Amspacher, Neal",8/21/2026,6:30 AM,York,CW2009101-3299,Bendersville PA,"111 South Main Street Bendersville, PA 17304",Manual Flagging,3,1,1,CW2009101-3299-5 (Status: Approved) (WO#: 40000758859) (Field Notes: PM-111 south Main Street bendersville to 370 Main Street McSherrystown ),No,,,0,,40000758859,
+Columbia Gas of Pennsylvania,Kinsley Construction,0,3,0,"Michael, Tammy","Brown, Shymir [shybrown59@icloud.com]  (Confirmed)
+Michael, Tammy [tmichael]  (Confirmed)
+Messinger, Shelly [smessinger]  (Confirmed)","1150 (Work Truck: Michael, Tammy)",,"Smeltzer, Scott",8/21/2026,7:00 AM,York,CW2009101-3300,York PA,"116 Hamilton Avenue York, PA 17401",Road Closure,3,1,1,"CW2009101-3300-4 (Status: Approved) (WO#: 4000087628) (Field Notes: Picked Shelly up at 449 Clover Dr York at 6:30am. Drove to Hamilton Rd York
+ arrived at 6:50am. Worked from 7am to 12pm. Drove from Hamilton Rd York to 449 Clover Dr York to drop Shelly off at 12:20pm.)",No,,,0,,4000087628,
+Communications Infrastructure,,0,2,0,"Loucks, Wade","Loucks, Wade [wloucks]  (Confirmed)
+McMenamin, Robin [rmcmenamin]  (Confirmed)","RT198 (Work Truck: Loucks, Wade)",,"McCloskey, Thor",8/21/2026,7:00 AM,York,2639-6,Tremont  PA,"71 tower rd Tremont , PA 19533",Manual Flagging,2,1,1,2639-6-5 (Status: Approved) (WO#: 2601529) (Field Notes: GSF NOT USED = BROKEN 5:30-7 drove to 312 germants church rd leesport pa meeting location standby 8:10-3 71 tower rd Tremont pa mobile fiber optic cable lashing and splicing 3-4:30 drove Robin to her car at 3125 york haven Manchester pa),No,,,0,,2601529,
+PPL,,0,4,0,"Atchison, Jeremy","Atchison, Jeremy [jatchison]  (Confirmed)
+Davidson, John [jdavidson2]  (Confirmed)
+Tychinski, Alan [atychinski]  (Confirmed)
+Miller, Noah [nmiller5]  (Confirmed)","1612 (Work Truck: Atchison, Jeremy)
+1459 (Work Truck: Davidson, John)
+AB-126 (Arrow Board)
+AB-840 (Arrow Board)",,"J, A",8/21/2026,7:00 AM,York,10000123940L-661,Lancaster PA,"651 Delp Road Lancaster, PA 17601",Arrow Board,4,1,1,10000123940L-661-2 (Status: Approved) (WO#: 12456120) (Field Notes: John and Alan 23 s hartley st york pa to 651 delp rd Lancaster PA. Same for drive back),No,,,0,,12456120,
+PPL,,0,2,0,"Caraballo, Luis","Caraballo, Luis [lcaraballo]  (Confirmed)
+Ferral, Demarcus [dferral]  (Confirmed)","1427 (Work Truck: Caraballo, Luis)",,"Foulk, Justin",8/21/2026,7:00 AM,York,10000123940L-667,Quarryville PA,"555 Camargo Road Quarryville, PA 17566",Manual Flagging,2,1,1,10000123940L-667-5 (Status: Approved) (WO#: STORM 15023053),No,,,0,,STORM 15023053,
+PPL,,0,2,0,"Johnson, LaRon","Johnson, LaRon [ljohnson1]  (Confirmed)
+Rosengrant, Thomas [tomrosengrant@gmail.com]  (Confirmed)","23324 (Work Truck: Johnson, LaRon)",,"Beazley, Luke",8/21/2026,7:00 AM,York,10000123940L-664,Lancaster PA,"651 Delp Road Lancaster, PA 17601",Manual Flagging,2,1,1,10000123940L-664-5 (Status: Approved) (WO#: STORM 15023053),No,,,0,,STORM 15023053,
+PPL,,0,2,0,"Souden, Matthew","Souden, Matthew [msouden]  (Confirmed)
+Williams, Justin [jwillaims]  (Confirmed)","1079 (Work Truck: Souden, Matthew)",,"Herr, Bryan",8/21/2026,7:00 AM,York,10000123940L-668,Quarryville PA,"555 Camargo Road Quarryville, PA 17566",Staging,2,1,1,10000123940L-668-5 (Status: Approved) (WO#: STORM 15023053) (Field Notes: Standby),No,,,0,,STORM 15023053,
+PPL,,0,2,0,"Twyman, Calvin","Twyman, Calvin [ctwyman]  (Confirmed)
+Diggs, Timothy [tdiggs]  (Confirmed)","1550 (Work Truck: Twyman, Calvin)",,"Gibbs, Lenny",8/21/2026,7:00 AM,York,10000123940L-662,Lancaster PA,"651 Delp Road Lancaster, PA 17601",Off-Road Work,2,1,1,10000123940L-662-5 (Status: Approved) (WO#: STORM 15023053) (Field Notes: 651 delp rd Lancaster pa),No,,,0,,STORM 15023053,
+"Thompson Electric, Inc.",,0,2,0,"Brown, Ernie","Brown, Ernie [ebrown2]  (Confirmed)
+Flinchbaugh, Benjamin [bflinchbaugh]  (Confirmed)","1609 (Work Truck: Brown, Ernie)",,"Summers, Ken",8/21/2026,7:00 AM,York,TEI2026-99,York PA,"2048 Eden Road York, PA 17402",Manual Flagging,2,1,1,TEI2026-99-5 (Status: Approved) (WO#: 63423018) (Field Notes: 915 Lombard Ave Red Lion PA ),No,,,0,,63423018,
+"Thompson Electric, Inc.",,0,2,0,"Gonzalez, Jonathan","Gonzalez, Jonathan [jgonzalez6]  (Confirmed)
+Vega-Rivera, Janice [jvegarivera]  (Confirmed)","23098 (Work Truck: Gonzalez, Jonathan)",,"Leonard, Mike",8/21/2026,7:00 AM,York,TEI2026-100,Womelsdorf PA,"4055 Conrad Weiser Pkwy Womelsdorf, PA 19567",Off-Road Work,2,1,1,TEI2026-100-5 (Status: Approved) (WO#: 2729980) (Field Notes: Storm duty ),No,,,0,,2729980,
+"Thompson Electric, Inc.",,4,2,0,"Soto, Carlos","Soto, Carlos [csoto]  (Confirmed)
+Mora, Alexander [amora]  (Confirmed)","RT197 (Work Truck: Soto, Carlos)","AFD-1209 GSF (GSF AFAD: Soto, Carlos)
+AFD-0411 GSF (GSF AFAD: Soto, Carlos)","Leonard, Mike",8/21/2026,7:00 AM,York,TEI2026-101,Fleetwood  PA,"34 Bick Rd  Fleetwood , PA 19522",Guardian SmartFlagging,2,1,1,TEI2026-101-5 (Status: Approved) (WO#: 2729980) (Field Notes: Storm duty. Road Closure. Picked Alexander Mora at 244 Cherry St Elizabethtown PA and drove to meeting location. Drove Alexander Mora at 244 Cherry St Elizabethtown PA from job location.),Yes,"Soto, Carlos",,0,,2729980,
+UGI,Kinsley - RESTORATION,3,2,0,"Nazario, Rosa","Nazario, Rosa [rnazario]  (Confirmed)
+Vazquez, Deborah [dvazquez]  (Confirmed)","RT202 (Work Truck: Nazario, Rosa)",,"Capello, Mike",8/21/2026,7:00 AM,York,CW2247137-566,Exeter PA,"2329 Fairview Avenue Exeter, PA 19606",Road Closure,2,2,2,"CW2247137-566-5 (Status: Approved) (WO#: 068747) (Field Notes: Picked up Deborah Vasquez at her home 504 E. Philadelphia York drove to the site 2329 Fairview Ave.
+ Reading from the site at the end of the day. I drove Deborah Vasquez back home 504 East Philadelphia York)
+CW2247137-566-5-A (Status: Approved) (WO#: 068746) (Field Notes: Picked up Deborah Vasquez at her home 504 E. Philadelphia York drove to the site 2329 Fairview Ave.
+ Reading from the site at the end of the day. I drove Deborah Vasquez back home 504 East Philadelphia York)",No,,,0,,068747,
+UGI,Kinsley - RESTORATION,4,3,0,"Pratt-Wenzinger, Steven","Pratt-Wenzinger, Steven [swenzinger]  (Confirmed)
+Blacka, Shirley [sblacka1]  (Confirmed)
+Oheren, Matthew [matthewoheren@gmail.com]  (Confirmed)","RT196 (Work Truck: Pratt-Wenzinger, Steven)","AFD-1574 GSF (GSF AFAD: Pratt-Wenzinger, Steven)
+AFD-1720 GSF (GSF AFAD: Pratt-Wenzinger, Steven)","Heck, Jeremy",8/21/2026,7:00 AM,York,CW2247137-560,Lancaster PA,"556 North Plum Street Lancaster, PA 17602",Guardian SmartFlagging,3,1,1,CW2247137-560-5 (Status: Approved) (WO#: 750304) (Field Notes: I picked up shirley at 6:30 am at 1352 n George st York pa 17404 then drop her off at1:40 pm at 1352 north George st York pa 17404),Yes,"Pratt-Wenzinger, Steven",,0,,750304,
+Wright of Pennyslvania,,0,1,0,"Etheridge, Adriel","Etheridge, Adriel [adrieletheridge1999@icloud.com]  (Confirmed)",,,"Burkey, Marchelle",8/21/2026,8:00 AM,York,WPA-Defensive-Driving-132,Spring Grove PA,"24 Roths Church Road Spring Grove, PA 17362",Internal Labour,1,1,1,WPA-Defensive-Driving-132-1 (Status: Approved) (Field Notes: Did DD class ),No,,,0,,,
+Wright of Pennyslvania,,0,1,0,"Santana-Cruz, Reynaldo","Santana-Cruz, Reynaldo [cruz.dre3@icloud.com]  (Confirmed)",,,"Burkey, Marchelle",8/21/2026,8:00 AM,York,WPA-Defensive-Driving-133,Spring Grove PA,"24 Roths Church Road Spring Grove, PA 17362",Internal Labour,1,1,1,WPA-Defensive-Driving-133-1 (Status: Approved),No,,,0,,,
+PPL,,0,2,0,"Johnson, LaRon","Johnson, LaRon [ljohnson1]  (Confirmed)
+Rosengrant, Thomas [tomrosengrant@gmail.com]  (Confirmed)","23324 (Work Truck: Johnson, LaRon)",,"Barnett, Mike",8/21/2026,3:30 PM,York,10000123940L-684,Morgantown PA,"651 Delp Road E main st/Morgan way Morgantown, PA 19543",Manual Flagging,2,1,1,10000123940L-684-1 (Status: Approved) (WO#: STORM 15023053) (Field Notes: 651 delp Rd Lancaster PA 17602),No,,,0,,STORM 15023053,
+PPL,,0,2,0,"Davidson, John","Davidson, John [jdavidson2]  (Confirmed)
+Tychinski, Alan [atychinski]  (Confirmed)","1459 (Work Truck: Davidson, John)",,"Gehman, Brian ",8/21/2026,9:30 PM,York,10000123940L-685,Morgantown PA,"5801-5899 Morgantown Road Morgantown, PA 19543",Road Closure,2,1,1,10000123940L-685-1 (Status: Approved) (WO#: STORM 15023053) (Field Notes: Dt from 23 south Hartley st york to 58801 Morgantown road Morgantown pa. Then same byt  only in reverse),No,,,0,,STORM 15023053,
+Verizon,Lambert's Cable - PA,0,2,0,"Ebaugh, Brandon","Ebaugh, Brandon [bebaugh]  (Confirmed)
+Campbell, Michael [mcampbell5]  (Confirmed)","1080 (Work Truck: Ebaugh, Brandon)",,"Lambert, Tyler",8/21/2026,7:00 AM,York,CW2586273-10576,Lebanon PA,"18 South Zinns Mill Road Lebanon, PA 17042",Off-Road Work,2,1,1,"CW2586273-10576-5 (Status: Approved) (WO#: TC467794   /     1A7YY1P) (Field Notes: 895 pine grove road hanover to 145 locust point rd york to 2700 w.cumberland st lebanon to South zinns mill road lebanon to wood st
+ york pa to 2740 n.george st york to 145 locust point rd york to 895 pinegrove road hanover )",No,,,0,,TC467794   /     1A7YY1P,
+Verizon,Lambert's Cable - PA,0,2,0,"Holton, Wilmore","Holton, Wilmore [wholton]  (Confirmed)
+Cain, Dazhir [dcain1]  (Confirmed)","1622 (Work Truck: Holton, Wilmore)",,"Gallagher, Gunner",8/21/2026,7:00 AM,York,CW2586273-10575,Dover  PA,"6514 Davidsburg Rd Dover , PA 17315",Manual Flagging,2,1,1,CW2586273-10575-5 (Status: Approved) (WO#: TC468112   /     NonEWO) (Field Notes: 265 Cottage Pl York Pa To 2700 w. Cumberland Street Lebanon Pa To 6514 Davidsburg Rd Dover Pa To 1290 Roosevelt Ave York Pa.),No,,,0,,TC468112   /     NonEWO,
+Verizon,Verizon,0,4,0,"Weaver, Justin","Weaver, Justin [jweaver1]  (Confirmed)
+Conley, Shaniqua [sconley]  (Confirmed)
+Smith, Michael [msmith20]  (Confirmed)
+Smith, Shanice [ssmith30]  (Confirmed)","1554 (Work Truck: Weaver, Justin)
+23118 (Work Truck: Smith, Michael)
+AB-190 (Arrow Board)
+AB-124 (Arrow Board)",,"Hivner, David",8/21/2026,7:00 AM,York,CW2586273-10632,York PA,"1815 North Susquehanna Trail York, PA 17404",Arrow Board,4,1,1,"CW2586273-10632-3 (Status: Approved) (WO#: TC467029 / EWO 1A7RL9K) (Field Notes: Picked up shanice smith 623 east market street York pa at 535am then went to Pick up shaniqua  at 141 Oak Manor Dr
+ York
+ PA 17402 at 550am then went to 24 Roths Church Rd
+ Thomasville
+ PA 17364 to pick up arrow board got to meeting location 2246 south Queen Street York pa 17402 at 7am for 7am start time. Went to job location 1815 North Susquehanna Trail York
+ PA 17404 we finished at 3pm took arrow board back to 24 Roths Church Rd
+ Thomasville
+ PA 17364 at 320pm shaniqua back to 141 Oak Manor Dr
+ York
+ PA 17402 at 350pm then took shanice bank to 623 east market street York pa at 405pm
+
+) (Internal Notes: Shaniqua rides with Justin Weaver to and from work daily)",No,,,0,,TC467029 / EWO 1A7RL9K,
+PPL,,0,2,0,"Atchison, Jeremy","Atchison, Jeremy [jatchison]  (Confirmed)
+Maurer, Gerald [gmaurer]  (Confirmed)","1612 (Work Truck: Atchison, Jeremy)",,"Gehman, Brian ",8/22/2026,12:00 PM,York,10000123940L-688,Lancaster PA,"651 Delp Road Lancaster, PA 17601",Manual Flagging,2,1,1,10000123940L-688-1 (Status: Approved) (WO#: 70055166-588) (Field Notes: Job was storm duty and 1 crew was released. After an hour.),No,,,0,,70055166-588,
+PPL,,0,2,0,"Frysinger, Daniel","Frysinger, Daniel [dfrysinger]  (Confirmed)
+Koch, Dakota [dkoch]  (Confirmed)","1599 (Work Truck: Frysinger, Daniel)",,"Gehman, Brian ",8/22/2026,12:00 PM,York,10000123940L-687,Lancaster PA,"651 Delp Road Lancaster, PA 17601",Staging,2,1,1,10000123940L-687-1 (Status: Approved) (WO#: STORM 15023053) (Field Notes: Emergency storm duty ),No,,,0,,STORM 15023053,
+PPL,,0,2,0,"Weaver, Justin","Weaver, Justin [jweaver1]  (Confirmed)
+Conley, Shaniqua [sconley]  (Confirmed)","1554 (Work Truck: Weaver, Justin)",,"Gehman, Brian ",8/22/2026,12:00 PM,York,10000123940L-686,Lancaster PA,"651 Delp Road Lancaster, PA 17601",Off-Road Work,2,1,1,"10000123940L-686-1 (Status: Approved) (WO#: 70055166-588) (Field Notes: Picked up shaniqua  at 141 Oak Manor Dr
+ York
+ PA 17402 at 1115am. Got to 651 delp road Lancaster pa 17601 at 12pm for 12pm start time. Sat at the yard on standby.finished at 8pm took shaniqua back to 141 Oak Manor Dr
+ York
+ PA 17402 at 845pm
+Wr # (70055166-200)
+
+
+)",No,,,0,,70055166-588,

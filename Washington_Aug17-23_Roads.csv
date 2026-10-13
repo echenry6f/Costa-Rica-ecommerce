@@ -1,0 +1,171 @@
+﻿Customer,Subcontractor,Requested Resources,Required Resources,Unfilled Count,Crew Lead,Assigned Employees,Assigned Equipment,GSF AFAD,Foreman,Assignment Date,Start Time,Dispatching,Job Number,Job Location Name,Job Location Address,Job Type,Assignment Count,Completed Timesheets,Total Timesheets,Timesheets,GSF Job,GSF Operator,Second GSF Operator,Cancellation Count,Cancellation Information,WO Number,Project Notes
+AEP,AEP,2,1,0,"Eikleberry, Hannah","Eikleberry, Hannah [heikleberry]  (Confirmed)","RT205 (Work Truck: Eikleberry, Hannah)","AFD-1910 GSF (GSF AFAD: Eikleberry, Hannah)
+AFD-0873 GSF (GSF AFAD: Eikleberry, Hannah)","Bonds, Nikki",8/17/2026,6:00 AM,Washington,200009607-1360,Saint Clairsville OH,"47687 National Road West Saint Clairsville, OH 43950",Guardian SmartFlagging,1,1,1,200009607-1360-1 (Status: Approved) (WO#: DOP0429909),Yes,"Eikleberry, Hannah",,0,,DOP0429909,
+Verizon,Verizon,0,2,0,"Clifton, Shane","Clifton, Shane [sclifton]  (Confirmed)
+Bartlett, Robert [rbartlett]  (Confirmed)","1368 (Work Truck: Clifton, Shane)",,"Gamble, Steve",8/17/2026,6:00 AM,Washington,CW2586273-10590,Carnegie PA,"Thoms run road & steen hollow Carnegie, PA 15106",Manual Flagging,2,1,1,CW2586273-10590-1 (Status: Approved) (WO#: TC466068 - 1a7dt0f),No,,,0,,TC466068 - 1a7dt0f,
+Verizon,Verizon,0,2,0,"Williams, Antre","Williams, Antre [awilliams17]  (Confirmed)
+Carson, Terrance [tcarson]  (Confirmed)","1433 (Work Truck: Williams, Antre)",,"Gamble, Steve",8/17/2026,6:00 AM,Washington,CW2586273-10589,Finleyville PA,"3728 Finleyville Elrama Rd Finleyville, PA 15332",Manual Flagging,2,1,1,CW2586273-10589-1 (Status: Approved) (WO#: TC466066 - EWO1a8e7sl),No,,,0,,TC466066 - EWO1a8e7sl,
+AEP,AEP,0,2,0,"Beatty, Jonathan","Beatty, Jonathan [jbeatty]  (Confirmed)
+Joyce, Jahod [jjoyce]  (Confirmed)","23294 (Work Truck: Beatty, Jonathan)",,"Mallory, Todd",8/17/2026,7:00 AM,Washington,200009607-1358,Wheeling WV,"4201 Jacob Street Wheeling, WV 26003",Manual Flagging,2,1,1,200009607-1358-1 (Status: Approved) (WO#: BWP0000012),No,,,0,,BWP0000012,
+AEP,AEP,0,3,0,"McEldowney, Jessica","Costales Lootens, Benjamin [blootens]  (Confirmed)
+McEldowney, Jessica [jmceldowney]  (Confirmed)
+Gulley, Elizabeth [egulley]  (Confirmed)","1432 (Work Truck: McEldowney, Jessica)",,"Weatherson, Chad",8/17/2026,7:00 AM,Washington,200009607-1365,Wheeling WV,"4201 Jacob Street Wheeling, WV 26003",Manual Flagging,3,1,1,200009607-1365-1 (Status: Approved) (WO#: DWP4097341) (Field Notes: Had to drive back to yard),No,,,0,,DWP4097341,
+Allegheny Contracting LLC,,0,3,0,"Marine, John","Marine, John [jmarine]  (Confirmed)
+Kerns, David [dkerns]  (Confirmed)
+Lewis, Bablu [blewis2]  (Confirmed)","23334 (Work Truck: Marine, John)
+1434 (Work Truck: Lewis, Bablu)",,"Curley, Bob",8/17/2026,7:00 AM,Washington,2513-35,Point Marion PA,"702 Sadler Street, Point Marion, PA 15474",Manual Flagging,3,1,1,2513-35-1 (Status: Approved) (WO#: R26311J13),No,,,0,,R26311J13,
+South Central Power Company,"Thayer Power & Communication Line Construction Co., LLC",2,1,0,"Staub, Michael","Staub, Michael [mstaub]  (Confirmed)","RT100 (Work Truck: Staub, Michael)","AFD-2783 GSF (GSF AFAD: Staub, Michael)
+AFD-1577 GSF (GSF AFAD: Staub, Michael)","Thompson, Benjy",8/17/2026,7:00 AM,Washington,25144-162,Cadiz OH,"38200 Cadiz-Dennison Road Cadiz, OH 43907",Guardian SmartFlagging,1,1,1,"25144-162-1 (Status: Approved) (WO#: 249236) (Field Notes: Left first job site at approximately 2:45pm and came to second site at 867 Eastern Ave Woodsfield
+ Ohio 437793 United States of America until 5pm)",Yes,"Staub, Michael",,0,,249236,
+Verizon,Verizon,0,2,0,"Neunz, Donna","Neunz, Donna [dneunz]  (Confirmed)
+Childs, Austin [achilds]  (Confirmed)","23290 (Work Truck: Neunz, Donna)",,"Wilson, Eric",8/17/2026,7:00 AM,Washington,CW2586273-10554,Clinton PA,"550 anderson hazard rd  Clinton, PA 15026",Manual Flagging,2,1,1,CW2586273-10554-1 (Status: Approved) (WO#: TC465956  - EWO 1A7AR3Y),No,,,0,,TC465956  - EWO 1A7AR3Y,
+Verizon,Verizon,0,2,0,"Smith, Christopher","Smith, Christopher [csmith29]  (Confirmed)
+Carey, Cody [ccarey]  (Confirmed)","23154 (Work Truck: Smith, Christopher)",,"Bayne, Dominic",8/17/2026,7:00 AM,Washington,CW2586273-10588,Washington PA,"309 senic dr. Washington, PA 15301",Manual Flagging,2,1,1,CW2586273-10588-1 (Status: Approved) (WO#: TC465975 - 1A7H3UU),No,,,0,,TC465975 - 1A7H3UU,
+Wright of Pennyslvania,,0,1,0,"Kelly, Brandon","Kelly, Brandon [bkelly1]  (Confirmed)",,,"Hill, Mike",8/17/2026,7:00 AM,Washington,WPA-Shadow-69,Clinton PA,"550 Anderson Hozak Road Clinton, PA 15026",Manual Flagging,1,1,1,WPA-Shadow-69-1 (Status: Approved) (WO#: Shadow) (Field Notes: Shadowing),No,,,0,,Shadow,
+P.S. Electric LLC,,0,2,0,"Maxwell, Kain","Negri, Bryan [bnegri]  (Confirmed)
+Maxwell, Kain [kmaxwell1]  (Confirmed)","23291 (Work Truck: Maxwell, Kain)",,"THOMPSON, JOE",8/17/2026,7:30 AM,Washington,24442-46,Upper Saint Clair PA,"Panther Path Upper Saint Clair, PA 15241",Manual Flagging,2,1,1,24442-46-1 (Status: Approved) (WO#: 20260817),No,,,1,"Employee: Rinkes, Justin - Cancelled On: 8/17/2026 12:31:00 AM - Confirmed On: 8/17/2026 12:31:57 AM - Type: Call Off - Notes: not feeling well ",20260817,
+"Thayer Power & Communication Line Construction Co., LLC",,2,1,0,"Whitacre, Joseph","Whitacre, Joseph [jwhitacre]  (Confirmed)","1621 (Work Truck: Whitacre, Joseph)","AFD-2189 GSF (GSF AFAD: Whitacre, Joseph)
+AFD-0197 GSF (GSF AFAD: Whitacre, Joseph)","Barlock, Jared",8/17/2026,8:00 AM,Washington,24104-177,Caldwell OH,"46733 reservoir road Caldwell, OH 43724",Guardian SmartFlagging,1,1,1,24104-177-1 (Status: Approved) (WO#: Dop0429909),Yes,"Whitacre, Joseph",,0,,Dop0429909,
+AEP,AEP,2,1,0,"Eikleberry, Hannah","Eikleberry, Hannah [heikleberry]  (Confirmed)","RT205 (Work Truck: Eikleberry, Hannah)","AFD-1910 GSF (GSF AFAD: Eikleberry, Hannah)
+AFD-0873 GSF (GSF AFAD: Eikleberry, Hannah)","Bonds, Nikki",8/18/2026,6:00 AM,Washington,200009607-1360,Saint Clairsville OH,"47687 National Road West Saint Clairsville, OH 43950",Guardian SmartFlagging,1,1,1,200009607-1360-2 (Status: Approved) (WO#: Dop0420256),Yes,"Eikleberry, Hannah",,0,,Dop0420256,
+Verizon,Verizon,0,2,0,"Clifton, Shane","Clifton, Shane [sclifton]  (Confirmed)
+Bartlett, Robert [rbartlett]  (Confirmed)","1368 (Work Truck: Clifton, Shane)",,"Gamble, Steve",8/18/2026,6:00 AM,Washington,CW2586273-10629,Carnegie PA,"Steen hollow rd Carnegie, PA 15106",Manual Flagging,2,1,1,CW2586273-10629-1 (Status: Approved) (WO#: TC466422 - 1a8e7sl),No,,,0,,TC466422 - 1a8e7sl,
+Verizon,Verizon,0,2,0,"Williams, Antre","Williams, Antre [awilliams17]  (Confirmed)
+Dickerson, Dominik [ddickerson]  (Confirmed)","1433 (Work Truck: Williams, Antre)",,"Gamble, Steve",8/18/2026,6:00 AM,Washington,CW2586273-10626,Pittsburgh PA,"4806 Roberta Dr Pittsburgh, PA 15236",Manual Flagging,2,1,1,CW2586273-10626-1 (Status: Approved) (WO#: TC466442 - EWO1A7WD3Q),No,,,0,,TC466442 - EWO1A7WD3Q,
+Monongahela Power Company,,0,2,0,"Rinkes, Justin","Rinkes, Justin [jrinkes1]  (Confirmed)
+Polcin, Caleb [cpolcin]  (Confirmed)","RT204 (Work Truck: Rinkes, Justin)",,"Nay, Jessica",8/18/2026,6:30 AM,Washington,750247903-28,Parkersburg WV,"1803 Murdoch Avenue Parkersburg, WV 26101",Manual Flagging,2,1,1,750247903-28-1 (Status: Approved) (WO#: Storm),No,,,0,,Storm,
+AEP,AEP,0,2,0,"Beatty, Jonathan","Joyce, Jahod [jjoyce]  (Confirmed)
+Beatty, Jonathan [jbeatty]  (Confirmed)","23294 (Work Truck: Beatty, Jonathan)",,"Weatherson, Chad",8/18/2026,7:00 AM,Washington,200009607-1368,Cameron  WV,"4061 New Bethel Road Cameron , WV 26033",Manual Flagging,2,1,1,200009607-1368-1 (Status: Approved) (WO#: BWP0000012),No,,,0,,BWP0000012,
+AEP,AEP,0,2,0,"Leach, Frank","Leach, Frank [fleach2]  (Confirmed)
+Dennis, Blaze [bdennis1]  (Confirmed)","23120 (Work Truck: Leach, Frank)",,"Weatherson, Chad",8/18/2026,7:00 AM,Washington,200009607-1365,Wheeling WV,"4201 Jacob Street Wheeling, WV 26003",Manual Flagging,2,1,1,200009607-1365-2 (Status: Approved) (WO#: BWP0000012),No,,,0,,BWP0000012,
+Allegheny Contracting LLC,,0,3,0,"Marine, John","Marine, John [jmarine]  (Confirmed)
+Kerns, David [dkerns]  (Confirmed)
+Lewis, Bablu [blewis2]  (Confirmed)","23334 (Work Truck: Marine, John)
+1434 (Work Truck: Lewis, Bablu)",,"Curley, Bob",8/18/2026,7:00 AM,Washington,2513-35,Point Marion PA,"702 Sadler Street, Point Marion, PA 15474",Manual Flagging,3,1,1,2513-35-2 (Status: Approved) (WO#: R26311J13),No,,,0,,R26311J13,
+Allegheny Contracting LLC,,0,3,0,"Warren, Hakeem","Warren, Hakeem [hwarren1]  (Confirmed)
+Morris, Timothy [tmorris4]  (Confirmed)
+Maxwell, Kain [kmaxwell1]  (Confirmed)","1017 (Work Truck: Warren, Hakeem)
+23291 (Work Truck: Maxwell, Kain)",,"Curley, Bob",8/18/2026,7:00 AM,Washington,2513-36,Point Marion PA,"702 Sadler Street,  Point Marion, PA 15474",Road Closure,3,1,1,2513-36-1 (Status: Approved) (WO#: R26311J13) (Field Notes: Road closed Sandler Street- Kain picked up ride along Tim (5:20am) dropped him off at (9:10pm)),No,,,0,,R26311J13,
+Verizon,Verizon,0,2,0,"Bennington, Eric","Brice, Braylon [bbrice]  (Confirmed)
+Bennington, Eric [ebennington]  (Confirmed)","23126 (Work Truck: Bennington, Eric)",,"Wilson, Eric",8/18/2026,7:00 AM,Washington,CW2586273-10579,Burgettstown PA,"77 Clinton Frankfort Road Burgettstown, PA 15021",Manual Flagging,2,1,1,"CW2586273-10579-1 (Status: Approved) (WO#: TC465958 - EWO1A7AR3Y) (Field Notes: Running line 
+mobile)",No,,,0,,TC465958 - EWO1A7AR3Y,
+Verizon,Verizon,0,2,0,"Popp, George","Popp, George [gpopp1]  (Confirmed)
+Smith, Texloy [tsmith34]  (Confirmed)","23044 (Work Truck: Popp, George)",,"Bayne, Brian",8/18/2026,7:00 AM,Washington,CW2586273-10612,South Strabane Township PA,"800 East Beau St Washington Pa 15301 South Strabane Township, PA 15301",Manual Flagging,2,1,1,CW2586273-10612-1 (Status: Approved) (WO#: TC465976 1A7H3UU),No,,,0,,TC465976 1A7H3UU,
+Verizon,Verizon,0,2,0,"Smith, Christopher","Smith, Christopher [csmith29]  (Confirmed)
+Poole, Quentin [qpoole]  (Confirmed)","23154 (Work Truck: Smith, Christopher)",,"Seich, Scott",8/18/2026,7:00 AM,Washington,CW2586273-10598,Washington  PA,"Old Scales Road & Vaneal Road Washington , PA 15301",Manual Flagging,2,1,1,CW2586273-10598-1 (Status: Approved) (WO#: TC465994 EWO1A7TQ5S),No,,,0,,TC465994 EWO1A7TQ5S,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Jackson, Tyree","Jackson, Tyree [tjackson21]  (Confirmed)",,,"Hill, Mike",8/18/2026,7:00 AM,Washington,SPARE-8848,Washington PA,"15 Seminole Avenue Washington, PA 15301",Manual Flagging,1,1,1,SPARE-8848-1 (Status: Approved),No,,,0,,,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Neunz, Donna","Neunz, Donna [dneunz]  (Confirmed)",,,"Hill, Mike",8/18/2026,7:00 AM,Washington,SPARE-8849,Washington PA,"15 Seminole Avenue Washington, PA 15301",Manual Flagging,1,1,1,SPARE-8849-1 (Status: Approved),No,,,0,,,
+"Thayer Power & Communication Line Construction Co., LLC",,2,1,0,"Lash, Brian","Lash, Brian [blash]  (Confirmed)","RT099 (Work Truck: Lash, Brian)","AFD-2223 GSF (GSF AFAD: Lash, Brian)
+AFD-2037 GSF (GSF AFAD: Lash, Brian)","Barlock, Jared",8/18/2026,8:00 AM,Washington,24104-177,Caldwell PA,"45571 Ada Avenue Caldwell, PA 43724",Guardian SmartFlagging,1,1,1,24104-177-2 (Status: Approved) (WO#: Dop0423301),Yes,"Lash, Brian",,0,,Dop0423301,
+South Central Power Company,"Thayer Power & Communication Line Construction Co., LLC",2,1,0,"Staub, Michael","Staub, Michael [mstaub]  (Confirmed)","RT100 (Work Truck: Staub, Michael)","AFD-2783 GSF (GSF AFAD: Staub, Michael)
+AFD-1577 GSF (GSF AFAD: Staub, Michael)","Thompson, Benjy",8/18/2026,6:00 AM,Washington,25144-162,Cadiz OH,"38200 Cadiz-Dennison Road Cadiz, OH 43907",Guardian SmartFlagging,1,1,1,25144-162-2 (Status: Approved) (WO#: 249236),Yes,"Staub, Michael",,0,,249236,
+AEP,AEP,2,1,0,"Eikleberry, Hannah","Eikleberry, Hannah [heikleberry]  (Confirmed)","RT205 (Work Truck: Eikleberry, Hannah)","AFD-1910 GSF (GSF AFAD: Eikleberry, Hannah)
+AFD-0873 GSF (GSF AFAD: Eikleberry, Hannah)","Bonds, Nikki",8/19/2026,6:00 AM,Washington,200009607-1360,Saint Clairsville OH,"47687 National Road West Saint Clairsville, OH 43950",Guardian SmartFlagging,1,1,1,200009607-1360-3 (Status: Approved) (WO#: Dop0420256),Yes,"Eikleberry, Hannah",,0,,Dop0420256,
+Verizon,Verizon,0,2,0,"Popp, George","Carson, Terrance [tcarson]  (Confirmed)
+Popp, George [gpopp1]  (Confirmed)","23044 (Work Truck: Popp, George)",,"Gamble, Steve",8/19/2026,6:00 AM,Washington,CW2586273-10647,Oakdale PA,"192 Steen hollow road  Oakdale, PA 15071",Manual Flagging,2,1,1,CW2586273-10647-1 (Status: Approved) (WO#: TC466626 - 1a8e7sl),No,,,0,,TC466626 - 1a8e7sl,
+Verizon,Verizon,0,4,0,"Whitacre, Joseph","Whitacre, Joseph [jwhitacre]  (Confirmed)
+Morris, Timothy [tmorris4]  (Confirmed)
+Lash, Brian [blash]  (Confirmed)
+Carey, Cody [ccarey]  (Confirmed)","1621 (Work Truck: Whitacre, Joseph)
+RT099 (Work Truck: Lash, Brian)",,"Gamble, Steve",8/19/2026,6:00 AM,Washington,CW2586273-10649,Carnegie PA,"Logan street Carnegie, PA 15106",Manual Flagging,4,1,1,CW2586273-10649-1 (Status: Approved) (WO#: TC466627 - 1A8C0FA),No,,,0,,TC466627 - 1A8C0FA,
+Verizon,Verizon,0,2,0,"Williams, Antre","Williams, Antre [awilliams17]  (Confirmed)
+Dickerson, Dominik [ddickerson]  (Confirmed)","1433 (Work Truck: Williams, Antre)",,"Gamble, Steve",8/19/2026,6:00 AM,Washington,CW2586273-10648,Oakdale PA,"Oakdale Rd & Gamble Rd Oakdale, PA 15071",Road Closure,2,1,1,CW2586273-10648-1 (Status: Approved) (WO#: 1a7we4l  / TC466630),No,,,0,,1a7we4l  / TC466630,
+Monongahela Power Company,,0,2,0,"Rinkes, Justin","Rinkes, Justin [jrinkes1]  (Confirmed)
+Thomas, Austin [athomas8]  (Confirmed)","RT204 (Work Truck: Rinkes, Justin)",,"Nay, Jessica",8/19/2026,6:30 AM,Washington,750247903-28,Parkersburg WV,"1803 Murdoch Avenue Parkersburg, WV 26101",Manual Flagging,2,1,1,750247903-28-2 (Status: Approved) (WO#: Storm),No,,,0,,Storm,
+Verizon,Lambert's Cable - PA,0,2,0,"Jackson, Tyree","Jackson, Tyree [tjackson21]  (Confirmed)
+Brice, Braylon [bbrice]  (Confirmed)","1440 (Work Truck: Jackson, Tyree)",,"Lead Tech, Derek",8/19/2026,6:30 AM,Washington,CW2586273-10657,Eighty four  PA,"51 champagne rd Eighty four , PA 15330",Manual Flagging,2,1,1,CW2586273-10657-1 (Status: Approved) (WO#: TC466725 - 1A8D6CF),No,,,0,,TC466725 - 1A8D6CF,
+Allegheny Contracting LLC,,0,3,0,"Marine, John","Marine, John [jmarine]  (Confirmed)
+Lewis, Bablu [blewis2]  (Confirmed)
+Smith, Texloy [tsmith34]  (Confirmed)","23334 (Work Truck: Marine, John)
+1434 (Work Truck: Lewis, Bablu)",,"Curley, Bob",8/19/2026,7:00 AM,Washington,2513-35,Point Marion PA,"702 Sadler Street, Point Marion, PA 15474",Manual Flagging,3,1,1,2513-35-3 (Status: Approved) (WO#: R26311J13) (Internal Notes: Bablu and Texloy rode together to and from site),No,,,1,"Employee: Kerns, David - Cancelled On: 8/19/2026 12:16:00 AM - Confirmed On: 8/19/2026 12:17:50 AM - Type: Call Off - Notes: David Kerns
+7:56 pm
+I confirmed my job assignment but i have to go to the courthouse in the morning so i need a replacement til least noon tomorrow bc it takes me 2 hours and 5 minutes to get to work thank you",R26311J13,
+Allegheny Contracting LLC,,0,3,0,"Warren, Hakeem","Warren, Hakeem [hwarren1]  (Confirmed)
+Negri, Bryan [bnegri]  (Confirmed)
+Maxwell, Kain [kmaxwell1]  (Confirmed)","1017 (Work Truck: Warren, Hakeem)
+23291 (Work Truck: Maxwell, Kain)",,"Curley, Bob",8/19/2026,7:00 AM,Washington,2513-36,Point Marion PA,"702 Sadler st  Point Marion, PA 15474",Road Closure,3,1,1,"2513-36-2 (Status: Approved) (WO#: R26311J13) (Field Notes: Road closure. Sadler St
+  Port Marion Pa.)",No,,,0,,R26311J13,
+South Central Power Company,"Thayer Power & Communication Line Construction Co., LLC",2,1,0,"Staub, Michael","Staub, Michael [mstaub]  (Confirmed)","RT100 (Work Truck: Staub, Michael)","AFD-2783 GSF (GSF AFAD: Staub, Michael)
+AFD-1577 GSF (GSF AFAD: Staub, Michael)","Thompson, Benjy",8/19/2026,7:00 AM,Washington,25144-162,Cadiz OH,"38200 Cadiz-Dennison Road Cadiz, OH 43907",Guardian SmartFlagging,1,1,1,25144-162-3 (Status: Approved) (WO#: 249236),Yes,"Staub, Michael",,0,,249236,
+Verizon,Verizon,0,2,0,"Beatty, Jonathan","Neunz, Donna [dneunz]  (Confirmed)
+Beatty, Jonathan [jbeatty]  (Confirmed)","23294 (Work Truck: Beatty, Jonathan)
+23290 (Work Truck)",,"Bayne, Brian",8/19/2026,7:00 AM,Washington,CW2586273-10610,Washington PA,"150 West Beau Street Washington, PA 15301",Manual Flagging,2,1,1,CW2586273-10610-2 (Status: Approved) (WO#: TC465977 1A7H3UU),No,,,0,,TC465977 1A7H3UU,
+Verizon,Verizon,0,2,0,"Bennington, Eric","Bennington, Eric [ebennington]  (Confirmed)
+Childs, Austin [achilds]  (Confirmed)","23126 (Work Truck: Bennington, Eric)",,"Wilson, Eric",8/19/2026,7:00 AM,Washington,CW2586273-10580,Frankfort Springs PA,"77 Clinton Frankfort Road Frankfort Springs, PA 15021",Manual Flagging,2,1,1,CW2586273-10580-1 (Status: Approved) (WO#: TC465960 - 1A7AR3Y) (Field Notes: Ran 2000 ft of line also had blake carmello shadowing us),No,,,0,,TC465960 - 1A7AR3Y,
+Verizon,Verizon,0,2,0,"Smith, Christopher","Smith, Christopher [csmith29]  (Confirmed)
+Torbett, Daniel [dtorbett]  (Confirmed)","23154 (Work Truck: Smith, Christopher)",,"Seich, Scott",8/19/2026,7:00 AM,Washington,CW2586273-10599,Washington  PA,"Old Scales Road & Vaneal Road Washington , PA 15301",Manual Flagging,2,1,1,CW2586273-10599-1 (Status: Approved) (WO#: TC465995 EWO1A7TQ5S),No,,,1,"Employee: Saunders, Xzavier - Cancelled On: 8/19/2026 11:23:00 AM - Confirmed On: Not Confirmed - Type: Call Off - Notes: No transportation. Reported last night at 7:28",TC465995 EWO1A7TQ5S,
+Wright of Pennyslvania,,0,1,0,"Carmello, Blake","Carmello, Blake [bcarmello]  (Confirmed)",,,"Hill, Mike",8/19/2026,7:00 AM,Washington,WPA-Shadow-72,Washington PA,"461 Racetrack Road Washington, PA 15301",Manual Flagging,1,1,1,WPA-Shadow-72-1 (Status: Approved) (WO#: Shadow),No,,,0,,Shadow,
+Verizon,Verizon,0,2,0,"Bennington, Eric","Bennington, Eric [ebennington]  (Confirmed)
+Carey, Cody [ccarey]  (Confirmed)","23126 (Work Truck: Bennington, Eric)",,"Gamble, Steve",8/20/2026,6:00 AM,Washington,CW2586273-10676,Carnegie PA,"195 Broadway Street Carnegie, PA 15106",Staging,2,1,1,CW2586273-10676-1 (Status: Approved) (WO#: TC466915 - 1A7WX2L) (Field Notes: Sat in the parking lot of Verizon on call),No,,,0,,TC466915 - 1A7WX2L,
+Verizon,Verizon,0,2,0,"Clifton, Shane","Clifton, Shane [sclifton]  (Confirmed)
+Childs, Austin [achilds]  (Confirmed)","1368 (Work Truck: Clifton, Shane)",,"Gamble, Steve",8/20/2026,6:00 AM,Washington,CW2586273-10677,Carnegie PA,"Steen hollow road Carnegie, PA 15106",Manual Flagging,2,1,1,CW2586273-10677-1 (Status: Approved) (WO#: TC466917 - 5n00101),No,,,1,"Employee: Carmello, Blake - Cancelled On: 8/20/2026 10:38:00 AM - Confirmed On: 8/21/2026 1:03:03 AM - Type: No Show/No Contact - Notes: ",TC466917 - 5n00101,
+Verizon,Verizon,0,2,0,"Popp, George","Popp, George [gpopp1]  (Confirmed)
+Thomas, Austin [athomas8]  (Confirmed)","23044 (Work Truck: Popp, George)",,"Gamble, Steve",8/20/2026,6:00 AM,Washington,CW2586273-10680,Carnegie PA,"457 Greenlee Road Pittsburgh Pa 15227 195 Broadway Street Carnegie, PA 15106",Manual Flagging,2,1,1,CW2586273-10680-1 (Status: Approved) (WO#: TC466912  - 1a7we4l),No,,,0,,TC466912  - 1a7we4l,
+Verizon,Verizon,0,2,0,"Williams, Antre","Williams, Antre [awilliams17]  (Confirmed)
+Dickerson, Dominik [ddickerson]  (Confirmed)","1433 (Work Truck: Williams, Antre)",,"Gamble, Steve",8/20/2026,6:00 AM,Washington,CW2586273-10675,Oakdale PA,"Oakdale Rd & Gamble Rd Oakdale, PA 15071",Manual Flagging,2,1,1,CW2586273-10675-1 (Status: Approved) (WO#: TC466913 - 4p0nh6l),No,,,0,,TC466913 - 4p0nh6l,
+Monongahela Power Company,,0,2,0,"Rinkes, Justin","Rinkes, Justin [jrinkes1]  (Confirmed)
+Bartlett, Robert [rbartlett]  (Confirmed)","RT204 (Work Truck: Rinkes, Justin)",,"Nay, Jessica",8/20/2026,6:30 AM,Washington,750247903-28,Parkersburg WV,"1905 Ohio ave  Parkersburg, WV 26101",Manual Flagging,2,1,1,750247903-28-4 (Status: Approved) (WO#: 64701422),No,,,0,,64701422,
+Monongahela Power Company,,0,2,0,"Warren, Hakeem","Leach, Frank [fleach2]  (Confirmed)
+Warren, Hakeem [hwarren1]  (Confirmed)","23120 (Work Truck: Leach, Frank)
+1017 (Work Truck: Warren, Hakeem)",,"Nay, Jessica",8/20/2026,6:30 AM,Washington,750247903-29,Parkersburg WV,"4160 Camden rd Parkersburg, WV 26101",Manual Flagging,2,1,1,750247903-29-1 (Status: Approved) (WO#: 64716241),No,,,1,"Employee: Bartlett, Amanda - Cancelled On: 8/20/2026 8:43:00 AM - Confirmed On: 8/20/2026 8:45:44 AM - Type: Call Off - Notes: Called off ",64716241,
+Allegheny Contracting LLC,,0,3,0,"Marine, John","Marine, John [jmarine]  (Confirmed)
+Kerns, David [dkerns]  (Confirmed)
+Lewis, Bablu [blewis2]  (Confirmed)","23334 (Work Truck: Marine, John)
+1434 (Work Truck: Lewis, Bablu)",,"Curley, Bob",8/20/2026,7:00 AM,Washington,2513-35,7 Point Marion PA,"702 Sadler Street, 7 Point Marion, PA 15474",Manual Flagging,3,1,1,2513-35-4 (Status: Approved) (WO#: R26311J13),No,,,0,,R26311J13,
+Peoples Gas Company,Peoples Gas Company,0,2,0,"Jackson, Tyree","Jackson, Tyree [tjackson21]  (Confirmed)
+Brice, Braylon [bbrice]  (Confirmed)","1440 (Work Truck: Jackson, Tyree)",,"Fabin, Dean",8/20/2026,7:00 AM,Washington,8000009900-67,FINDLAYVILLE PA,"65 GINGER HILL RD FINDLAYVILLE, PA 15332",Manual Flagging,2,1,1,8000009900-67-1 (Status: Approved) (WO#: 10163199),No,,,0,,10163199,
+South Central Power Company,"Thayer Power & Communication Line Construction Co., LLC",2,1,0,"Staub, Michael","Staub, Michael [mstaub]  (Confirmed)","RT100 (Work Truck: Staub, Michael)","AFD-2783 GSF (GSF AFAD: Staub, Michael)
+AFD-1577 GSF (GSF AFAD: Staub, Michael)","Thompson, Benjy",8/20/2026,7:00 AM,Washington,25144-162,Cadiz OH,"38200 Cadiz-Dennison Road Cadiz, OH 43907",Guardian SmartFlagging,1,1,1,25144-162-4 (Status: Approved) (WO#: 248351),Yes,"Staub, Michael",,0,,248351,
+Verizon,Verizon,0,2,0,"Beatty, Jonathan","Beatty, Jonathan [jbeatty]  (Confirmed)
+Joyce, Jahod [jjoyce]  (Confirmed)","23294 (Work Truck: Beatty, Jonathan)",,"Bayne, Brian",8/20/2026,7:00 AM,Washington,CW2586273-10611,Washington PA,"125 West Beau Street Washington, PA 15301",Manual Flagging,2,1,1,CW2586273-10611-1 (Status: Approved) (WO#: TC465978 1A7H3UU),No,,,0,,TC465978 1A7H3UU,
+Verizon,Verizon,0,2,0,"Neunz, Donna","Neunz, Donna [dneunz]  (Confirmed)
+Kelly, Brandon [bkelly1]  (Confirmed)","23290 (Work Truck: Neunz, Donna)",,"Wilson, Eric",8/20/2026,7:00 AM,Washington,CW2586273-10578,Burgettstown  PA,"205 Clinton Frankfort rd Burgettstown , PA 15021",Manual Flagging,2,1,1,CW2586273-10578-1 (Status: Approved) (WO#: TC465963 - 1A7AR3Y),No,,,0,,TC465963 - 1A7AR3Y,
+Verizon,Verizon,0,2,0,"Smith, Christopher","Smith, Christopher [csmith29]  (Confirmed)
+Smith, Texloy [tsmith34]  (Confirmed)","23154 (Work Truck: Smith, Christopher)",,"Seich, Scott ",8/20/2026,7:00 AM,Washington,CW2586273-10595,Washington  PA,"Old Scales Road & Vaneal Road Washington , PA 15301",Manual Flagging,2,1,1,CW2586273-10595-1 (Status: Approved) (WO#: TC465997 EWO1A7TQ5S),No,,,0,,TC465997 EWO1A7TQ5S,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Lash, Brian","Lash, Brian [blash]  (Confirmed)",,,"Hill, Mike",8/20/2026,7:00 AM,Washington,SPARE-8866,Washington PA,"15 Seminole Avenue Washington, PA 15301",Manual Flagging,1,1,1,SPARE-8866-2 (Status: Approved),No,,,0,,,
+AEP,AEP,0,2,0,"Eikleberry, Hannah","Eikleberry, Hannah [heikleberry]  (Confirmed)
+Poole, Quentin [qpoole]  (Confirmed)","RT205 (Work Truck: Eikleberry, Hannah)",,"Koehler, Mack",8/20/2026,8:00 AM,Washington,200009607-1371,Wheeling  WV,"4201 Jacobs St Wheeling , WV 26003",Off-Road Work,2,1,1,200009607-1371-1 (Status: Approved) (WO#: BWP0000012) (Field Notes: Didn’t work today was never picked up or talked to ),No,,,0,,BWP0000012,
+"Thayer Power & Communication Line Construction Co., LLC",,2,1,0,"Whitacre, Joseph","Whitacre, Joseph [jwhitacre]  (Confirmed)","1621 (Work Truck: Whitacre, Joseph)","AFD-2189 GSF (GSF AFAD: Whitacre, Joseph)
+AFD-0197 GSF (GSF AFAD: Whitacre, Joseph)","Barlock, Jared",8/20/2026,8:00 AM,Washington,24104-180,Caldwell PA,"45571 Ada Avenue Caldwell, PA 43724",Guardian SmartFlagging,1,1,1,24104-180-1 (Status: Approved) (WO#: Dop0423301) (Field Notes: Jarod called and Rained out and flooding ),Yes,"Whitacre, Joseph",,0,,Dop0423301,
+AEP,AEP,2,1,0,"Eikleberry, Hannah","Eikleberry, Hannah [heikleberry]  (Confirmed)","RT205 (Work Truck: Eikleberry, Hannah)","AFD-1910 GSF (GSF AFAD: Eikleberry, Hannah)
+AFD-0873 GSF (GSF AFAD: Eikleberry, Hannah)","Bonds, Nikki",8/21/2026,6:00 AM,Washington,200009607-1360,Saint Clairsville OH,"68353 Bannock Rd Saint Clairsville, OH 43950",Off-Road Work,1,1,1,200009607-1360-5 (Status: Approved) (WO#: DOP0422610) (Field Notes: Went to sit at gas station down the road to get out of construction site and be out of the way ),Yes,"Eikleberry, Hannah",,0,,DOP0422610,
+Verizon,Verizon,0,4,0,"Lash, Brian","Williams, Antre [awilliams17]  (Confirmed)
+Lash, Brian [blash]  (Confirmed)
+Costales Lootens, Benjamin [blootens]  (Confirmed)
+Leach, Frank [fleach2]  (Confirmed)","1433 (Work Truck: Williams, Antre)
+RT099 (Work Truck: Lash, Brian)",,"Gamble, Steve",8/21/2026,6:00 AM,Washington,CW2586273-10699,Houston PA,"337 North Johnson Road Houston, PA 15342",Manual Flagging,4,1,1,CW2586273-10699-1 (Status: Approved) (WO#: TC467399   - 5n00101),No,,,0,,TC467399   - 5n00101,
+AEP,AEP,0,2,0,"Beatty, Jonathan","Beatty, Jonathan [jbeatty]  (Confirmed)
+Joyce, Jahod [jjoyce]  (Confirmed)","23294 (Work Truck: Beatty, Jonathan)",,"Mallory, Todd",8/21/2026,7:00 AM,Washington,200009607-1358,Cameron WV,"4089 Irish Ridge Road, Cameron, WV 26033",Manual Flagging,2,1,1,"200009607-1358-2 (Status: Approved) (WO#: BWP0000012) (Field Notes: On standby
+ never got picked up
+ was released at 3 by Todd)",No,,,0,,BWP0000012,
+Allegheny Contracting LLC,,0,3,0,"Marine, John","Marine, John [jmarine]  (Confirmed)
+Kerns, David [dkerns]  (Confirmed)
+Lewis, Bablu [blewis2]  (Confirmed)","23334 (Work Truck: Marine, John)
+1434 (Work Truck: Lewis, Bablu)",,"Curley, Bob",8/21/2026,7:00 AM,Washington,2513-35,Point Marion PA,"702 Sadler Street, Point Marion, PA 15474",Manual Flagging,3,1,1,2513-35-5 (Status: Approved) (WO#: R26311J13),No,,,0,,R26311J13,
+South Central Power Company,"Thayer Power & Communication Line Construction Co., LLC",2,1,0,"Staub, Michael","Staub, Michael [mstaub]  (Confirmed)","RT100 (Work Truck: Staub, Michael)","AFD-2783 GSF (GSF AFAD: Staub, Michael)
+AFD-1577 GSF (GSF AFAD: Staub, Michael)","Thompson, Benjy",8/21/2026,7:00 AM,Washington,25144-162,Cadiz OH,"38200 Cadiz-Dennison Road Cadiz, OH 43907",Guardian SmartFlagging,1,1,1,25144-162-5 (Status: Approved) (WO#: 248351),Yes,"Staub, Michael",,0,,248351,
+Verizon,Verizon,0,2,0,"Neunz, Donna","Neunz, Donna [dneunz]  (Confirmed)
+Brice, Braylon [bbrice]  (Confirmed)","23290 (Work Truck: Neunz, Donna)",,"Seich, Scott ",8/21/2026,7:00 AM,Washington,CW2586273-10596,Burgettstown  PA,"232clinton Frankfort rd Burgettstown , PA 15021",Manual Flagging,2,1,1,CW2586273-10596-1 (Status: Approved) (WO#: TC465998 EWO1A7TQ5S),No,,,0,,TC465998 EWO1A7TQ5S,
+Verizon,Verizon,0,2,0,"Popp, George","Popp, George [gpopp1]  (Confirmed)
+Snyder III, William [wsnyder2]  (Confirmed)","23044 (Work Truck: Popp, George)",,"Bayne, Brian",8/21/2026,7:00 AM,Washington,CW2586273-10609,South Strabane Township PA,"270 South College Road Washington Pa 15301 South Strabane Township, PA 15301",Manual Flagging,2,1,1,CW2586273-10609-1 (Status: Approved) (WO#: TC465980 1A7H3UU),No,,,0,,TC465980 1A7H3UU,
+Verizon,Verizon,0,2,0,"Smith, Christopher","Smith, Christopher [csmith29]  (Confirmed)
+Carson, Terrance [tcarson]  (Confirmed)","23154 (Work Truck: Smith, Christopher)",,"Denk, Steve",8/21/2026,7:00 AM,Washington,CW2586273-10616,Hanover Township PA,"Anderson Hozak Road & Murdocksville Road Hanover Township, PA 15026",Manual Flagging,2,1,1,CW2586273-10616-1 (Status: Approved) (WO#: TC465964 1A7AR3Y),No,,,0,,TC465964 1A7AR3Y,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Bennington, Eric","Bennington, Eric [ebennington]  (Confirmed)",,,"Hill, Mike",8/21/2026,7:00 AM,Washington,SPARE-8896,Washington PA,"15 Seminole Avenue Washington, PA 15301",Internal Labour,1,1,1,SPARE-8896-2 (Status: Approved) (Field Notes: Spare ),No,,,0,,,
+"W.D. Wright Contracting, Inc.",,0,1,0,"Dennis, Blaze","Dennis, Blaze [bdennis1]  (Confirmed)",,,"Hill, Mike",8/21/2026,7:00 AM,Washington,SPARE-8866,Washington PA,"15 Seminole Avenue Washington, PA 15301",Internal Labour,1,1,1,SPARE-8866-3 (Status: Approved) (Field Notes: Spare at office),No,,,0,,,
+"Thayer Power & Communication Line Construction Co., LLC",,2,1,0,"Whitacre, Joseph","Whitacre, Joseph [jwhitacre]  (Confirmed)","1621 (Work Truck: Whitacre, Joseph)","AFD-2189 GSF (GSF AFAD: Whitacre, Joseph)
+AFD-0197 GSF (GSF AFAD: Whitacre, Joseph)","Barlock, Jared",8/21/2026,8:00 AM,Washington,24104-180,Caldwell PA,"45571 Ada Avenue Caldwell, PA 43724",Guardian SmartFlagging,1,1,1,24104-180-2 (Status: Approved) (WO#: Dop0423301),Yes,"Whitacre, Joseph",,0,,Dop0423301,
+Verizon,Verizon,0,2,0,"Jackson, Tyree","Jackson, Tyree [tjackson21]  (Confirmed)
+Smith, Texloy [tsmith34]  (Confirmed)","1440 (Work Truck: Jackson, Tyree)",,"Schullek, Shawn",8/21/2026,8:00 AM,Washington,CW2586273-10700,Pittsburgh PA,"6440 Steubenville Pike Pittsburgh, PA 15205",Manual Flagging,2,1,1,"CW2586273-10700-1 (Status: Approved) (WO#: TC467134 - 1A8Q3YW) (Field Notes: 51 Bayer Rd
+ Pittsburgh
+ PA 15205 is the other address we worked at.. )",No,,,0,,TC467134 - 1A8Q3YW,
+Allegheny Contracting LLC,,0,3,0,"Marine, John","Marine, John [jmarine]  (Confirmed)
+Lewis, Bablu [blewis2]  (Confirmed)
+Kelly, Brandon [bkelly1]  (Confirmed)","23334 (Work Truck: Marine, John)
+1434 (Work Truck: Lewis, Bablu)",,"Curley, Bob",8/22/2026,7:00 AM,Washington,2513-35,Point Marion PA,"702 Sadler Street, Point Marion, PA 15474",Manual Flagging,3,1,1,2513-35-6 (Status: Approved) (WO#: R26311J13),No,,,1,"Employee: Kerns, David - Cancelled On: 8/22/2026 11:29:00 AM - Confirmed On: Not Confirmed - Type: No Show/No Contact - Notes: PER OM MIKE HILL",R26311J13,
+"Thayer Power & Communication Line Construction Co., LLC",,2,1,0,"Whitacre, Joseph","Whitacre, Joseph [jwhitacre]  (Confirmed)","1621 (Work Truck: Whitacre, Joseph)","AFD-2189 GSF (GSF AFAD: Whitacre, Joseph)
+AFD-0197 GSF (GSF AFAD: Whitacre, Joseph)","Barlock, Jared",8/22/2026,8:00 AM,Washington,24104-180,Caldwell OH,"Marietta  road Caldwell, OH 43724",Guardian SmartFlagging,1,1,1,24104-180-3 (Status: Approved) (WO#: Dop0423301),Yes,"Whitacre, Joseph",,0,,Dop0423301,
+Henkels & McCoy,,0,1,0,"Lewis, Bablu","Lewis, Bablu [blewis2]  (Confirmed)","1434 (Work Truck: Lewis, Bablu)",,"Cortarillo, Tony",8/23/2026,7:00 AM,Washington,HM2026-70,Tarentum  PA,"5720 Bull Creek Rd Tarentum , PA 15084",Manual Flagging,1,1,1,"HM2026-70-1 (Status: Approved) (WO#: Lardintown rd) (Field Notes: Good
+ worked with Directional Division
+ dispatch could not find me a crew member!)",No,,,0,,Lardintown rd,
+AEP,AEP,0,2,0,"Rinkes, Justin","Morris, Timothy [tmorris4]  (Confirmed)
+Rinkes, Justin [jrinkes1]  (Confirmed)","RT204 (Work Truck: Rinkes, Justin)",,"Dwyer, Jeremy",8/23/2026,12:15 PM,Washington,200009607-1379,Valley grove  WV,"700-898 Potomac hill Wheeling Service Center Valley grove , WV 26060",Manual Flagging,2,1,1,200009607-1379-1 (Status: Approved) (WO#: Bwp0000012),No,,,0,,Bwp0000012,
